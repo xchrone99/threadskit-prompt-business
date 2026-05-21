@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.db
+bot-output.log
+bot-error.log
+.DS_Store
+Thumbs.db
