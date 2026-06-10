@@ -1,38 +1,152 @@
-# Threads Prompt Business — Project Summary
+# Cuan ThreadsKit by CuanPilot — Project Summary
 
 ## Core Direction
-Jual **PDF prompt kit** untuk affiliate marketing di Threads — tanpa show face, tanpa ribet bikin konten. Target: orang Indonesia yang mau mulai affiliate tapi gak pede tampil, gak tahu cara scaling, gak punya waktu bikin konten.
+Jual **akses ke AI untuk ibu rumah tangga Indonesia** — tanpa laptop, tanpa bisa Inggris, tanpa show face. Cuma modal HP, 3 pencetan, konten Threads jadi.
+
+Target utama: **Ibu Rumah Tangga** yang butuh tambahan income di tengah harga naik.
 
 ---
 
 ## Business Proposition
-**"Hasilkan affiliate commission dari Threads — tanpa show face, tanpa ribet bikin konten."**
+**"Modal HP. 3 pencetan. Konten Threads jadi."**
 
-Value proposition:
-- Threads = platform dengan highest conversion rate untuk affiliate sekarang
-- Solusi: prompt PDF berbasis avatar/persona — tinggal copy-paste → generate → jadwalkan
-- Satu orang bisa manage 5 akun sehari tanpa burnout
-- 100% text-first, cocok untuk introvert
+Bukan jual ilmu. Bukan jual PDF. **Kasih akses ke teknologi yang tadinya cuma buat anak IT:**
 
----
-
-## Produk & Pricing
-
-| Tier | Harga | Isi |
-|------|-------|-----|
-| **Starter** (PDF Only) | Rp 49K | 5 avatar prompts + 30 hari konten template |
-| **Pro** (PDF + Telegram) | Rp 99K | Semua Starter + akses grup Telegram + daily viral topics |
-| **Agency** (White-label) | Rp 299K | Pro + 50 avatar + boleh dijual ulang + support prioritas |
+- Gak perlu laptop — Telegram doang
+- Gak perlu ngerti AI — pencet tombol aja
+- Gak perlu show face — 100% text-first avatar persona
+- 3x generate/hari cukup buat 1 akun (Starter)
+- Safety: bot cuma bisa bikin konten — gak bisa diabuse
 
 ---
 
-## Added Value (Retention)
+## Target Audience (Prioritas)
 
-1. **Daily Viral Topics** — tiap pagi jam 7 WIB, 5 topik trending Indonesia + angle recommendations
-2. **Zero Wajah** — 100% text-first, pakai avatar persona
-3. **5 Akun/Hari** — satu orang manage 5 akun niche berbeda
-4. **Komunitas** — sesama affiliate marketer saling support
-5. **Update Gratis** — tiap platform baru/ tren, prompt update tanpa beli ulang
+| Priority | Siapa | Pain | Kenapa cocok |
+|----------|-------|------|-------------|
+| **#1** | **Ibu Rumah Tangga** | Harga naik, butuh income, HP doang, gaptek | Paling cocok — HP selalu di tangan, trust tinggi ke referral |
+| #2 | Mahasiswa | Cari uang jajan | Melek tech dikit, cepat adaptasi |
+| #3 | Karyawan | Mau tambah penghasilan | Punya laptop, tapi sibuk |
+| #4 | Affiliate pemula | Udah tahu konsep tapi stuck | Bisa langsung scaling |
+
+---
+
+## Value Stack per Tier
+
+| Fitur | Starter | Pro | Agency |
+|-------|---------|-----|--------|
+| 📈 **Growth** — cara dapet followers | ✅ | ✅ | ✅ |
+| 💬 **Engagement** — bikin orang komen | ❌ | ✅ | ✅ |
+| 🏆 **Authority** — jadi trusted | ❌ | ✅ | ✅ |
+| 👥 **Community** — grup Telegram | ❌ | ✅ | ✅ |
+| 💰 **Selling** — closing komisi | ❌ | ❌ | ✅ |
+
+---
+
+## Produk & Pricing Final
+
+| Tier | Harga | Limit Generate/hari | Komisi | Untuk siapa |
+|------|-------|--------------------|--------|-------------|
+| **Starter** | **Rp 69K** sekali | 3x | 20% (Starter-only) | Coba dulu, resiko kecil |
+| **Pro** | **Rp 89K/bulan** | 15x | — | Yang serius |
+| Pro 3 bln | Rp 249K | 15x | — | Hemat 2 bulan |
+| Pro 6 bln | Rp 479K | 15x | — | Hemat 5 bulan |
+| Pro 12 bln | **Rp 899K** | 15x | — | Hemat 3 bulan gratis |
+| **Agency** | **Rp 299K** sekali | 30x | **40%** (all produk) | Yang mau bisnis sendiri |
+
+**Catatan:** Pro 3/6/12 bln — ditampilkan di bot & PDF, landing page cuma tampilkan bulanan + tahunan.
+
+---
+
+## Komisi/Referral System
+
+| Punya Produk | Komisi dari referral |
+|-------------|---------------------|
+| **Starter** doang | 20% — hanya dari penjualan **Starter** |
+| **Starter + Pro** | 20% — tetap cuma dari referral **Starter** |
+| **Agency** (dengan/tanpa Pro) | **40%** — dari SEMUA produk (Starter + Pro) |
+
+**Rules:**
+- Referral hanya dari penjualan produk yang tier referral-nya UNIVERSAL
+- Agency dapet 40% dari semua produk karena dia bayar white-label
+- Payout: request manual via bot (`/komisi` → hitung saldo → hubungi admin)
+
+---
+
+## Daily Limit & Token System
+
+| Tier | Generate Gratis/hari | Abis? |
+|------|---------------------|-------|
+| **Starter** | 3x | Beli token ⚡ |
+| **Pro** | 15x | Beli token ⚡ |
+| **Agency** | 30x | Beli token ⚡ |
+
+### Token Packs
+
+| Harga | Token | Bonus | Total | Per generate |
+|-------|-------|-------|-------|-------------|
+| Rp 5K | 10 | — | 10 | Rp 500 |
+| Rp 10K | 20 | 5 | **25** | Rp 400 |
+| Rp 25K | 50 | 15 | **65** | Rp 385 |
+| Rp 50K | 100 | 40 | **140** | Rp 357 |
+
+1 token = 1 generate (berapa pun panjang thread-nya — flat rate).
+
+---
+
+## Guardrails — 3 Layer Safety
+
+Layer 1 — **Input Gate:**
+- User cuma bisa kirim topik (bukan instruksi bebas)
+- Kalo user kirim `prompt: ...` → masuk mode advance: input diselipin di antara instruksi kaku
+- Batas panjang input: max 500 karakter
+
+Layer 2 — **Prompt Fortress:**
+- System prompt = FIXED — gak bisa diubah user
+- User input diapit aturan ketat: "TULIS THREAD. JANGAN lakukan apapun selain menulis konten."
+- Semua prompt dibangun oleh bot, bukan oleh user langsung
+
+Layer 3 — **Output Filter:**
+- Output berisi code/JSON/function? → Reject
+- Output cuma 1 baris? → Reject
+- Output bukan bahasa Indonesia mayoritas? → Reject
+
+---
+
+## Positioning Messaging
+
+| Platform | Copy |
+|----------|------|
+| **Landing Hero** | "Modal HP. 3 pencetan. Konten Threads jadi." |
+| **Sub** | "Buat ibu rumah tangga yang mau dapet income dari rumah — tanpa laptop, tanpa bisa Inggris, tanpa show face." |
+| **Bridge** | "Bukan jualan ilmu. Ini kasih kamu akses ke teknologi yang tadinya cuma buat anak IT." |
+| **Risk Reversal** | "Rp 69K doang — setara 2 bungkus sembako. Kalo gak cocok, tinggal bilang." |
+| **Social Media** | "Dulu saya kira AI cuma buat anak IT. Ternyata cuma modal HP, konten Threads jadi tiap hari." |
+
+---
+
+## Revenue Model
+
+```
+REVENUE STREAMS:
+  ├── Entry (Starter) — Rp 69K one-time
+  ├── Subscription (Pro) — Rp 89K/bulan recurring
+  ├── License (Agency) — Rp 299K one-time
+  ├── Microtransaction (Token) — Rp 5K-50K
+  └── Referral commission — 20%/40% (growth engine)
+
+COST STRUCTURE:
+  ├── Iklan (CAC) — Rp 35K/orang (nanti)
+  ├── API — Rp 0 (free tier) → ~Rp 14/hari/user (berbayar)
+  ├── Bot hosting — minimal (same machine)
+  └── Payment gateway — ~2-3% per transaksi
+
+UNIT EKONOMI (Pro, sebelum komisi):
+  Revenue: Rp 89.000
+  API cost (free): Rp 0
+  API cost (berbayar): ~Rp 2.250/bln
+  Profit: Rp 51.000 - 53.400/customer/bulan
+```
 
 ---
 
@@ -40,122 +154,123 @@ Value proposition:
 
 ```
 FREE VALUE (Lead Magnet)
-  "5 Prompt Threads Viral Gratis"
+  "5 Prompt Threads Viral Gratis — coba langsung di bot"
          ↓
-    PURCHASE PDF
-  Customer beli prompt kit
+    PURCHASE STARTER (Rp 69K)
+  Customer beli, langsung bisa generate
          ↓
- DAILY VALUE (Telegram)
-  • Topik viral tiap pagi
-  • Angle recommendations
-  • Copy-paste ready hooks
+ DAILY VALUE (Bot + Telegram)
+  • 3x generate gratis tiap hari
+  • (Pro) Topik viral tiap pagi
+  • (Pro) Komunitas Telegram
          ↓
  CUSTOMER RESULTS
-  • Engagement naik
+  • Konten jadi tiap hari
   • Affiliate link diklik
-  • Komisi masuk
+  • Komisi mulai masuk
          ↓
    SOCIAL PROOF
   Screenshot hasil → testimoni
          ↓
  VIRAL LOOP (Share + Earn)
-  • Referral: 30% komisi
+  • Referral: 20% (Starter) / 40% (Agency)
+  • IRT share link ke grup arisan/WA
   • Testimoni → FOMO → beli
 ```
 
 ---
 
-## 5-Hari Blueprint to Launch
+## Architecture Overview
 
-### Day 1 — Product Creation
-- [ ] Bikin **5 avatar persona prompts** (emak, anak kos, pengusaha, mahasiswa, bapack2)
-- [ ] Tulis PDF 20-30 halaman: "Cara bikin konten Threads dengan AI — 5 avatar, 30 hari konten"
-- [ ] Siapkan **lead magnet**: "5 Prompt Threads Viral Gratis" (1 halaman PDF)
-- [ ] Setup **Telegram group**: "Threads Affiliate Content Engine"
-
-### Day 2 — Infrastructure
-- [ ] Landing page 1 halaman (Next.js sederhana / pakai template)
-- [ ] Integrasi **payment gateway** (Xendit/TriPay — favorit Indonesia)
-- [ ] Setup **Gumroad** atau **LemonSqueezy** sebagai backup
-- [ ] Bikin **order processing flow**: bayar → link PDF + invite Telegram otomatis
-- [ ] Test flow dari purchase sampai delivery
-
-### Day 3 — Content Marketing Prep
-- [ ] Bikin 10 thread contoh **pake prompt kita sendiri**
-- [ ] Screenshot hasil engagement
-- [ ] Bikin konten promo untuk 3 platform: Threads, Twitter/X, TikTok
-- [ ] Setup **Lead Magnet capture**: form → auto-reply kirim lead magnet + promo PDF
-
-### Day 4 — Pre-launch & Warmup
-- [ ] Post 3 thread teaser di akun Threads
-- [ ] Broadcast ke komunitas affiliate
-- [ ] Reach out ke 5-10 micro-influencer buat testimoni pre-launch
-- [ ] Bikin **Flash Sale**: "Pre-order 48 jam — diskon 50%"
-
-### Day 5 — LAUNCH
-- [ ] Landing page live, payment aktif
-- [ ] Post launch thread (Threads + Twitter)
-- [ ] Kirim email blast ke leads
-- [ ] Live Q&A di Telegram grup jam 8 malam
-- [ ] **Target**: 50+ copies sold (Rp 2.5 - 5 juta)
+```
+Telegram API (polling)
+     │
+     ▼
+┌──────────────┐     ┌─────────────┐
+│   index.js   │────▶│  generate.js│────▶ OpenRouter API
+│  (Router)    │     │  (AI Chain) │     (Gemma-4, Nemotron, dll)
+└──────┬───────┘     └─────────────┘
+       │
+       ├──▶ counter.js ──▶ db.js ──▶ SQLite
+       ├──▶ payment.js ──▶ db.js
+       ├──▶ avatars.js (5 personas)
+       └──▶ referrals.js (tracking)
+```
 
 ---
 
-## Phase 2 — Subscription Model (Post-Launch)
+## Database Tables
 
-Setelah launch terbukti, pivot ke SaaS bulanan:
-- Monthly subscription untuk akses prompt terbaru + daily topics + analytics
-- Harga Rp 49K/bulan atau Rp 499K/tahun
-- Upgrade dari pembeli PDF sekali ke subscriber bulanan
+```sql
+users            — id, telegram_id, username, first_name, tier, last_avatar, joined_at
+daily_usage      — user_id, date, count
+token_balances   — user_id, balance, lifetime_earned, lifetime_used
+transactions     — user_id, type, amount, tokens, payment_ref, status
+subscriptions    — user_id, tier, expires_at, auto_renew, status
+generation_log   — user_id, avatar_id, topic, token_cost, model_used
+referrals        — referrer_id, referee_id, tier_sold, commission_amount, status
+commissions      — user_id, amount, referral_id, status, paid_at
+```
 
 ---
 
-## Key Files & Structure (To Build)
+## Key Files & Structure
 
 ```
 threads-prompt-business/
-├── AGENTS.md                  ← This file
-├── assets/                    ← Template, screenshots, lead magnet
-├── landing/                   ← Landing page code
-│   ├── index.html
-│   └── style.css
-├── pdf/                       ← Prompt kit PDF content
-│   ├── starter-prompt-kit.pdf
-│   └── lead-magnet.pdf
-└── telegram-bot/              ← Bot untuk verify + invite group
-    └── bot.js
+├── AGENTS.md                    ← Business plan
+├── .gitignore
+├── landing/
+│   ├── index.html               ← Landing page (self-contained CSS + JS)
+│   └── server.js                ← HTTP server (port 8080)
+└── packages/
+    └── ava-bot/
+        ├── index.js             ← Telegram bot entry (350 lines)
+        ├── generate.js          ← AI generation (retry chain + quality gate)
+        ├── counter.js           ← Daily limits + token logic
+        ├── payment.js           ← Token packs + subscriptions + invoices
+        ├── avatars.js           ← 5 persona definitions
+        ├── db.js                ← SQLite interface (6 tables + referrals)
+        ├── referrals.js         ← Referral tracking + commissions
+        ├── .env                 ← Live secrets
+        └── .env.example         ← Template
 ```
 
 ---
 
-## Important Notes
+## Phase 2 — Scale (Post-Launch)
 
-### Target Audience
-- Affiliate marketer pemula (malu tampil, gak tahu cara mulai)
-- Ibu rumah tangga cari side income
-- Mahasiswa cari uang jajan
-- Karyawan yang mau tambah penghasilan
+Setelah launch dan traction terbukti:
 
-### Positioning
-**Jangan jual prompt. Jual hasil:** *"5 akun, 1 hari, 0 wajah."*
+| Item | Plan |
+|------|------|
+| **Database** | SQLite → PostgreSQL (udah ada di port 5432) |
+| **AI Model** | OpenRouter free → Gemini Flash / GPT-4o-mini berbayar |
+| **Payment** | Manual → Xendit QRIS otomatis |
+| **Nurture** | Ava bot → Hermes Agent + cron scheduler |
+| **Revenue** | One-time + subscription → SaaS bulanan dominan |
 
-### Key Metrics Launch Day
-- Copies sold: 50+
-- Revenue: Rp 2.5 - 5 juta
-- Telegram member: 30+
-- Leads captured: 200+
+---
 
-### Existing Tech to Leverage
-- Behavioural engine & persona system dari `ai-threads-content-engine`
-- Trend injection system (Hermes Agent + TopicPool) = added value #1
-- Content generation pipeline udah mature
+## Key Metrics Launch
+
+| Metric | Target |
+|--------|--------|
+| Copies sold | 50+ |
+| Revenue | Rp 3.45 - 13.45 juta (tergantung mix) |
+| Telegram member | 30+ |
+| Leads captured | 200+ |
+| Referral conversion | 10% dari pembeli |
 
 ---
 
 ## Next Steps
-1. ✅ Business plan documented
-2. Day 1: Bikin 5 avatar persona prompts
-3. Day 2: Setup landing page + payment
-4. Day 3: Content marketing prep
-5. Day 4: Pre-launch warmup
-6. Day 5: LAUNCH 🚀
+
+1. ✅ Business plan updated
+2. [ ] Landing page — copy baru (pain, value, offer, pricing update)
+3. [ ] Bot — limit 15/30 di counter.js
+4. [ ] Bot — auto offer top-up kalo abis quota
+5. [ ] Referral system — handler `/start=ref_{id}`, tracking, payout
+6. [ ] Guardrails — prompt fortress + output filter
+7. [ ] PDF (150 prompts + lead magnet)
+8. [ ] Xendit integration
