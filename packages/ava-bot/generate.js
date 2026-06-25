@@ -7,6 +7,39 @@ const FREE_MODEL_CHAIN = [
   { model: 'openrouter/free', retries: 1, delay: 1000 },
 ];
 
+const OBJECTIVES = {
+  engagement: {
+    label: 'Engagement',
+    emoji: '🔥',
+    desc: 'Bikin orang komen & diskusi',
+    prompt: 'BUAT THREAD YANG ENGAGING. Akhiri tiap post dengan pertanyaan atau ajakan diskusi. Hook bikin orang pengen komen. Target: banyak reply dan diskusi di kolom komentar.',
+  },
+  reach: {
+    label: 'Reach',
+    emoji: '🌊',
+    desc: 'Banyak dilihat & di-share',
+    prompt: 'BUAT THREAD YANG VIRAL. Hook super kuat di post pertama. Format mudah dicerna dan di-share. Topik yang relate ke banyak orang. Target: dilihat dan di-share sebanyak mungkin.',
+  },
+  community: {
+    label: 'Community',
+    emoji: '👥',
+    desc: 'Bangun pengikut setia',
+    prompt: 'BUAT THREAD YANG MEMBANGUN KONEKSI. Cerita personal yang relate. Bahasa hangat dan dekat. Bikin pembaca merasa "ini gue banget". Target: pengikut merasa terhubung dan balik lagi.',
+  },
+  authority: {
+    label: 'Authority',
+    emoji: '🏆',
+    desc: 'Jadi trusted expert',
+    prompt: 'BUAT THREAD YANG MEYAKINKAN. Data, pengalaman, insight. Tone percaya diri tapi gak menggurui. Tampilkan keahlian tanpa pamer. Target: pembaca percaya dan nonton sampe akhir.',
+  },
+  selling: {
+    label: 'Selling',
+    emoji: '💰',
+    desc: 'Soft selling via affiliate',
+    prompt: 'BUAT THREAD SOFT SELLING. Cerita natural yang mengarah ke produk/rekomendasi. Jangan kaya sales. Sertakan ajakan klik link/CToA yang halus. Target: affiliate link diklik tanpa kelihatan jualan.',
+  },
+};
+
 let openai;
 
 function getClient() {
@@ -15,7 +48,7 @@ function getClient() {
       baseURL: process.env.OPENROUTER_BASE_URL || 'https://openrouter.ai/api/v1',
       apiKey: process.env.OPENROUTER_API_KEY,
       defaultHeaders: {
-        'HTTP-Referer': 'https://cuanpilot.com',
+        'HTTP-Referer': 'https://cuanaffiliate.online',
         'X-Title': 'Cuan ThreadsKit',
       },
     });
@@ -23,13 +56,34 @@ function getClient() {
   return openai;
 }
 
-function buildPrompt(avatar, topic, isPro = false) {
+function buildPrompt(avatar, topic, isPro = false, objective = null, customParams = {}) {
   const topicLine = topic && topic.trim()
     ? `\n\nTopik hari ini:\n${topic.trim()}`
     : '\n\n(Pilih topik yang relevan dengan niche dan trending saat ini)';
 
   const formatRule = avatar.postRules || '';
-  const lengthGuide = isPro ? '(sesuai preferensi)' : '(3-4 post)';
+  const lengthGuide = !isPro ? '(3-4 post)' : '';
+
+  let objectiveSection = '';
+  if (isPro && objective && OBJECTIVES[objective]) {
+    objectiveSection = `\n\nOBJEKTIF KONTEN: ${OBJECTIVES[objective].prompt}`;
+  }
+
+  let customSection = '';
+  if (isPro && customParams) {
+    const parts = [];
+    if (customParams.audience) parts.push(`Target audiens: ${customParams.audience}`);
+    if (customParams.mood) parts.push(`Mood/nada: ${customParams.mood}`);
+    if (customParams.length) parts.push(`Jumlah post: ${customParams.length}`);
+    if (customParams.format === 'curiosity') {
+      parts.push(`FORMAT STRUKTUR:
+• Post 1 — Curiosity hook (judul bikin penasaran)
+• Post 2 — Subtitle penjelas
+• Post 3-4 — Build tension (1-2 kalimat)
+• Post terakhir — Akhiri dengan pertanyaan (siapa, dimana, kapan) atau "INI CERITANYA"`);
+    }
+    if (parts.length > 0) customSection = `\n\n${parts.join('\n')}`;
+  }
 
   return `${avatar.systemPrompt}
 
@@ -46,12 +100,12 @@ Pastikan:
 • Thread flow natural — tiap post nyambung
 • Akhiri dengan CTA yang natural
 • JANGAN pake hashtag
-• JANGAN pake markdown berlebihan`;
+• JANGAN pake markdown berlebihan${objectiveSection}${customSection}`;
 }
 
 function cleanReasoning(text) {
   if (!text) return '';
-  const thinkEnd = text.indexOf('<｜end▁of▁thinking｜>\n');
+  const thinkEnd = text.indexOf(' response\n');
   if (thinkEnd !== -1) return text.slice(thinkEnd + 10).trim();
   const screeningStart = text.search(/\*\*(Tips|Post|Thread|Berikut)/);
   if (screeningStart !== -1) return text.slice(screeningStart).trim();
@@ -105,12 +159,16 @@ async function tryModel(client, model, messages) {
   return { text, posts, model, usage: completion.usage };
 }
 
-async function generateContent(avatar, topic, isPro = false) {
-  const prompt = buildPrompt(avatar, topic, isPro);
+async function generateContent(avatar, topic, isPro = false, objective = null, customParams = {}) {
+  const prompt = buildPrompt(avatar, topic, isPro, objective, customParams);
   const client = getClient();
 
+  const sysMsg = isPro && objective
+    ? `Kamu adalah asisten penulis konten Threads. Tugasmu menulis thread Indonesia sesuai objektif "${OBJECTIVES[objective].label}" — ${OBJECTIVES[objective].desc}. Gunakan bahasa Indonesia yang natural sesuai persona yang diberikan.`
+    : 'Kamu adalah asisten penulis konten Threads. Tugasmu menulis thread Indonesia yang engaging, natural, dan siap diposting. Gunakan bahasa Indonesia yang natural sesuai persona yang diberikan.';
+
   const messages = [
-    { role: 'system', content: 'Kamu adalah asisten penulis konten Threads. Tugasmu menulis thread Indonesia yang engaging, natural, dan siap diposting. Gunakan bahasa Indonesia yang natural sesuai persona yang diberikan.' },
+    { role: 'system', content: sysMsg },
     { role: 'user', content: prompt },
   ];
 
@@ -144,4 +202,4 @@ async function generateContent(avatar, topic, isPro = false) {
     : 'Gagal generate konten. Coba lagi.');
 }
 
-module.exports = { generateContent, buildPrompt, parseResponse };
+module.exports = { generateContent, buildPrompt, parseResponse, OBJECTIVES };
