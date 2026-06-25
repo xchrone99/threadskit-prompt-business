@@ -88,20 +88,6 @@
         /* ============================================
            ANNOUNCEMENT BAR
         ============================================ */
-        .announcement-bar {
-            background: var(--black);
-            color: var(--white);
-            text-align: center;
-            padding: 14px 24px;
-            font-size: 0.95rem;
-            font-weight: 600;
-            letter-spacing: 0.01em;
-        }
-
-        .announcement-bar span {
-            color: var(--highlight);
-        }
-
         /* ============================================
            NAVBAR
         ============================================ */
@@ -1153,12 +1139,7 @@
 </head>
 <body>
 
-    <!-- ANNOUNCEMENT BAR -->
-    <div class="announcement-bar">
-        🔥 Flash Sale 48 Jam — 
-        <span>Hemat 50% untuk 50 pembeli pertama.</span> 
-        Sisa: <span id="countdown">47:23:11</span>
-    </div>
+
 
     <!-- NAVBAR -->
     <nav>
@@ -1808,37 +1789,7 @@
             }
         });
 
-        // ============================================
-        // COUNTDOWN TIMER
-        // ============================================
-        function updateCountdown() {
-            // Set target: 48 hours from first visit
-            // In production: use server-side deadline
-            const storageKey = 'threadskit_deadline';
-            let deadline = localStorage.getItem(storageKey);
-            
-            if (!deadline) {
-                deadline = Date.now() + (48 * 60 * 60 * 1000);
-                localStorage.setItem(storageKey, deadline);
-            }
-            
-            const remaining = parseInt(deadline) - Date.now();
-            
-            if (remaining <= 0) {
-                document.getElementById('countdown').textContent = 'HABIS';
-                return;
-            }
-            
-            const h = Math.floor(remaining / 3600000);
-            const m = Math.floor((remaining % 3600000) / 60000);
-            const s = Math.floor((remaining % 60000) / 1000);
-            
-            document.getElementById('countdown').textContent = 
-                `${String(h).padStart(2,'0')}:${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
-        }
-        
-        updateCountdown();
-        setInterval(updateCountdown, 1000);
+
 
         // ============================================
         // SMOOTH SCROLL
