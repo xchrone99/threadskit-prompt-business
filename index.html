@@ -88,6 +88,29 @@
         /* ============================================
            ANNOUNCEMENT BAR
         ============================================ */
+        .announcement-bar {
+            background: var(--black);
+            color: var(--white);
+            text-align: center;
+            padding: 14px 24px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            letter-spacing: 0.01em;
+        }
+
+        .announcement-bar span {
+            color: var(--highlight);
+        }
+
+        .announcement-bar .stock-counter {
+            display: inline-block;
+            background: rgba(255,255,255,0.1);
+            padding: 2px 10px;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            margin-left: 4px;
+        }
+
         /* ============================================
            NAVBAR
         ============================================ */
@@ -1139,7 +1162,11 @@
 </head>
 <body>
 
-
+    <!-- ANNOUNCEMENT BAR -->
+    <div class="announcement-bar">
+        🔥 Promo Terbatas — Hemat 50% untuk 50 pembeli pertama.
+        <span class="stock-counter">Sisa 4 dari 50</span>
+    </div>
 
     <!-- NAVBAR -->
     <nav>
