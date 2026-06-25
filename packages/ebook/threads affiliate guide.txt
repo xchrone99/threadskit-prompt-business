@@ -1,0 +1,2062 @@
+Threads Affiliate System Tanpa Show
+Face
+Affiliate dari Threads. Tanpa Show Face. Tanpa Ribet.
+[CuanAffiliate]
+SELAMAT DATANG & CARA PAKAI PDF INI
+Hai, pejuang cuan! Kalau kamu lagi baca PDF ini, kemungkinan besar kamu pernah
+merasakan frustrasi yang sama dengan banyak orang: ingin punya penghasilan tambahan
+dari internet, tapi bingung harus mulai dari mana. Mungkin kamu sudah coba berbagai
+cara, tapi hasilnya nihil. Atau mungkin kamu takut untuk tampil di depan kamera, merasa
+tidak punya bakat bikin konten, atau terlalu sibuk dengan pekerjaan/kuliah/urusan rumah
+tangga.
+Tenang, kamu tidak sendirian. Dunia affiliate marketing memang terlihat menjanjikan, tapi
+seringkali penuh dengan janji manis yang tidak realistis. Banyak yang bilang harus jadi
+influencer, harus punya alat mahal, atau harus punya skill editing dewa. Padahal, ada cara
+yang lebih cerdas, lebih efisien, dan yang paling penting: tanpa harus show face.
+Di PDF ini, kamu akan menemukan sebuah sistem yang sudah terbukti bekerja untuk
+banyak orang. Ini bukan janji kaya mendadak, tapi ini adalah peta jalan yang akan
+membimbingmu langkah demi langkah untuk membangun mesin penghasil cuan dari
+Threads, bahkan saat kamu tidur. Kamu akan belajar bagaimana memanfaatkan kekuatan
+AI untuk membuat konten yang menarik, membangun persona yang relatable, dan
+menyisipkan link affiliate secara natural.
+Apa yang akan kamu dapatkan dari PDF ini?
+Strategi Lengkap: Memahami kenapa Threads adalah tambang emas baru untuk
+affiliate marketing.
+5 Avatar Siap Pakai: Persona lengkap dengan prompt AI yang bisa langsung kamu
+gunakan.
+30 Prompt Per Avatar: Total 150 prompt yang sudah teruji untuk berbagai jenis
+konten.
+Contoh Output Nyata: Lihat langsung bagaimana prompt bekerja dan
+menghasilkan konten berkualitas.
+Content Calendar 30 Hari: Rencana aksi harian agar kamu tidak bingung harus
+posting apa.
+Panduan Teknis: Cara setup akun, memilih produk, menyisipkan link, dan melacak
+performa.
+Cara Pakai PDF Ini (Step by Step):
+1. Pilih Avatar: Di bagian Avatar, pilih satu atau dua persona yang paling kamu suka
+atau paling relevan dengan niche produk yang ingin kamu promosikan.
+2. Copy Prompt: Salin prompt yang sudah disediakan di bawah setiap avatar.
+3. Paste ke AI: Buka ChatGPT, Gemini, atau Claude (versi gratis sudah cukup), lalu
+paste prompt tersebut.
+4. Edit Seperlunya: AI akan memberikan draf konten. Jangan langsung posting!
+Sesuaikan bahasanya agar lebih natural, tambahkan sentuhan personal, dan
+pastikan sesuai dengan tone avatar kamu.
+5. Jadwalkan/Posting: Setelah konten siap, kamu bisa langsung posting di Threads
+atau menjadwalkannya untuk beberapa hari ke depan.
+Tools yang Kamu Butuhkan (Semuanya Gratis!):
+Akun Threads: Platform utama kita. Gratis dan mudah dibuat.
+AI Apapun: ChatGPT, Gemini, atau Claude. Versi gratis sudah sangat powerful
+untuk kebutuhan ini.
+Akun Affiliate: Tokopedia Affiliate, Shopee Affiliate, Traveloka Affiliate, atau program
+affiliate lainnya. Gratis daftar dan banyak pilihan produk.
+Aplikasi Jadwal Posting (Opsional): Jika kamu ingin lebih terorganisir, bisa pakai
+aplikasi pihak ketiga (banyak yang gratis juga).
+Ingat, ini adalah sistem. Butuh konsistensi dan sedikit kesabaran. Tapi dengan panduan
+ini, kamu sudah selangkah lebih maju dari 90% orang yang masih bingung mau mulai dari
+mana. Mari kita mulai perjalanan cuanmu!
+MENGAPA THREADS? MENGAPA SEKARANG?
+Di tengah hiruk pikuk media sosial yang didominasi video pendek dan konten visual yang
+memukau, mungkin kamu bertanya-tanya, “Kenapa harus Threads? Bukannya sudah
+banyak platform lain?” Jawabannya sederhana: Threads adalah blue ocean untuk
+affiliate marketing berbasis teks, dan window of opportunity ini tidak akan bertahan
+selamanya.
+1. Kenapa Threads adalah Platform Terbaik untuk Affiliate Sekarang?
+Algoritma Masih Ramah untuk Akun Baru: Tidak seperti platform lain yang sudah
+sangat jenuh, algoritma Threads masih sangat terbuka untuk mendistribusikan
+konten dari akun-akun baru. Ini berarti, kamu tidak perlu punya ribuan followers
+untuk kontenmu dilihat banyak orang. Cukup dengan konten yang relevan dan
+menarik, jangkauan organikmu bisa sangat luas.
+Text-First = Tidak Perlu Video: Ini adalah kabar baik bagi kamu yang tidak pede
+tampil di kamera atau tidak punya skill editing video. Di Threads, kekuatan utama
+ada pada tulisan. Kemampuanmu merangkai kata menjadi cerita yang relatable jauh
+lebih berharga daripada kemampuanmu membuat transisi video yang mulus.
+Engagement Organik Masih Tinggi: Pengguna Threads cenderung lebih aktif
+dalam berinteraksi melalui teks. Mereka suka membaca, membalas, dan
+membagikan thread yang memicu pemikiran atau relate dengan pengalaman
+mereka. Ini adalah lingkungan yang sempurna untuk membangun koneksi dan
+kepercayaan dengan audiensmu.
+Belum Terlalu Crowded untuk Affiliate: Bandingkan dengan TikTok atau Instagram
+yang sudah dipenuhi oleh ribuan affiliate marketer. Di Threads, kompetisinya masih
+relatif rendah. Ini memberimu kesempatan emas untuk membangun otoritas dan
+pangsa pasar sebelum platform ini menjadi terlalu jenuh.
+2. Kenapa AI + Avatar = Formula yang Works?
+Tidak Perlu Tampil: Dengan menggunakan persona atau avatar, kamu bisa
+membangun brand tanpa harus menunjukkan wajahmu. Ini ideal untuk introvert,
+busy workers, atau siapa saja yang ingin menjaga privasi.
+Bisa Scale Banyak Akun: Bayangkan jika kamu harus membuat konten video untuk
+5 akun berbeda setiap hari. Mustahil! Tapi dengan AI dan avatar, kamu bisa
+mengelola beberapa akun sekaligus, masing-masing dengan niche dan persona
+yang berbeda, tanpa burnout.
+Konsisten Tanpa Burnout: AI adalah mesin ide dan penulis draf yang tidak pernah
+lelah. Kamu bisa menghasilkan puluhan ide konten dalam hitungan menit, lalu AI
+akan membantu merangkainya menjadi tulisan. Tugasmu hanya menyempurnakan
+dan menjadwalkannya.
+Natural Sounding Kalau Prompt Benar: Rahasianya ada pada prompt. Dengan
+prompt yang tepat (yang akan kamu dapatkan di PDF ini), AI bisa menghasilkan
+tulisan yang terdengar sangat natural, seolah-olah ditulis oleh manusia asli, bukan
+robot.
+3. Window of Opportunity: Jangan Sampai Ketinggalan!
+Setiap platform media sosial punya “masa keemasan” di mana jangkauan organik masih
+sangat tinggi dan kompetisi belum terlalu ketat. Threads sedang berada di fase itu. Ini
+adalah timing yang tepat untuk masuk dan membangun fondasi affiliate marketingmu.
+Jangan menunggu sampai platform ini terlalu ramai dan algoritmanya menjadi lebih ketat.
+Kesempatan tidak datang dua kali.
+Ini bukan tentang fear mongering, tapi tentang melihat peluang. Dengan sistem yang
+tepat, kamu bisa memanfaatkan momentum ini untuk membangun penghasilan pasif yang
+signifikan. Jadi, tunggu apa lagi? Mari kita manfaatkan Threads sekarang!
+Contoh Hook Threads yang Bisa Langsung Kamu Copy:
+“Jujur, nyesel banget baru tau cara ini buat dapetin cuan dari Threads tanpa harus
+nunjukkin muka. Kalian wajib coba!”
+“Stop buang-buang waktu scroll Threads tanpa hasil. Ini cara gue bikin Threads jadi
+mesin uang otomatis.”
+“Buat kalian yang introvert tapi pengen punya penghasilan tambahan, sistem ini
+cocok banget buat kalian.”
+CARA KERJA SISTEM INI
+Sistem ini dirancang agar semudah mungkin untuk kamu ikuti, bahkan jika kamu belum
+pernah mencoba affiliate marketing sebelumnya. Ikuti 6 langkah sederhana ini, dan kamu
+akan siap meluncurkan mesin cuanmu di Threads.
+STEP 1: Pilih Avatar
+Apa itu Avatar Persona? Avatar persona adalah “karakter” fiktif yang akan kamu gunakan
+untuk mewakili akun Threads-mu. Ini bisa berupa seorang ibu rumah tangga, mahasiswa,
+karyawan, atau siapa pun yang relevan dengan target audiensmu. Kamu akan menulis
+konten seolah-olah kamu adalah avatar tersebut.
+Kenapa Pakai Persona, Bukan Jadi Diri Sendiri?
+Privasi: Kamu tidak perlu menunjukkan wajah atau identitas aslimu.
+Fokus Niche: Memungkinkanmu untuk fokus pada niche tertentu tanpa harus
+mencampur aduk semua minatmu dalam satu akun.
+Skalabilitas: Kamu bisa mengelola beberapa akun dengan persona berbeda,
+masing-masing menargetkan audiens yang berbeda, sehingga potensi
+penghasilanmu lebih besar.
+Koneksi Emosional: Audiens lebih mudah terhubung dengan persona yang
+relatable dan konsisten.
+Tips Memilih Avatar yang Cocok dengan Niche Affiliate:
+Pikirkan produk affiliate apa yang ingin kamu promosikan. Siapa target audiens ideal
+untuk produk tersebut?
+Pilih persona yang memiliki pain point dan motivasi yang sama dengan target
+audiensmu.
+Pastikan kamu merasa nyaman “memerankan” persona tersebut. Ini akan membuat
+tulisanmu lebih natural.
+STEP 2: Setup Akun Threads
+Setelah memilih avatar, saatnya menyiapkan “rumah” untuk avatar tersebut di Threads.
+Nama Akun yang Ideal untuk Avatar:
+Pilih nama yang mencerminkan persona dan niche-mu. Hindari nama yang
+terlalu generik atau tidak relevan.
+Contoh: @BundaHematCuan, @MahasiswaProduktif, @KaryawanAntiBurnout.
+Bio Formula:
+Bio adalah kesempatan pertamamu untuk menarik perhatian. Gunakan formula
+sederhana ini: 
+[Siapa kamu (sebagai avatar)] + [Untuk siapa kamu
+menulis] + [Value yang kamu berikan]
+Contoh: “Bunda Rini | Sharing tips hemat & racun Shopee buat busui & ibu
+rumah tangga 
+�
+�✨
+”
+Profile Picture: Pakai AI Generated Avatar:
+Karena kita tanpa show face, gunakan gambar profil yang dibuat oleh AI. Ini
+akan membuat akunmu terlihat profesional dan unik.
+Tools Gratis:
+This Person Does Not Exist: Menghasilkan wajah manusia yang
+realistis secara acak.
+Adobe Firefly: AI generatif untuk membuat berbagai jenis gambar,
+termasuk avatar.
+Canva AI: Fitur AI di Canva yang bisa membantumu membuat elemen
+visual untuk profil.
+STEP 3: Pilih Produk Affiliate
+Memilih produk yang tepat adalah kunci. Jangan asal pilih, pastikan produk tersebut
+relevan dengan avatarmu dan punya potensi konversi yang tinggi.
+Rekomendasi Program Affiliate untuk Pemula Indonesia:
+Tokopedia Affiliate: Pilihan produk sangat banyak, komisi bervariasi, proses
+pendaftaran mudah.
+Shopee Affiliate: Mirip Tokopedia, banyak pilihan produk, sering ada promo
+menarik.
+Traveloka Affiliate: Cocok untuk niche travel, komisi lumayan besar untuk
+booking hotel/tiket.
+Fintech (OVO, GoPay, DANA, SeaBank): Promosikan aplikasi keuangan,
+biasanya ada bonus pendaftaran atau cashback.
+Lazada Affiliate: Alternatif lain marketplace dengan banyak produk.
+Kriteria Memilih Produk yang Mudah Dijual:
+Relevan dengan Avatar: Pastikan produk sesuai dengan persona dan audiens
+avatarmu.
+Masalah yang Dipecahkan: Pilih produk yang benar-benar memecahkan
+masalah atau memenuhi kebutuhan audiens.
+Harga Terjangkau: Untuk pemula, fokus pada produk dengan harga
+menengah ke bawah agar lebih mudah konversi.
+Reputasi Baik: Pilih produk dari brand yang sudah dikenal dan punya reputasi
+bagus.
+Cara Dapat Link Affiliate:
+Setelah mendaftar dan diterima di program affiliate, kamu akan mendapatkan
+akses ke dashboard. Di sana, kamu bisa mencari produk dan membuat link
+affiliate unikmu.
+Setiap platform punya cara yang sedikit berbeda, tapi intinya sama: cari
+produk, klik “buat link affiliate”, lalu salin linknya.
+STEP 4: Generate Konten
+Ini adalah inti dari sistem CuanAffiliate. Kamu akan menggunakan AI untuk membuat draf
+konten yang menarik.
+Cara Copy-Paste Prompt ke AI:
+Buka AI pilihanmu (ChatGPT, Gemini, Claude).
+Salin prompt yang sudah kamu pilih dari bagian Avatar di PDF ini.
+Paste prompt tersebut ke kolom chat AI dan tekan Enter.
+Cara Edit Output Supaya Natural:
+AI akan memberikan draf. Baca dengan seksama.
+Personalisasi: Tambahkan sentuhan personal, pengalaman pribadi (sesuai
+persona), atau opini yang relevan.
+Gaya Bahasa: Sesuaikan dengan gaya bahasa avatarmu. Hindari kalimat
+yang terlalu kaku atau formal.
+Hindari Pengulangan: Pastikan tidak ada kalimat atau ide yang diulang-ulang.
+Hal yang Harus Selalu Dicek Sebelum Posting:
+Relevansi: Apakah konten ini relevan dengan avatarmu dan audiensmu?
+Kualitas: Apakah bahasanya menarik dan mudah dipahami?
+Call to Action (CTA): Apakah ada CTA yang jelas dan tidak memaksa?
+Link Affiliate: Pastikan link affiliate sudah disisipkan dengan benar dan
+berfungsi.
+STEP 5: Sisipkan Affiliate Link
+Menyisipkan link affiliate adalah seni. Kamu tidak ingin terlihat seperti spammer, tapi kamu
+juga ingin orang mengklik linkmu.
+Best Practice Cara Sisipkan Link di Threads:
+Secara Natural: Sisipkan link sebagai bagian dari cerita atau rekomendasi,
+bukan sebagai iklan terpisah.
+Di Akhir Thread: Biasanya setelah kamu memberikan value atau solusi.
+Gunakan Kalimat Pancingan: “Linknya aku taro di bio ya,” atau “Cek link di
+profil aku untuk detailnya.”
+Cara Bikin CTA yang Tidak Terkesan Memaksa:
+Fokus pada manfaat yang akan didapatkan pembaca jika mengklik link.
+Gunakan bahasa yang ramah dan persuasif, bukan imperatif.
+Contoh: “Kalau kamu juga butuh [Produk], linknya ada di bio ya!”
+Contoh CTA yang Convert:
+“Yang mau samaan [Produk], langsung cek link di bio aku ya!”
+“Mumpung lagi diskon, buruan klik link di bio sebelum kehabisan!”
+“Detail [Produk] dan harganya bisa langsung cek di link bio aku ya.”
+STEP 6: Jadwalkan
+Konsistensi adalah kunci. Dengan menjadwalkan postingan, kamu bisa memastikan
+akunmu tetap aktif tanpa harus standby di depan HP setiap saat.
+Tools Jadwal Gratis yang Bisa Dipakai:
+Meta Business Suite: Jika kamu menghubungkan akun Threads dengan
+Facebook/Instagram, kamu bisa menjadwalkan postingan dari sini.
+Aplikasi Pihak Ketiga: Banyak aplikasi gratis yang menawarkan fitur
+penjadwalan untuk Threads.
+Frekuensi Posting Ideal:
+Untuk Threads, 1-3 kali posting per hari adalah frekuensi yang baik untuk
+menjaga engagement tanpa terlihat spammy.
+Waktu Terbaik Posting untuk Audience Indonesia:
+Pagi (07.00-09.00 WIB): Saat orang berangkat kerja/sekolah atau sarapan.
+Siang (12.00-14.00 WIB): Jam istirahat makan siang.
+Malam (19.00-21.00 WIB): Saat orang bersantai setelah beraktivitas.
+Tips: Eksperimen dengan waktu posting untuk menemukan yang paling efektif
+untuk audiensmu.
+AVATAR 1 — EMAK CERDAS
+PROFIL AVATAR:
+Nama karakter: Bunda Lia
+Backstory: Ibu rumah tangga dengan satu anak balita, suaminya bekerja di luar
+kota. Bunda Lia selalu mencari cara cerdas untuk mengelola keuangan rumah
+tangga, mencari penghasilan tambahan dari rumah, dan tetap bisa memberikan
+yang terbaik untuk keluarganya tanpa harus mengorbankan waktu bersama anak.
+Usia: 30 tahun
+Situasi: Ibu rumah tangga yang aktif di komunitas online, suka berbagi tips, dan
+selalu mencari solusi praktis untuk masalah sehari-hari.
+Pain point yang dia rasakan: Merasa pengeluaran rumah tangga semakin besar,
+ingin punya penghasilan sendiri tapi tidak punya banyak waktu, takut ketinggalan
+tren parenting dan lifestyle, khawatir masa depan finansial keluarga.
+Impian dan motivasinya: Ingin mandiri secara finansial, bisa menyekolahkan anak
+di tempat terbaik, punya dana darurat yang cukup, dan bisa liburan keluarga tanpa
+pusing mikirin biaya.
+Cara bicara: Hangat, ramah, sedikit cerewet tapi informatif, menggunakan bahasa
+sehari-hari ibu-ibu (misal: “bund”, “moms”, “paksu”).
+Apa yang TIDAK pernah dia katakan: Jargon bisnis yang terlalu formal, kata-kata
+kasar, atau mengeluh tanpa solusi.
+Emoji yang sering dipakai: 
+�
+�✨💖💰👶
+NICHE AFFILIATE YANG COCOK:
+1. Produk Rumah Tangga & Dapur: (Contoh: Panci anti lengket, alat masak
+multifungsi, pembersih rumah tangga organik) Alasan: Sangat relevan dengan
+keseharian ibu rumah tangga yang ingin mempermudah pekerjaan rumah.
+2. Parenting & Anak: (Contoh: Mainan edukasi, buku cerita anak, perlengkapan bayi,
+popok diskon) Alasan: Kebutuhan primer bagi ibu dengan anak balita, selalu dicari
+oleh para ibu.
+3. Fashion & Kecantikan Ibu: (Contoh: Baju daster kekinian, skincare aman untuk
+busui, hijab instan) Alasan: Ibu tetap ingin tampil menarik dan merawat diri meski
+sibuk, mencari produk yang praktis dan terjangkau.
+4. Keuangan & Investasi Mikro: (Contoh: Aplikasi pencatat keuangan, reksa dana
+syariah, tabungan emas) Alasan: Motivasi utama Bunda Lia adalah mengelola
+keuangan dan mencari penghasilan tambahan.
+5. Makanan & Minuman Sehat: (Contoh: Snack sehat anak, bumbu instan organik,
+kopi diet) Alasan: Perhatian terhadap kesehatan keluarga dan kepraktisan dalam
+menyiapkan makanan.
+6. Edukasi Online (Skill Ibu): (Contoh: Kursus masak online, kelas menjahit,
+workshop digital marketing untuk ibu) Alasan: Ibu ingin terus belajar dan
+mengembangkan diri untuk menambah penghasilan atau hobi.
+30 PROMPT SIAP PAKAI:
+A. HOOK PROMPTS (10 prompt)
+1. Prompt: “Tulis kalimat pembuka thread Threads dengan gaya seorang ibu rumah
+tangga yang baru menemukan cara hemat belanja bulanan. Tone: warm, relatable,
+sedikit excited. Panjang: 1-2 kalimat. Sisipkan placeholder [NAMA PRODUK] di
+akhir.”
+OUTPUT Contoh: “Bund, jujur nyesel banget baru tau trik ini sekarang!
+Belanja bulanan jadi hemat banget gara-gara [NAMA PRODUK].”
+Tag niche: [keuangan] [belanja]
+2. Prompt: “Buatkan hook Threads tentang drama anak susah makan, dengan tone
+sedikit frustrasi tapi ada harapan. Panjang: 1-2 kalimat. Sisipkan placeholder [NAMA
+PRODUK] sebagai solusi.”
+OUTPUT Contoh: “Moms, ada yang sama nggak sih? Anakku susah banget
+makan, bikin pusing! Untung ada [NAMA PRODUK] yang bikin dia lahap lagi.”
+Tag niche: [parenting] [anak]
+3. Prompt: “Tulis hook Threads tentang betapa lelahnya pekerjaan rumah tangga yang
+tidak ada habisnya, dengan tone curhat tapi mengundang empati. Panjang: 1-2
+kalimat. Sisipkan placeholder [NAMA PRODUK] sebagai penyelamat.”
+OUTPUT Contoh: “Kerjaan rumah tuh kayak nggak ada habisnya ya, bund?
+Rasanya pengen nyerah aja. Tapi untung ada [NAMA PRODUK] yang bikin
+semua jadi ringan.”
+Tag niche: [rumah tangga] [lifestyle]
+4. Prompt: “Buatkan hook Threads yang membandingkan cara lama dan cara baru
+dalam mengelola sesuatu (misal: mencuci baju), dengan tone terkejut dan senang.
+Panjang: 1-2 kalimat. Sisipkan placeholder [NAMA PRODUK] sebagai cara baru.”
+OUTPUT Contoh: “Dulu nyuci baju manual, sekarang pakai [NAMA PRODUK]
+jadi super praktis! Nyesel baru tau sekarang.”
+Tag niche: [rumah tangga]
+5. Prompt: “Tulis hook Threads tentang menemukan produk murah tapi berkualitas
+tinggi, dengan tone antusias dan ingin berbagi. Panjang: 1-2 kalimat. Sisipkan
+placeholder [NAMA PRODUK].”
+OUTPUT Contoh: “Bund, aku nemu harta karun! [NAMA PRODUK] ini murah
+banget tapi kualitasnya juara. Wajib punya!”
+Tag niche: [belanja] [review]
+6. Prompt: “Buatkan hook Threads tentang tips menghemat waktu di dapur, dengan
+tone praktis dan efisien. Panjang: 1-2 kalimat. Sisipkan placeholder [NAMA
+PRODUK] sebagai alat bantu.”
+OUTPUT Contoh: “Dapur beres dalam 30 menit? Bisa banget kalau pakai
+[NAMA PRODUK] ini. Moms wajib tau!”
+Tag niche: [dapur] [rumah tangga]
+7. Prompt: “Tulis hook Threads tentang kekhawatiran finansial ibu rumah tangga,
+dengan tone relatable dan menawarkan solusi. Panjang: 1-2 kalimat. Sisipkan
+placeholder [NAMA PRODUK] sebagai solusi.”
+OUTPUT Contoh: “Kadang suka kepikiran, gimana ya kalau ada kebutuhan
+mendadak? Untung aku udah siapin [NAMA PRODUK] ini buat jaga-jaga.”
+Tag niche: [keuangan]
+8. Prompt: “Buatkan hook Threads tentang pengalaman positif menggunakan produk
+parenting, dengan tone bahagia dan merekomendasikan. Panjang: 1-2 kalimat.
+Sisipkan placeholder [NAMA PRODUK].”
+OUTPUT Contoh: “Anakku jadi anteng banget mainnya gara-gara [NAMA
+PRODUK] ini. Moms yang punya balita wajib punya!”
+Tag niche: [parenting] [anak]
+9. Prompt: “Tulis hook Threads tentang cara menjaga penampilan meski sibuk, dengan
+tone inspiratif dan praktis. Panjang: 1-2 kalimat. Sisipkan placeholder [NAMA
+PRODUK].”
+OUTPUT Contoh: “Walau sibuk ngurus rumah, aku tetap bisa tampil fresh lho,
+bund! Rahasianya cuma [NAMA PRODUK] ini.”
+Tag niche: [kecantikan] [lifestyle]
+10. Prompt: “Buatkan hook Threads tentang menemukan cara baru yang lebih mudah
+untuk melakukan tugas rumah tangga, dengan tone lega dan senang. Panjang: 1-2
+kalimat. Sisipkan placeholder [NAMA PRODUK].”
+OUTPUT Contoh: “Akhirnya nemu cara bersihin kamar mandi yang nggak
+bikin pegel! Semua berkat [NAMA PRODUK] ini, bund.”
+Tag niche: [rumah tangga]
+B. STORY PROMPTS (10 prompt)
+1. Prompt: “Tulis cerita pendek (3-4 kalimat) tentang pengalaman Bunda Lia yang
+awalnya kesulitan mengatur keuangan bulanan, lalu menemukan [NAMA PRODUK]
+yang membantunya hemat. Tone: personal, relatable, inspiring. Akhiri dengan CTA
+untuk klik link di bio.”
+OUTPUT Contoh: “Dulu, tiap akhir bulan pasti pusing mikirin uang belanja
+yang selalu kurang. Rasanya kok boros banget ya? Sampai akhirnya aku coba
+pakai [NAMA PRODUK] ini buat catat pengeluaran. Eh, ternyata beneran
+ngebantu banget buat tau kemana aja uangku pergi. Sekarang jadi lebih teratur
+dan ada sisa! Yang mau tau caranya, linknya ada di bio ya, bund!”
+Tag niche: [keuangan] [belanja]
+2. Prompt: “Buatkan cerita (3-4 kalimat) tentang Bunda Lia yang awalnya ragu
+membeli [NAMA PRODUK] untuk anaknya, tapi setelah mencoba, anaknya jadi lebih
+anteng dan pintar. Tone: testimonial, happy. Akhiri dengan CTA.”
+OUTPUT Contoh: “Awalnya ragu banget mau beli [NAMA PRODUK] ini buat
+anakku. Takutnya cuma jadi pajangan doang. Tapi pas dicoba, masya Allah,
+anakku jadi anteng banget mainnya sambil belajar. Moms yang anaknya aktif,
+wajib banget punya ini. Linknya aku taro di bio ya!”
+Tag niche: [parenting] [anak]
+3. Prompt: “Tulis cerita (3-4 kalimat) tentang Bunda Lia yang merasa lelah dengan
+tumpukan cucian, lalu [NAMA PRODUK] datang sebagai solusi yang meringankan
+bebannya. Tone: empati, lega. Akhiri dengan CTA.”
+OUTPUT Contoh: “Tumpukan cucian kotor tuh kadang bikin mood langsung
+drop ya, bund. Apalagi kalau musim hujan, keringnya lama. Tapi sejak pakai
+[NAMA PRODUK] ini, cucian jadi lebih cepat kering dan wangi. Rasanya beban
+hidup berkurang satu! Yang mau tau rahasianya, cek link di bio ya.”
+Tag niche: [rumah tangga]
+4. Prompt: “Buatkan cerita (3-4 kalimat) tentang Bunda Lia yang awalnya tidak percaya
+bisa punya penghasilan tambahan dari rumah, lalu menemukan [NAMA PRODUK]
+yang membukakan jalan. Tone: motivasi, realistis. Akhiri dengan CTA.”
+OUTPUT Contoh: “Siapa sangka, ibu rumah tangga kayak aku bisa punya
+penghasilan sendiri dari rumah? Dulu mikirnya mustahil. Tapi setelah kenal
+[NAMA PRODUK] ini, aku jadi punya sistem yang jelas buat dapetin cuan.
+Nggak perlu ninggalin anak, bisa sambil ngurus rumah. Mau tau caranya?
+Linknya ada di bio ya, bund!”
+Tag niche: [keuangan] [side income]
+5. Prompt: “Tulis cerita (3-4 kalimat) tentang Bunda Lia yang menemukan cara praktis
+untuk menyiapkan bekal anak/suami dengan bantuan [NAMA PRODUK], sehingga
+lebih hemat waktu dan sehat. Tone: praktis, sehat. Akhiri dengan CTA.”
+OUTPUT Contoh: “Tiap pagi selalu buru-buru nyiapin bekal anak sama paksu.
+Kadang suka kehabisan ide. Tapi sejak punya [NAMA PRODUK] ini, ide bekal
+jadi banyak dan nyiapinnya cepet banget. Anak sama paksu jadi makan sehat
+terus. Yang mau juga, linknya ada di bio ya!”
+Tag niche: [dapur] [parenting]
+6. Prompt: “Buatkan cerita (3-4 kalimat) tentang Bunda Lia yang berhasil mengatasi
+masalah kulit kusam setelah melahirkan dengan menggunakan [NAMA PRODUK].
+Tone: personal, glowing. Akhiri dengan CTA.”
+OUTPUT Contoh: “Setelah melahirkan, kulitku jadi kusam banget, bund.
+Rasanya nggak pede. Udah coba berbagai skincare tapi nggak ada yang
+cocok. Sampai akhirnya aku nemu [NAMA PRODUK] ini. Sekarang kulitku jadi
+lebih cerah dan sehat. Seneng banget! Yang mau tau rahasianya, cek link di
+bio ya.”
+Tag niche: [kecantikan]
+7. Prompt: “Tulis cerita (3-4 kalimat) tentang Bunda Lia yang awalnya kesulitan
+mencari ide konten untuk akun Threads-nya, lalu [NAMA PRODUK] membantunya
+menghasilkan ide-ide segar setiap hari. Tone: lega, kreatif. Akhiri dengan CTA.”
+OUTPUT Contoh: “Dulu suka bingung mau posting apa di Threads. Mikir ide
+konten aja udah makan waktu. Tapi sejak pakai [NAMA PRODUK] ini, ide
+konten jadi ngalir terus. Tinggal pilih, edit dikit, langsung posting. Nggak ada
+lagi deh yang namanya content block. Mau tau rahasianya? Linknya ada di bio
+ya!”
+Tag niche: [digital marketing] [konten]
+8. Prompt: “Buatkan cerita (3-4 kalimat) tentang Bunda Lia yang menemukan [NAMA
+PRODUK] yang membantunya menjaga kebersihan rumah dengan lebih mudah dan
+efektif. Tone: bersih, praktis. Akhiri dengan CTA.”
+OUTPUT Contoh: “Rumah bersih itu bikin hati tenang ya, bund. Tapi kadang
+males banget bersih-bersih. Untung aku punya [NAMA PRODUK] ini. Bersih
+bersih jadi lebih cepat dan hasilnya maksimal. Suami sama anak jadi betah di
+rumah. Yang mau rumahnya bersih kinclong, cek link di bio ya!”
+Tag niche: [rumah tangga]
+9. Prompt: “Tulis cerita (3-4 kalimat) tentang Bunda Lia yang berhasil menghemat
+pengeluaran untuk hiburan anak dengan [NAMA PRODUK] yang edukatif dan
+terjangkau. Tone: hemat, edukatif. Akhiri dengan CTA.”
+OUTPUT Contoh: “Daripada anak cuma main gadget terus, mending aku
+kasih [NAMA PRODUK] ini. Selain murah, mainannya juga edukatif banget.
+Anak jadi betah main sambil belajar. Pengeluaran hiburan juga jadi hemat.
+Moms yang mau anaknya pintar dan hemat, linknya ada di bio ya!”
+Tag niche: [parenting] [belanja]
+10. Prompt: “Buatkan cerita (3-4 kalimat) tentang Bunda Lia yang menemukan [NAMA
+PRODUK] yang membantunya tetap produktif dan punya ‘me-time’ meski sibuk
+mengurus rumah. Tone: produktif, self-care. Akhiri dengan CTA.”
+OUTPUT Contoh: “Kadang suka ngerasa nggak punya waktu buat diri sendiri
+ya, bund. Padahal penting banget lho me-time itu. Tapi sejak aku pakai [NAMA
+PRODUK] ini, semua kerjaan rumah jadi lebih cepat beres. Aku jadi punya
+waktu buat baca buku atau sekadar ngopi santai. Yang mau juga, linknya ada
+di bio ya!”
+Tag niche: [lifestyle] [self-care]
+C. TIPS PROMPTS (10 prompt)
+1. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) tentang cara hemat belanja
+bulanan, dengan tone praktis. Sisipkan [NAMA PRODUK] sebagai tips terakhir. Akhiri
+dengan CTA.”
+OUTPUT Contoh: “Bund, mau belanja bulanan tetap hemat? Coba deh 3 tips
+ini:
+1. Bikin daftar belanja dan patuhi.
+2. Bandingkan harga di beberapa toko online.
+3. Manfaatkan promo dan cashback dari [NAMA PRODUK]. Yang mau tau
+[NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [keuangan] [belanja]
+2. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) untuk mengatasi anak
+susah makan, dengan tone solutif. Sisipkan [NAMA PRODUK] sebagai tips terakhir.
+Akhiri dengan CTA.”
+OUTPUT Contoh: “Moms, anak susah makan itu PR banget ya. Coba deh tips
+ini:
+1. Sajikan makanan dengan bentuk menarik.
+2. Libatkan anak dalam proses memasak.
+3. Tambahkan [NAMA PRODUK] sebagai suplemen penambah nafsu
+makan. Link [NAMA PRODUK] ada di bio ya, bund!”
+Tag niche: [parenting] [anak]
+3. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk menjaga kebersihan
+rumah dengan cepat, dengan tone efisien. Sisipkan [NAMA PRODUK] sebagai tips
+terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Rumah bersih itu nggak harus capek kok, bund. Coba 3
+tips ini:
+1. Bersihkan sedikit demi sedikit setiap hari.
+2. Gunakan alat pembersih multifungsi.
+3. Andalkan [NAMA PRODUK] untuk hasil maksimal. Yang mau tau [NAMA
+PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [rumah tangga]
+4. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara memulai
+penghasilan tambahan dari rumah untuk ibu rumah tangga, dengan tone motivasi.
+Sisipkan [NAMA PRODUK] sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Moms, mau punya penghasilan sendiri dari rumah? Ini 3
+tipsnya:
+1. Mulai dari hobi yang bisa menghasilkan.
+2. Manfaatkan media sosial untuk berjualan.
+3. Ikuti sistem [NAMA PRODUK] untuk affiliate marketing tanpa ribet. Link
+[NAMA PRODUK] ada di bio ya, bund!”
+Tag niche: [side income] [keuangan]
+5. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk menyiapkan bekal
+sehat dan praktis, dengan tone inspiratif. Sisipkan [NAMA PRODUK] sebagai tips
+terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Bekal sehat dan praktis itu penting banget lho, bund. Coba
+deh tips ini:
+1. Siapkan bahan-bahan di malam hari.
+2. Gunakan wadah bekal yang kedap udara.
+3. Andalkan [NAMA PRODUK] untuk ide menu dan resep cepat. Yang mau
+tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [dapur] [parenting]
+6. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara merawat
+kulit wajah setelah melahirkan, dengan tone lembut. Sisipkan [NAMA PRODUK]
+sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Kulit wajah butuh perhatian ekstra setelah melahirkan,
+bund. Ini 3 tipsnya:
+1. Gunakan pembersih wajah yang lembut.
+2. Jangan lupa pakai pelembap dan sunscreen.
+3. Coba [NAMA PRODUK] untuk mengatasi masalah kulit kusam. Link
+[NAMA PRODUK] ada di bio ya, bund!”
+Tag niche: [kecantikan]
+7. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk membuat konten
+Threads yang menarik dan banyak interaksi, dengan tone edukatif. Sisipkan [NAMA
+PRODUK] sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Moms, mau konten Threads-nya banyak yang like dan
+komen? Coba 3 tips ini:
+1. Mulai dengan hook yang bikin penasaran.
+2. Ceritakan pengalaman pribadi yang relatable.
+3. Gunakan [NAMA PRODUK] untuk ide konten yang nggak ada habisnya.
+Yang mau tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [digital marketing] [konten]
+8. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara memilih
+mainan edukasi yang tepat untuk balita, dengan tone informatif. Sisipkan [NAMA
+PRODUK] sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Memilih mainan edukasi itu penting lho, bund. Ini 3 tipsnya:
+1. Sesuaikan dengan usia dan tahap perkembangan anak.
+2. Pilih mainan yang aman dan tidak mudah rusak.
+3. Cari rekomendasi mainan edukasi terbaik di [NAMA PRODUK]. Link
+[NAMA PRODUK] ada di bio ya, bund!”
+Tag niche: [parenting] [anak]
+9. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk tetap produktif di
+rumah meski banyak gangguan, dengan tone motivasi. Sisipkan [NAMA PRODUK]
+sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Di rumah banyak gangguan? Tetap bisa produktif kok,
+bund. Coba 3 tips ini:
+1. Buat jadwal harian dan patuhi.
+2. Sediakan ‘me-time’ khusus untuk diri sendiri.
+3. Gunakan [NAMA PRODUK] untuk membantu mengatur tugas dan
+prioritas. Yang mau tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [lifestyle] [self-care]
+10. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara menghemat
+listrik di rumah, dengan tone praktis. Sisipkan [NAMA PRODUK] sebagai tips
+terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Tagihan listrik bengkak? Coba 3 tips hemat listrik ini, bund:
+1. Cabut charger yang tidak terpakai.
+2. Gunakan lampu LED.
+3. Manfaatkan [NAMA PRODUK] untuk memantau penggunaan listrik. Link
+[NAMA PRODUK] ada di bio ya, bund!” Tag niche: [rumah tangga]
+[keuangan]
+AVATAR 2 — ANAK KOS PRODUKTIF
+PROFIL AVATAR:
+Nama karakter: Bima
+Backstory: Mahasiswa semester akhir yang ngekos di kota besar. Uang pas-pasan
+tapi punya banyak mimpi. Selalu mencari cara untuk hemat, produktif, dan bisa
+punya penghasilan sendiri tanpa mengganggu jadwal kuliah atau kegiatan
+organisasi. Suka mencoba hal baru, melek teknologi, dan selalu update tren.
+Usia: 21 tahun
+Situasi: Mahasiswa/fresh graduate/perantau yang mandiri, sering begadang nugas,
+suka nongkrong tapi tetap mikirin masa depan.
+Pain point yang dia rasakan: Uang saku cepat habis, bingung cari kerja sampingan
+yang fleksibel, takut skripsi nggak kelar, pengen punya barang bagus tapi budget
+terbatas, kangen masakan rumah.
+Impian dan motivasinya: Lulus kuliah dengan IPK bagus, punya tabungan sendiri,
+bisa beli gadget impian, bisa traktir orang tua, dan nggak mau jadi beban keluarga.
+Cara bicara: Santai, kadang pakai slang anak muda (misal: “gue”, “lo”, “bro”,
+“bestie”), to the point, sedikit kocak.
+Apa yang TIDAK pernah dia katakan: Bahasa terlalu formal, mengeluh tanpa
+solusi, atau terlalu serius.
+Emoji yang sering dipakai: 
+�
+�☕💸📚✨
+NICHE AFFILIATE YANG COCOK:
+1. Food Delivery & Diskon Makanan: (Contoh: Voucher GoFood/GrabFood, promo
+makanan di aplikasi, resep masakan anak kos) Alasan: Kebutuhan pokok anak kos,
+selalu mencari diskon dan kemudahan.
+2. Marketplace Deals & Cashback: (Contoh: Promo Shopee/Tokopedia, cashback e
+wallet, tips belanja online hemat) Alasan: Suka belanja online, selalu mencari harga
+termurah dan keuntungan tambahan.
+3. Aplikasi Keuangan (Nabung, Investasi Kecil): (Contoh: Aplikasi investasi reksa
+dana/saham mikro, tabungan digital, tips budgeting) Alasan: Ingin mandiri finansial,
+mulai belajar investasi sejak dini.
+4. Gadget & Aksesoris Affordable: (Contoh: Earphone TWS murah, stand laptop
+ergonomis, power bank, keyboard wireless) Alasan: Kebutuhan untuk kuliah dan
+hiburan, mencari barang berkualitas dengan harga terjangkau.
+5. Side Hustle & Produktivitas Apps: (Contoh: Aplikasi pencatat tugas, platform
+freelance, kursus online singkat) Alasan: Ingin punya penghasilan tambahan dan
+meningkatkan skill untuk masa depan.
+6. Dekorasi Kamar Kos Low Budget: (Contoh: Lampu LED strip, poster estetik, rak
+penyimpanan minimalis) Alasan: Ingin kamar kos nyaman dan estetik tanpa
+menguras kantong.
+30 PROMPT SIAP PAKAI:
+A. HOOK PROMPTS (10 prompt)
+1. Prompt: “Tulis kalimat pembuka thread Threads dengan gaya seorang mahasiswa
+yang baru menemukan cara hemat uang saku bulanan. Tone: santai, sedikit terkejut,
+informatif. Panjang: 1-2 kalimat. Sisipkan placeholder [NAMA PRODUK] di akhir.”
+OUTPUT Contoh: “Gue nyesel banget baru tau trik ini pas udah semester
+akhir! Uang saku jadi awet banget gara-gara [NAMA PRODUK].”
+Tag niche: [keuangan] [hemat]
+2. Prompt: “Buatkan hook Threads tentang drama nugas semalam suntuk, dengan
+tone relatable dan sedikit kocak. Panjang: 1-2 kalimat. Sisipkan placeholder [NAMA
+PRODUK] sebagai penyelamat.”
+OUTPUT Contoh: “Ada yang sama nggak sih? Tiap nugas pasti mepet
+deadline, ujung-ujungnya begadang. Untung ada [NAMA PRODUK] yang bikin
+gue tetap fokus.”
+Tag niche: [kuliah] [produktivitas]
+3. Prompt: “Tulis hook Threads tentang betapa pentingnya punya penghasilan sendiri
+saat kuliah, dengan tone motivasi tapi realistis. Panjang: 1-2 kalimat. Sisipkan
+placeholder [NAMA PRODUK] sebagai solusi.”
+OUTPUT Contoh: “Kuliah sambil nyari cuan itu bukan cuma gaya-gayaan, tapi
+kebutuhan. Untung gue nemu [NAMA PRODUK] yang bikin ini jadi mungkin.”
+Tag niche: [side hustle] [keuangan]
+4. Prompt: “Buatkan hook Threads yang membandingkan cara lama dan cara baru
+dalam belajar/mengerjakan tugas, dengan tone terkejut dan senang. Panjang: 1-2
+kalimat. Sisipkan placeholder [NAMA PRODUK] sebagai cara baru.”
+OUTPUT Contoh: “Dulu ngerjain tugas berjam-jam, sekarang pakai [NAMA
+PRODUK] jadi cepet banget! Nyesel baru tau sekarang.”
+Tag niche: [kuliah] [produktivitas]
+5. Prompt: “Tulis hook Threads tentang menemukan barang murah tapi berkualitas
+tinggi untuk anak kos, dengan tone antusias dan ingin berbagi. Panjang: 1-2 kalimat.
+Sisipkan placeholder [NAMA PRODUK].”
+OUTPUT Contoh: “Bro, gue nemu harta karun! [NAMA PRODUK] ini murah
+banget tapi kualitasnya gila. Wajib punya buat anak kos!”
+Tag niche: [belanja] [review]
+6. Prompt: “Buatkan hook Threads tentang tips menghemat waktu saat menyiapkan
+makanan di kosan, dengan tone praktis dan efisien. Panjang: 1-2 kalimat. Sisipkan
+placeholder [NAMA PRODUK] sebagai alat bantu.”
+OUTPUT Contoh: “Masak di kosan beres dalam 15 menit? Bisa banget kalau
+pakai [NAMA PRODUK] ini. Anak kos wajib tau!”
+Tag niche: [makanan] [hemat]
+7. Prompt: “Tulis hook Threads tentang kekhawatiran finansial mahasiswa, dengan
+tone relatable dan menawarkan solusi. Panjang: 1-2 kalimat. Sisipkan placeholder
+[NAMA PRODUK] sebagai solusi.”
+OUTPUT Contoh: “Kadang suka kepikiran, gimana ya kalau uang saku udah
+menipis? Untung gue udah siapin [NAMA PRODUK] ini buat jaga-jaga.”
+Tag niche: [keuangan]
+8. Prompt: “Buatkan hook Threads tentang pengalaman positif menggunakan produk
+yang meningkatkan produktivitas belajar, dengan tone bahagia dan
+merekomendasikan. Panjang: 1-2 kalimat. Sisipkan placeholder [NAMA PRODUK].”
+OUTPUT Contoh: “IPK gue naik gara-gara [NAMA PRODUK] ini. Belajar jadi
+lebih fokus dan efektif. Mahasiswa wajib punya!”
+Tag niche: [kuliah] [produktivitas]
+9. Prompt: “Tulis hook Threads tentang cara tetap tampil stylish meski budget terbatas,
+dengan tone inspiratif dan praktis. Panjang: 1-2 kalimat. Sisipkan placeholder [NAMA
+PRODUK].”
+OUTPUT Contoh: “Walau anak kos, gue tetap bisa tampil kece lho, bro!
+Rahasianya cuma [NAMA PRODUK] ini.”
+Tag niche: [fashion] [lifestyle]
+10. Prompt: “Buatkan hook Threads tentang menemukan cara baru yang lebih mudah
+untuk mengatur keuangan, dengan tone lega dan senang. Panjang: 1-2 kalimat.
+Sisipkan placeholder [NAMA PRODUK].”
+OUTPUT Contoh: “Akhirnya nemu cara ngatur keuangan yang nggak bikin
+pusing! Semua berkat [NAMA PRODUK] ini, bro.”
+Tag niche: [keuangan]
+B. STORY PROMPTS (10 prompt)
+1. Prompt: “Tulis cerita pendek (3-4 kalimat) tentang pengalaman Bima yang awalnya
+kesulitan mengatur uang saku bulanan, lalu menemukan [NAMA PRODUK] yang
+membantunya hemat. Tone: personal, relatable, inspiring. Akhiri dengan CTA untuk
+klik link di bio.”
+OUTPUT Contoh: “Dulu, tiap akhir bulan pasti pusing mikirin uang saku yang
+selalu kurang. Rasanya kok boros banget ya? Sampai akhirnya gue coba pakai
+[NAMA PRODUK] ini buat catat pengeluaran. Eh, ternyata beneran ngebantu
+banget buat tau kemana aja uang gue pergi. Sekarang jadi lebih teratur dan
+ada sisa! Yang mau tau caranya, linknya ada di bio ya, bro!”
+Tag niche: [keuangan] [hemat]
+2. Prompt: “Buatkan cerita (3-4 kalimat) tentang Bima yang awalnya ragu membeli
+[NAMA PRODUK] untuk menunjang kuliahnya, tapi setelah mencoba, tugas
+tugasnya jadi lebih cepat selesai. Tone: testimonial, happy. Akhiri dengan CTA.”
+OUTPUT Contoh: “Awalnya ragu banget mau beli [NAMA PRODUK] ini buat
+nugas. Takutnya cuma jadi pajangan doang. Tapi pas dicoba, gila, tugas-tugas
+gue jadi lebih cepat selesai dan hasilnya rapi. Mahasiswa wajib banget punya
+ini. Linknya gue taro di bio ya!”
+Tag niche: [kuliah] [produktivitas]
+3. Prompt: “Tulis cerita (3-4 kalimat) tentang Bima yang merasa lelah dengan
+makanan kosan yang itu-itu saja, lalu [NAMA PRODUK] datang sebagai solusi yang
+meringankan bebannya. Tone: empati, lega. Akhiri dengan CTA.”
+OUTPUT Contoh: “Makanan kosan tuh kadang bikin bosen ya, bro. Rasanya
+pengen makan enak tapi males keluar. Tapi sejak pakai [NAMA PRODUK] ini,
+gue bisa masak makanan enak di kosan dengan cepat dan hemat. Rasanya
+kayak punya chef pribadi! Yang mau tau rahasianya, cek link di bio ya.”
+Tag niche: [makanan] [hemat]
+4. Prompt: “Buatkan cerita (3-4 kalimat) tentang Bima yang awalnya tidak percaya bisa
+punya penghasilan tambahan dari internet, lalu menemukan [NAMA PRODUK] yang
+membukakan jalan. Tone: motivasi, realistis. Akhiri dengan CTA.”
+OUTPUT Contoh: “Siapa sangka, mahasiswa kayak gue bisa punya
+penghasilan sendiri dari internet? Dulu mikirnya mustahil. Tapi setelah kenal
+[NAMA PRODUK] ini, gue jadi punya sistem yang jelas buat dapetin cuan.
+Nggak perlu ganggu waktu kuliah, bisa sambil rebahan. Mau tau caranya?
+Linknya ada di bio ya, bro!”
+Tag niche: [side hustle] [keuangan]
+5. Prompt: “Tulis cerita (3-4 kalimat) tentang Bima yang menemukan cara praktis untuk
+mendekorasi kamar kosnya dengan bantuan [NAMA PRODUK], sehingga lebih
+nyaman dan estetik. Tone: praktis, estetik. Akhiri dengan CTA.”
+OUTPUT Contoh: “Kamar kos gue dulu berantakan banget, bikin males
+pulang. Tapi sejak punya [NAMA PRODUK] ini, kamar gue jadi estetik dan
+nyaman banget. Betah nugas di kamar seharian. Yang mau juga, linknya ada di
+bio ya!”
+Tag niche: [dekorasi] [lifestyle]
+6. Prompt: “Buatkan cerita (3-4 kalimat) tentang Bima yang berhasil mengatasi
+masalah kulit kusam karena sering begadang dengan menggunakan [NAMA
+PRODUK]. Tone: personal, glowing. Akhiri dengan CTA.”
+OUTPUT Contoh: “Sering begadang nugas bikin muka gue kusam banget,
+bro. Rasanya nggak pede. Udah coba berbagai skincare tapi nggak ada yang
+cocok. Sampai akhirnya gue nemu [NAMA PRODUK] ini. Sekarang kulit gue
+jadi lebih cerah dan sehat. Seneng banget! Yang mau tau rahasianya, cek link
+di bio ya.”
+Tag niche: [skincare] [lifestyle]
+7. Prompt: “Tulis cerita (3-4 kalimat) tentang Bima yang awalnya kesulitan mencari ide
+konten untuk akun Threads-nya, lalu [NAMA PRODUK] membantunya menghasilkan
+ide-ide segar setiap hari. Tone: lega, kreatif. Akhiri dengan CTA.”
+OUTPUT Contoh: “Dulu suka bingung mau posting apa di Threads. Mikir ide
+konten aja udah makan waktu. Tapi sejak pakai [NAMA PRODUK] ini, ide
+konten jadi ngalir terus. Tinggal pilih, edit dikit, langsung posting. Nggak ada
+lagi deh yang namanya content block. Mau tau rahasianya? Linknya ada di bio
+ya!”
+Tag niche: [digital marketing] [konten]
+8. Prompt: “Buatkan cerita (3-4 kalimat) tentang Bima yang menemukan [NAMA
+PRODUK] yang membantunya menjaga kebersihan kamar kos dengan lebih mudah
+dan efektif. Tone: bersih, praktis. Akhiri dengan CTA.”
+OUTPUT Contoh: “Kamar kos bersih itu bikin betah ya, bro. Tapi kadang
+males banget bersih-bersih. Untung gue punya [NAMA PRODUK] ini. Bersih
+bersih jadi lebih cepat dan hasilnya maksimal. Temen-temen jadi betah main ke
+kosan. Yang mau kamar kosnya bersih kinclong, cek link di bio ya!”
+Tag niche: [rumah tangga]
+9. Prompt: “Tulis cerita (3-4 kalimat) tentang Bima yang berhasil menghemat
+pengeluaran untuk hiburan dengan [NAMA PRODUK] yang terjangkau dan
+berkualitas. Tone: hemat, hiburan. Akhiri dengan CTA.”
+OUTPUT Contoh: “Daripada cuma nongkrong nggak jelas, mending gue pakai
+[NAMA PRODUK] ini buat hiburan. Selain murah, kualitasnya juga bagus
+banget. Nggak bikin kantong bolong. Yang mau hiburan hemat tapi berkualitas,
+linknya ada di bio ya!”
+Tag niche: [hiburan] [hemat]
+10. Prompt: “Buatkan cerita (3-4 kalimat) tentang Bima yang menemukan [NAMA
+PRODUK] yang membantunya tetap produktif dan punya waktu luang meski sibuk
+kuliah. Tone: produktif, self-care. Akhiri dengan CTA.”
+OUTPUT Contoh: “Kadang suka ngerasa nggak punya waktu buat diri sendiri
+ya, bro. Padahal penting banget lho me-time itu. Tapi sejak gue pakai [NAMA
+PRODUK] ini, semua tugas kuliah jadi lebih cepat beres. Gue jadi punya waktu
+buat main game atau sekadar ngopi santai. Yang mau juga, linknya ada di bio
+ya!”
+Tag niche: [lifestyle] [produktivitas]
+C. TIPS PROMPTS (10 prompt)
+1. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) tentang cara hemat uang
+saku bulanan, dengan tone praktis. Sisipkan [NAMA PRODUK] sebagai tips terakhir.
+Akhiri dengan CTA.”
+OUTPUT Contoh: “Bro, mau uang saku bulanan tetap hemat? Coba deh 3 tips
+ini:
+1. Bikin budget mingguan dan patuhi.
+2. Manfaatkan promo dan cashback aplikasi.
+3. Gunakan [NAMA PRODUK] untuk mencatat setiap pengeluaran. Yang
+mau tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [keuangan] [hemat]
+2. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) untuk mengatasi rasa
+malas nugas, dengan tone solutif. Sisipkan [NAMA PRODUK] sebagai tips terakhir.
+Akhiri dengan CTA.”
+OUTPUT Contoh: “Males nugas itu penyakit mahasiswa ya, bro. Coba deh tips
+ini:
+1. Mulai dari tugas yang paling mudah.
+2. Kasih reward ke diri sendiri setelah selesai.
+3. Andalkan [NAMA PRODUK] untuk membantu fokus dan mengurangi
+distraksi. Link [NAMA PRODUK] ada di bio ya, bro!”
+Tag niche: [kuliah] [produktivitas]
+3. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk menyiapkan makanan
+di kosan dengan cepat dan enak, dengan tone efisien. Sisipkan [NAMA PRODUK]
+sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Masak di kosan nggak harus ribet kok, bro. Coba 3 tips ini:
+1. Stok bahan makanan instan atau praktis.
+2. Gunakan alat masak multifungsi.
+3. Andalkan [NAMA PRODUK] untuk ide resep cepat dan hemat. Yang mau
+tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [makanan] [hemat]
+4. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara memulai
+penghasilan tambahan dari internet untuk mahasiswa, dengan tone motivasi.
+Sisipkan [NAMA PRODUK] sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Bro, mau punya penghasilan sendiri dari internet? Ini 3
+tipsnya:
+1. Mulai dari skill yang kamu punya.
+2. Manfaatkan platform freelance.
+3. Ikuti sistem [NAMA PRODUK] untuk affiliate marketing tanpa ribet. Link
+[NAMA PRODUK] ada di bio ya, bro!”
+Tag niche: [side hustle] [keuangan]
+5. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk mendekorasi kamar
+kos agar lebih nyaman dan estetik, dengan tone inspiratif. Sisipkan [NAMA
+PRODUK] sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Kamar kos nyaman itu bikin betah lho, bro. Coba deh tips
+ini:
+1. Manfaatkan pencahayaan yang hangat.
+2. Tambahkan tanaman hias kecil.
+3. Cari inspirasi dekorasi murah di [NAMA PRODUK]. Yang mau tau [NAMA
+PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [dekorasi] [lifestyle]
+6. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara merawat
+kulit wajah saat sering begadang, dengan tone lembut. Sisipkan [NAMA PRODUK]
+sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Sering begadang bikin kulit kusam? Ini 3 tipsnya:
+1. Bersihkan wajah sebelum tidur.
+2. Gunakan serum vitamin C.
+3. Coba [NAMA PRODUK] untuk revitalisasi kulit. Link [NAMA PRODUK]
+ada di bio ya, bro!”
+Tag niche: [skincare] [lifestyle]
+7. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk membuat konten
+Threads yang menarik dan banyak interaksi, dengan tone edukatif. Sisipkan [NAMA
+PRODUK] sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Bro, mau konten Threads-nya banyak yang like dan
+komen? Coba 3 tips ini:
+1. Mulai dengan hook yang bikin penasaran.
+2. Ceritakan pengalaman pribadi yang relatable.
+3. Gunakan [NAMA PRODUK] untuk ide konten yang nggak ada habisnya.
+Yang mau tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [digital marketing] [konten]
+8. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara memilih
+gadget murah tapi berkualitas untuk mahasiswa, dengan tone informatif. Sisipkan
+[NAMA PRODUK] sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Memilih gadget itu penting lho, bro. Ini 3 tipsnya:
+1. Sesuaikan dengan kebutuhan dan budget.
+2. Baca review dari pengguna lain.
+3. Cari rekomendasi gadget terbaik di [NAMA PRODUK]. Link [NAMA
+PRODUK] ada di bio ya, bro!”
+Tag niche: [gadget] [belanja]
+9. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk tetap produktif saat
+kuliah online, dengan tone motivasi. Sisipkan [NAMA PRODUK] sebagai tips terakhir.
+Akhiri dengan CTA.”
+OUTPUT Contoh: “Kuliah online banyak gangguannya? Tetap bisa produktif
+kok, bro. Coba 3 tips ini:
+1. Buat jadwal belajar yang konsisten.
+2. Sediakan tempat belajar yang nyaman.
+3. Gunakan [NAMA PRODUK] untuk membantu mengatur tugas dan
+prioritas. Yang mau tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [kuliah] [produktivitas]
+10. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara menghemat
+kuota internet di kosan, dengan tone praktis. Sisipkan [NAMA PRODUK] sebagai tips
+terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Kuota internet cepat habis? Coba 3 tips hemat kuota ini,
+bro:
+1. Batasi penggunaan aplikasi yang boros kuota.
+2. Manfaatkan Wi-Fi gratis jika ada.
+3. Gunakan [NAMA PRODUK] untuk memantau penggunaan kuota. Link
+[NAMA PRODUK] ada di bio ya, bro!”
+Tag niche: [internet] [hemat]
+AVATAR 3 — PAK PROFESIONAL
+PROFIL AVATAR:
+Nama karakter: Pak Budi
+Backstory: Seorang manajer di perusahaan swasta, usia 38 tahun, sudah
+berkeluarga dengan 2 anak. Punya pekerjaan tetap tapi merasa penghasilan
+stagnan dan waktu luang terbatas. Ingin mencari cara untuk menambah passive
+income atau investasi cerdas tanpa mengganggu pekerjaan utama. Melek teknologi
+dan suka hal-hal yang efisien.
+Usia: 38 tahun
+Situasi: Karyawan/profesional/pengusaha kecil yang sibuk, sering lembur, tapi tetap
+ingin punya masa depan finansial yang lebih baik.
+Pain point yang dia rasakan: Gaji pas-pasan, cicilan banyak, ingin investasi tapi
+takut rugi, tidak punya waktu untuk side hustle yang ribet, khawatir biaya pendidikan
+anak di masa depan.
+Impian dan motivasinya: Punya passive income yang stabil, bisa pensiun dini,
+punya kebebasan finansial, bisa memberikan pendidikan terbaik untuk anak-anak,
+dan punya lebih banyak waktu untuk keluarga.
+Cara bicara: Sedikit lebih formal tapi tetap approachable, menggunakan bahasa
+yang terstruktur dan logis, kadang menyelipkan istilah bisnis ringan.
+Apa yang TIDAK pernah dia katakan: Bahasa gaul yang berlebihan, mengeluh
+tanpa mencari solusi, atau terlalu emosional.
+Emoji yang sering dipakai: 
+�
+�💼💰👨‍👩‍👧‍👦⏰
+NICHE AFFILIATE YANG COCOK:
+1. Investasi & Finansial: (Contoh: Aplikasi reksa dana, platform P2P lending, buku
+investasi, asuransi) Alasan: Sangat relevan dengan motivasi utama Pak Budi untuk
+passive income dan financial freedom.
+2. Produktivitas & Tools Kerja: (Contoh: Aplikasi manajemen proyek, software
+akuntansi, gadget penunjang kerja, kursus online) Alasan: Kebutuhan untuk
+meningkatkan efisiensi kerja dan menghemat waktu.
+3. Pendidikan Online / Upskilling: (Contoh: Kursus data science, sertifikasi
+profesional, webinar bisnis) Alasan: Ingin terus mengembangkan diri dan skill untuk
+karir atau bisnis sampingan.
+4. Travel Bisnis & Lifestyle: (Contoh: Promo hotel bisnis, travel insurance, aksesoris
+travel) Alasan: Sering melakukan perjalanan dinas, mencari kenyamanan dan
+efisiensi dalam travel.
+5. Asuransi & Proteksi Finansial: (Contoh: Asuransi kesehatan, asuransi jiwa,
+perencanaan dana pensiun) Alasan: Perhatian terhadap keamanan finansial
+keluarga dan masa depan.
+6. Buku Bisnis & Self-Improvement: (Contoh: Buku tentang kepemimpinan,
+manajemen waktu, pengembangan diri) Alasan: Ingin terus belajar dan
+meningkatkan kualitas diri sebagai profesional.
+30 PROMPT SIAP PAKAI:
+A. HOOK PROMPTS (10 prompt)
+1. Prompt: “Tulis kalimat pembuka thread Threads dengan gaya seorang profesional
+yang baru menemukan cara investasi cerdas. Tone: informatif, sedikit antusias,
+terpercaya. Panjang: 1-2 kalimat. Sisipkan placeholder [NAMA PRODUK] di akhir.”
+OUTPUT Contoh: “Sebagai profesional, waktu itu uang. Untungnya saya
+menemukan [NAMA PRODUK] yang bikin investasi jadi lebih cerdas dan
+efisien. Wajib coba!”
+Tag niche: [investasi] [keuangan]
+2. Prompt: “Buatkan hook Threads tentang drama pekerjaan yang menumpuk, dengan
+tone relatable dan menawarkan solusi. Panjang: 1-2 kalimat. Sisipkan placeholder
+[NAMA PRODUK] sebagai penyelamat.”
+OUTPUT Contoh: “Deadline numpuk, meeting sana-sini. Rasanya kok 24 jam
+kurang ya? Untung ada [NAMA PRODUK] yang bikin kerjaan jadi lebih
+terorganisir.”
+Tag niche: [produktivitas] [kerja]
+3. Prompt: “Tulis hook Threads tentang betapa pentingnya punya passive income di
+era sekarang, dengan tone motivasi tapi realistis. Panjang: 1-2 kalimat. Sisipkan
+placeholder [NAMA PRODUK] sebagai solusi.”
+OUTPUT Contoh: “Gaji bulanan saja tidak cukup untuk masa depan. Passive
+income itu bukan lagi pilihan, tapi keharusan. Dan [NAMA PRODUK] ini bisa
+jadi jawabannya.”
+Tag niche: [passive income] [keuangan]
+4. Prompt: “Buatkan hook Threads yang membandingkan cara lama dan cara baru
+dalam mengelola proyek, dengan tone terkejut dan senang. Panjang: 1-2 kalimat.
+Sisipkan placeholder [NAMA PRODUK] sebagai cara baru.”
+OUTPUT Contoh: “Dulu pusing mikirin proyek yang berantakan, sekarang
+pakai [NAMA PRODUK] jadi rapi dan terkontrol. Nyesel baru tau sekarang.”
+Tag niche: [produktivitas] [kerja]
+5. Prompt: “Tulis hook Threads tentang menemukan tools kerja yang efisien tapi
+terjangkau, dengan tone antusias dan ingin berbagi. Panjang: 1-2 kalimat. Sisipkan
+placeholder [NAMA PRODUK].”
+OUTPUT Contoh: “Saya nemu tools kerja yang bikin produktivitas naik drastis!
+[NAMA PRODUK] ini murah tapi fiturnya lengkap. Rekomen banget!”
+Tag niche: [tools] [produktivitas]
+6. Prompt: “Buatkan hook Threads tentang tips menghemat waktu dalam perjalanan
+bisnis, dengan tone praktis dan efisien. Panjang: 1-2 kalimat. Sisipkan placeholder
+[NAMA PRODUK] sebagai alat bantu.”
+OUTPUT Contoh: “Perjalanan bisnis jadi lebih efisien dan nyaman berkat
+[NAMA PRODUK] ini. Para profesional wajib punya!”
+Tag niche: [travel] [bisnis]
+7. Prompt: “Tulis hook Threads tentang kekhawatiran finansial keluarga, dengan tone
+relatable dan menawarkan solusi. Panjang: 1-2 kalimat. Sisipkan placeholder [NAMA
+PRODUK] sebagai solusi.”
+OUTPUT Contoh: “Masa depan keluarga itu prioritas. Untungnya saya sudah
+siapkan [NAMA PRODUK] ini untuk proteksi finansial yang lebih baik.”
+Tag niche: [keuangan] [keluarga]
+8. Prompt: “Buatkan hook Threads tentang pengalaman positif menggunakan platform
+edukasi online, dengan tone inspiratif dan merekomendasikan. Panjang: 1-2 kalimat.
+Sisipkan placeholder [NAMA PRODUK].”
+OUTPUT Contoh: “Skill saya meningkat pesat setelah ikut kursus di [NAMA
+PRODUK] ini. Investasi terbaik untuk karir!”
+Tag niche: [edukasi] [karir]
+9. Prompt: “Tulis hook Threads tentang cara tetap menjaga kesehatan meski sibuk
+bekerja, dengan tone inspiratif dan praktis. Panjang: 1-2 kalimat. Sisipkan
+placeholder [NAMA PRODUK].”
+OUTPUT Contoh: “Sibuk kerja bukan alasan untuk tidak sehat. Rahasianya
+cuma [NAMA PRODUK] ini yang bikin saya tetap fit.”
+Tag niche: [kesehatan] [lifestyle]
+10. Prompt: “Buatkan hook Threads tentang menemukan cara baru yang lebih mudah
+untuk mengelola keuangan pribadi, dengan tone lega dan senang. Panjang: 1-2
+kalimat. Sisipkan placeholder [NAMA PRODUK].”
+OUTPUT Contoh: “Akhirnya nemu cara ngatur keuangan pribadi yang nggak
+bikin pusing! Semua berkat [NAMA PRODUK] ini.”
+Tag niche: [keuangan]
+B. STORY PROMPTS (10 prompt)
+1. Prompt: “Tulis cerita pendek (3-4 kalimat) tentang pengalaman Pak Budi yang
+awalnya kesulitan mencari investasi yang aman dan menguntungkan, lalu
+menemukan [NAMA PRODUK] yang membantunya mencapai tujuan finansial. Tone:
+personal, informatif, terpercaya. Akhiri dengan CTA untuk klik link di bio.”
+OUTPUT Contoh: “Dulu, saya selalu bingung mau investasi di mana. Takut
+rugi, takut ribet. Sampai akhirnya saya coba [NAMA PRODUK] ini. Prosesnya
+mudah, transparan, dan hasilnya sesuai ekspektasi. Sekarang saya jadi lebih
+tenang mikirin masa depan finansial keluarga. Yang mau tau caranya, linknya
+ada di bio ya!”
+Tag niche: [investasi] [keuangan]
+2. Prompt: “Buatkan cerita (3-4 kalimat) tentang Pak Budi yang awalnya kewalahan
+dengan pekerjaan kantor yang menumpuk, tapi setelah mencoba [NAMA PRODUK],
+produktivitasnya meningkat drastis. Tone: testimonial, efisien. Akhiri dengan CTA.”
+OUTPUT Contoh: “Pekerjaan kantor itu kadang bikin stres ya. Dulu saya
+sering lembur karena banyak yang harus dikerjakan. Tapi setelah pakai [NAMA
+PRODUK] ini, semua jadi lebih terorganisir. Saya bisa menyelesaikan lebih
+banyak pekerjaan dalam waktu yang lebih singkat. Rekomen banget buat para
+profesional. Linknya saya taro di bio ya!”
+Tag niche: [produktivitas] [kerja]
+3. Prompt: “Tulis cerita (3-4 kalimat) tentang Pak Budi yang merasa khawatir dengan
+biaya pendidikan anak di masa depan, lalu [NAMA PRODUK] datang sebagai solusi
+perencanaan finansial yang tepat. Tone: empati, lega. Akhiri dengan CTA.”
+OUTPUT Contoh: “Biaya pendidikan anak itu makin lama makin mahal ya.
+Dulu saya sering khawatir gimana nanti. Tapi setelah konsultasi dan pakai
+[NAMA PRODUK] ini, saya jadi punya rencana yang jelas untuk dana
+pendidikan anak. Sekarang lebih tenang. Yang mau juga, cek link di bio ya.”
+Tag niche: [keuangan] [keluarga]
+4. Prompt: “Buatkan cerita (3-4 kalimat) tentang Pak Budi yang awalnya tidak percaya
+bisa punya passive income tanpa mengganggu pekerjaan utama, lalu menemukan
+[NAMA PRODUK] yang membukakan jalan. Tone: motivasi, realistis. Akhiri dengan
+CTA.”
+OUTPUT Contoh: “Sebagai karyawan, waktu saya terbatas. Dulu mikirnya
+mustahil punya passive income. Tapi setelah kenal [NAMA PRODUK] ini, saya
+jadi punya sistem yang jelas buat dapetin cuan tambahan. Nggak perlu
+ninggalin pekerjaan utama, bisa sambil santai. Mau tau caranya? Linknya ada
+di bio ya!”
+Tag niche: [passive income] [keuangan]
+5. Prompt: “Tulis cerita (3-4 kalimat) tentang Pak Budi yang menemukan cara praktis
+untuk tetap produktif saat perjalanan bisnis dengan bantuan [NAMA PRODUK],
+sehingga lebih efisien dan nyaman. Tone: praktis, efisien. Akhiri dengan CTA.”
+OUTPUT Contoh: “Perjalanan bisnis itu kadang melelahkan ya. Tapi sejak
+punya [NAMA PRODUK] ini, saya jadi lebih produktif dan nyaman saat di
+perjalanan. Semua dokumen dan pekerjaan bisa diakses dengan mudah. Yang
+mau juga, linknya ada di bio ya!”
+Tag niche: [travel] [bisnis]
+6. Prompt: “Buatkan cerita (3-4 kalimat) tentang Pak Budi yang berhasil mengatasi
+masalah kurangnya waktu untuk pengembangan diri dengan menggunakan [NAMA
+PRODUK] platform edukasi online. Tone: personal, inspiratif. Akhiri dengan CTA.”
+OUTPUT Contoh: “Dulu saya sering merasa stuck di karir karena nggak punya
+waktu buat belajar hal baru. Tapi setelah daftar di [NAMA PRODUK] ini, saya
+bisa belajar kapan saja dan di mana saja. Skill saya jadi makin terasah.
+Rekomen banget buat yang mau upgrade diri. Linknya ada di bio ya.”
+Tag niche: [edukasi] [karir]
+7. Prompt: “Tulis cerita (3-4 kalimat) tentang Pak Budi yang awalnya kesulitan mencari
+ide konten untuk akun Threads-nya, lalu [NAMA PRODUK] membantunya
+menghasilkan ide-ide segar setiap hari. Tone: lega, kreatif. Akhiri dengan CTA.”
+OUTPUT Contoh: “Dulu suka bingung mau posting apa di Threads. Mikir ide
+konten aja udah makan waktu. Tapi sejak pakai [NAMA PRODUK] ini, ide
+konten jadi ngalir terus. Tinggal pilih, edit dikit, langsung posting. Nggak ada
+lagi deh yang namanya content block. Mau tau rahasianya? Linknya ada di bio
+ya!”
+Tag niche: [digital marketing] [konten]
+8. Prompt: “Buatkan cerita (3-4 kalimat) tentang Pak Budi yang menemukan [NAMA
+PRODUK] yang membantunya menjaga kesehatan dan kebugaran meski jadwal
+padat. Tone: sehat, praktis. Akhiri dengan CTA.”
+OUTPUT Contoh: “Jadwal kerja padat bukan alasan untuk tidak sehat. Dulu
+saya sering merasa lemas dan kurang fit. Tapi setelah rutin pakai [NAMA
+PRODUK] ini, energi saya jadi lebih stabil dan badan terasa lebih bugar. Yang
+mau tetap sehat dan produktif, cek link di bio ya!”
+Tag niche: [kesehatan] [lifestyle]
+9. Prompt: “Tulis cerita (3-4 kalimat) tentang Pak Budi yang berhasil menghemat
+pengeluaran untuk kebutuhan kantor dengan [NAMA PRODUK] yang menawarkan
+diskon atau cashback. Tone: hemat, cerdas. Akhiri dengan CTA.”
+OUTPUT Contoh: “Kebutuhan kantor itu kadang lumayan menguras budget
+ya. Tapi sejak saya pakai [NAMA PRODUK] ini, saya bisa dapat diskon atau
+cashback setiap kali belanja kebutuhan kantor. Lumayan banget buat hemat
+pengeluaran. Yang mau juga, linknya ada di bio ya!”
+Tag niche: [belanja] [bisnis]
+10. Prompt: “Buatkan cerita (3-4 kalimat) tentang Pak Budi yang menemukan [NAMA
+PRODUK] yang membantunya tetap terhubung dengan keluarga meski sibuk
+bekerja. Tone: keluarga, teknologi. Akhiri dengan CTA.”
+OUTPUT Contoh: “Sibuk kerja kadang bikin saya kurang waktu sama
+keluarga. Tapi setelah pakai [NAMA PRODUK] ini, saya jadi lebih mudah
+berkomunikasi dan memantau kegiatan anak-anak. Teknologi memang bisa
+mendekatkan yang jauh. Yang mau juga, linknya ada di bio ya!”
+Tag niche: [keluarga] [teknologi]
+C. TIPS PROMPTS (10 prompt)
+1. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) tentang cara investasi
+cerdas untuk pemula, dengan tone praktis. Sisipkan [NAMA PRODUK] sebagai tips
+terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Pak, mau investasi cerdas tapi bingung mulai dari mana?
+Coba deh 3 tips ini:
+1. Mulai dengan dana kecil dan konsisten.
+2. Diversifikasi portofolio investasi.
+3. Gunakan [NAMA PRODUK] untuk panduan investasi yang terpercaya.
+Yang mau tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [investasi] [keuangan]
+2. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) untuk meningkatkan
+produktivitas kerja di kantor, dengan tone solutif. Sisipkan [NAMA PRODUK] sebagai
+tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Pak, kerjaan numpuk tapi waktu terbatas? Coba deh tips
+ini:
+1. Buat to-do list prioritas harian.
+2. Hindari multitasking yang tidak efektif.
+3. Andalkan [NAMA PRODUK] untuk manajemen tugas yang lebih baik. Link
+[NAMA PRODUK] ada di bio ya, Pak!”
+Tag niche: [produktivitas] [kerja]
+3. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk perencanaan finansial
+keluarga yang efektif, dengan tone efisien. Sisipkan [NAMA PRODUK] sebagai tips
+terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Perencanaan finansial keluarga itu penting lho, Pak. Coba
+3 tips ini:
+1. Buat anggaran bulanan yang realistis.
+2. Sisihkan dana darurat secara rutin.
+3. Gunakan [NAMA PRODUK] untuk memantau dan mengelola keuangan
+keluarga. Yang mau tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [keuangan] [keluarga]
+4. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara mencari
+passive income tanpa mengganggu pekerjaan utama, dengan tone motivasi.
+Sisipkan [NAMA PRODUK] sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Pak, mau punya passive income tapi nggak punya banyak
+waktu? Ini 3 tipsnya:
+1. Mulai investasi di instrumen yang tidak butuh banyak monitoring.
+2. Manfaatkan aset yang sudah ada.
+3. Ikuti sistem [NAMA PRODUK] untuk affiliate marketing yang otomatis.
+Link [NAMA PRODUK] ada di bio ya, Pak!”
+Tag niche: [passive income] [keuangan]
+5. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk tetap produktif saat
+perjalanan bisnis, dengan tone inspiratif. Sisipkan [NAMA PRODUK] sebagai tips
+terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Perjalanan bisnis bisa tetap produktif kok, Pak. Coba deh
+tips ini:
+1. Siapkan semua dokumen digital di cloud.
+2. Manfaatkan waktu di pesawat/kereta untuk bekerja.
+3. Andalkan [NAMA PRODUK] untuk komunikasi tim yang efektif. Yang mau
+tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [travel] [bisnis]
+6. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara
+meningkatkan skill untuk karir, dengan tone profesional. Sisipkan [NAMA PRODUK]
+sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Untuk karir yang lebih baik, skill harus terus diasah, Pak.
+Ini 3 tipsnya:
+1. Identifikasi skill yang paling dibutuhkan di industri Anda.
+2. Ikuti kursus online atau workshop.
+3. Manfaatkan platform edukasi seperti [NAMA PRODUK] untuk belajar
+kapan saja. Link [NAMA PRODUK] ada di bio ya, Pak!”
+Tag niche: [edukasi] [karir]
+7. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk membuat konten
+Threads yang informatif dan menarik bagi profesional, dengan tone edukatif.
+Sisipkan [NAMA PRODUK] sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Pak, mau konten Threads-nya banyak yang baca dan
+share? Coba 3 tips ini:
+1. Mulai dengan data atau fakta menarik.
+2. Berikan insight yang relevan dengan industri.
+3. Gunakan [NAMA PRODUK] untuk ide konten yang selalu up-to-date.
+Yang mau tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [digital marketing] [konten]
+8. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara memilih
+asuransi yang tepat untuk keluarga, dengan tone informatif. Sisipkan [NAMA
+PRODUK] sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Memilih asuransi itu penting lho, Pak. Ini 3 tipsnya:
+1. Sesuaikan dengan kebutuhan dan budget keluarga.
+2. Pahami polis dan cakupan asuransi.
+3. Konsultasikan dengan ahli asuransi di [NAMA PRODUK]. Link [NAMA
+PRODUK] ada di bio ya, Pak!”
+Tag niche: [asuransi] [keuangan]
+9. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk tetap sehat dan bugar
+meski sibuk bekerja, dengan tone motivasi. Sisipkan [NAMA PRODUK] sebagai tips
+terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Sibuk kerja bukan alasan untuk tidak sehat, Pak. Coba 3
+tips ini:
+1. Luangkan waktu untuk olahraga ringan setiap hari.
+2. Perhatikan asupan makanan dan minuman.
+3. Gunakan [NAMA PRODUK] untuk memantau aktivitas fisik dan nutrisi.
+Yang mau tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [kesehatan] [lifestyle]
+10. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara mengelola
+stres kerja, dengan tone praktis. Sisipkan [NAMA PRODUK] sebagai tips terakhir.
+Akhiri dengan CTA.”
+OUTPUT Contoh: “Stres kerja itu wajar, Pak. Tapi harus dikelola. Coba 3 tips
+ini:
+1. Ambil jeda singkat untuk istirahat.
+2. Lakukan hobi atau aktivitas yang disukai.
+3. Manfaatkan [NAMA PRODUK] untuk relaksasi dan mindfulness. Link
+[NAMA PRODUK] ada di bio ya, Pak!”
+Tag niche: [kesehatan] [kerja]
+AVATAR 4 — MAHASISWA ENTREPRENEUR
+PROFIL AVATAR:
+Nama karakter: Kevin
+Backstory: Mahasiswa tingkat akhir yang punya jiwa entrepreneurship tinggi. Tidak
+puas hanya dengan IPK, Kevin ingin membangun bisnisnya sendiri sejak kuliah.
+Selalu mencari peluang, melek teknologi, dan suka berjejaring. Punya banyak ide
+tapi kadang terkendala modal dan pengalaman. Aktif di berbagai komunitas startup
+dan inkubator bisnis.
+Usia: 20 tahun
+Situasi: Mahasiswa yang aktif di dunia startup/bisnis, sering ikut kompetisi bisnis,
+punya side project, dan bercita-cita jadi founder sukses.
+Pain point yang dia rasakan: Modal terbatas, bingung cari mentor, takut ide
+bisnisnya dicuri, kesulitan membagi waktu antara kuliah dan bisnis, ingin punya tim
+yang solid.
+Impian dan motivasinya: Membangun startup yang sukses, punya kebebasan
+finansial di usia muda, bisa menciptakan lapangan kerja, dan membuktikan bahwa
+mahasiswa juga bisa berbisnis.
+Cara bicara: Energik, forward-thinking, sedikit “visioner”, menggunakan istilah
+startup dan bisnis ringan, penuh semangat.
+Apa yang TIDAK pernah dia katakan: Mengeluh tanpa solusi, pesimis, atau terlalu
+terpaku pada teori tanpa praktik.
+Emoji yang sering dipakai: 
+�
+�💡💰📈💻
+NICHE AFFILIATE YANG COCOK:
+1. Tech Tools & SaaS: (Contoh: Software manajemen proyek, aplikasi desain grafis,
+hosting website, VPN) Alasan: Kebutuhan esensial untuk mendukung operasional
+startup dan bisnis online.
+2. Online Learning Platforms: (Contoh: Kursus digital marketing, kelas coding,
+workshop bisnis online) Alasan: Mahasiswa entrepreneur selalu ingin meningkatkan
+skill dan pengetahuan mereka.
+3. Startup & Bisnis Apps: (Contoh: Aplikasi pencatat keuangan bisnis, CRM, tools
+riset pasar) Alasan: Membantu efisiensi dan pertumbuhan bisnis mereka.
+4. Freelance Platforms: (Contoh: Platform freelancer untuk mencari
+desainer/developer, kursus jadi freelancer sukses) Alasan: Cara untuk mendapatkan
+penghasilan tambahan atau mencari talent untuk project mereka.
+5. Buku & Resources Bisnis: (Contoh: Buku self-help bisnis, e-book strategi
+marketing, template pitch deck) Alasan: Sumber inspirasi dan pengetahuan untuk
+mengembangkan bisnis.
+6. Event & Webinar Bisnis: (Contoh: Tiket webinar startup, workshop investasi,
+seminar entrepreneurship) Alasan: Kesempatan untuk networking dan belajar dari
+para ahli.
+30 PROMPT SIAP PAKAI:
+A. HOOK PROMPTS (10 prompt)
+1. Prompt: “Tulis kalimat pembuka thread Threads dengan gaya seorang mahasiswa
+entrepreneur yang baru menemukan tools bisnis efisien. Tone: energik, informatif,
+excited. Panjang: 1-2 kalimat. Sisipkan placeholder [NAMA PRODUK] di akhir.”
+OUTPUT Contoh: “Gila, gue baru nemu [NAMA PRODUK] ini dan langsung
+bikin startup gue makin ngebut! Mahasiswa entrepreneur wajib tau!”
+Tag niche: [bisnis] [produktivitas]
+2. Prompt: “Buatkan hook Threads tentang drama modal minim saat memulai bisnis,
+dengan tone relatable dan menawarkan solusi. Panjang: 1-2 kalimat. Sisipkan
+placeholder [NAMA PRODUK] sebagai penyelamat.”
+OUTPUT Contoh: “Modal cekak bukan alasan buat nggak mulai bisnis. Untung
+ada [NAMA PRODUK] yang bikin gue bisa start tanpa pusing mikirin biaya.”
+Tag niche: [bisnis] [keuangan]
+3. Prompt: “Tulis hook Threads tentang betapa pentingnya terus belajar dan upgrade
+skill di dunia startup, dengan tone motivasi dan realistis. Panjang: 1-2 kalimat.
+Sisipkan placeholder [NAMA PRODUK] sebagai solusi.”
+OUTPUT Contoh: “Di dunia startup, kalau nggak belajar, ya ketinggalan.
+Untung gue punya [NAMA PRODUK] yang bikin skill gue selalu up-to-date.”
+Tag niche: [edukasi] [startup]
+4. Prompt: “Buatkan hook Threads yang membandingkan cara lama dan cara baru
+dalam riset pasar, dengan tone terkejut dan senang. Panjang: 1-2 kalimat. Sisipkan
+placeholder [NAMA PRODUK] sebagai cara baru.”
+OUTPUT Contoh: “Dulu riset pasar butuh berhari-hari, sekarang pakai [NAMA
+PRODUK] cuma hitungan menit! Nyesel baru tau sekarang.”
+Tag niche: [bisnis] [riset]
+5. Prompt: “Tulis hook Threads tentang menemukan platform freelance yang
+membantu mahasiswa entrepreneur, dengan tone antusias dan ingin berbagi.
+Panjang: 1-2 kalimat. Sisipkan placeholder [NAMA PRODUK].”
+OUTPUT Contoh: “Bro, gue nemu platform freelance yang cocok banget buat
+mahasiswa entrepreneur kayak kita! [NAMA PRODUK] ini bisa bantu cari
+project atau talent. Wajib coba!”
+Tag niche: [freelance] [bisnis]
+6. Prompt: “Buatkan hook Threads tentang tips menghemat waktu dalam manajemen
+proyek, dengan tone praktis dan efisien. Panjang: 1-2 kalimat. Sisipkan placeholder
+[NAMA PRODUK] sebagai alat bantu.”
+OUTPUT Contoh: “Manajemen proyek jadi lebih efisien dan tim makin solid
+berkat [NAMA PRODUK] ini. Para founder wajib punya!”
+Tag niche: [produktivitas] [bisnis]
+7. Prompt: “Tulis hook Threads tentang kekhawatiran akan kegagalan startup, dengan
+tone relatable dan menawarkan solusi. Panjang: 1-2 kalimat. Sisipkan placeholder
+[NAMA PRODUK] sebagai solusi.”
+OUTPUT Contoh: “Gagal itu biasa, tapi bangkit itu luar biasa. Untung gue
+punya [NAMA PRODUK] yang selalu kasih insight biar nggak salah langkah.”
+Tag niche: [startup] [motivasi]
+8. Prompt: “Buatkan hook Threads tentang pengalaman positif menggunakan tools AI
+untuk bisnis, dengan tone inovatif dan merekomendasikan. Panjang: 1-2 kalimat.
+Sisipkan placeholder [NAMA PRODUK].”
+OUTPUT Contoh: “AI itu bukan cuma buat chat doang, bro. [NAMA PRODUK]
+ini bikin bisnis gue makin cerdas dan otomatis. Wajib coba!”
+Tag niche: [AI] [bisnis]
+9. Prompt: “Tulis hook Threads tentang cara tetap fokus dan produktif meski banyak
+distraksi, dengan tone inspiratif dan praktis. Panjang: 1-2 kalimat. Sisipkan
+placeholder [NAMA PRODUK].”
+OUTPUT Contoh: “Di tengah hiruk pikuk dunia startup, fokus itu kunci.
+Rahasianya cuma [NAMA PRODUK] ini yang bikin gue tetap on track.”
+Tag niche: [produktivitas] [lifestyle]
+10. Prompt: “Buatkan hook Threads tentang menemukan cara baru yang lebih mudah
+untuk mendapatkan pendanaan awal, dengan tone lega dan senang. Panjang: 1-2
+kalimat. Sisipkan placeholder [NAMA PRODUK].”
+OUTPUT Contoh: “Akhirnya nemu cara dapet pendanaan awal yang nggak
+bikin pusing! Semua berkat [NAMA PRODUK] ini, bro.”
+Tag niche: [keuangan] [startup]
+B. STORY PROMPTS (10 prompt)
+1. Prompt: “Tulis cerita pendek (3-4 kalimat) tentang pengalaman Kevin yang awalnya
+kesulitan mencari ide bisnis yang unik dan punya potensi, lalu menemukan [NAMA
+PRODUK] yang membantunya memvalidasi ide. Tone: personal, informatif, inspiratif.
+Akhiri dengan CTA untuk klik link di bio.”
+OUTPUT Contoh: “Dulu, gue punya banyak ide bisnis tapi bingung mana yang
+paling potensial. Takut buang waktu dan modal. Sampai akhirnya gue coba
+[NAMA PRODUK] ini buat validasi ide. Prosesnya cepat, datanya akurat, dan
+sekarang bisnis gue udah jalan. Yang mau tau caranya, linknya ada di bio ya,
+bro!”
+Tag niche: [bisnis] [startup]
+2. Prompt: “Buatkan cerita (3-4 kalimat) tentang Kevin yang awalnya kewalahan
+dengan manajemen tim dan proyek, tapi setelah mencoba [NAMA PRODUK], timnya
+jadi lebih solid dan produktif. Tone: testimonial, efisien. Akhiri dengan CTA.”
+OUTPUT Contoh: “Manajemen tim itu kadang bikin pusing ya. Dulu sering
+miss komunikasi dan deadline. Tapi setelah pakai [NAMA PRODUK] ini, semua
+jadi lebih terorganisir. Tim gue jadi lebih solid dan produktivitas naik drastis.
+Rekomen banget buat para founder. Linknya gue taro di bio ya!”
+Tag niche: [produktivitas] [bisnis]
+3. Prompt: “Tulis cerita (3-4 kalimat) tentang Kevin yang merasa khawatir dengan
+kurangnya skill di bidang tertentu, lalu [NAMA PRODUK] datang sebagai solusi
+platform edukasi online yang tepat. Tone: empati, lega. Akhiri dengan CTA.”
+OUTPUT Contoh: “Dunia startup itu cepat banget berubah. Dulu gue sering
+khawatir skill gue nggak cukup. Tapi setelah daftar di [NAMA PRODUK] ini, gue
+bisa belajar skill baru kapan saja dan di mana saja. Sekarang jadi lebih pede.
+Yang mau juga, cek link di bio ya.”
+Tag niche: [edukasi] [karir]
+4. Prompt: “Buatkan cerita (3-4 kalimat) tentang Kevin yang awalnya tidak percaya
+bisa punya penghasilan tambahan dari internet tanpa mengganggu kuliah, lalu
+menemukan [NAMA PRODUK] yang membukakan jalan. Tone: motivasi, realistis.
+Akhiri dengan CTA.”
+OUTPUT Contoh: “Siapa sangka, mahasiswa kayak gue bisa punya
+penghasilan sendiri dari internet? Dulu mikirnya mustahil. Tapi setelah kenal
+[NAMA PRODUK] ini, gue jadi punya sistem yang jelas buat dapetin cuan
+tambahan. Nggak perlu ninggalin kuliah, bisa sambil rebahan. Mau tau
+caranya? Linknya ada di bio ya, bro!”
+Tag niche: [side hustle] [keuangan]
+5. Prompt: “Tulis cerita (3-4 kalimat) tentang Kevin yang menemukan cara praktis
+untuk mencari talent freelance dengan bantuan [NAMA PRODUK], sehingga lebih
+efisien dan hemat biaya. Tone: praktis, efisien. Akhiri dengan CTA.”
+OUTPUT Contoh: “Cari talent freelance itu kadang susah-susah gampang ya.
+Tapi sejak punya [NAMA PRODUK] ini, gue jadi lebih mudah menemukan
+talent yang sesuai dengan budget dan kebutuhan project gue. Hemat waktu
+dan biaya. Yang mau juga, linknya ada di bio ya!”
+Tag niche: [freelance] [bisnis]
+6. Prompt: “Buatkan cerita (3-4 kalimat) tentang Kevin yang berhasil mengatasi
+masalah kurangnya inspirasi untuk konten marketing dengan menggunakan [NAMA
+PRODUK] tools AI. Tone: personal, kreatif. Akhiri dengan CTA.”
+OUTPUT Contoh: “Dulu gue sering stuck kalau mau bikin konten marketing.
+Mikir ide aja udah makan waktu. Tapi setelah pakai [NAMA PRODUK] ini, ide
+konten jadi ngalir terus. Tinggal pilih, edit dikit, langsung posting. Nggak ada
+lagi deh yang namanya content block. Mau tau rahasianya? Linknya ada di bio
+ya!”
+Tag niche: [digital marketing] [AI]
+7. Prompt: “Tulis cerita (3-4 kalimat) tentang Kevin yang awalnya kesulitan mencari
+investor, lalu [NAMA PRODUK] membantunya menyusun pitch deck yang menarik
+dan mendapatkan pendanaan. Tone: lega, sukses. Akhiri dengan CTA.”
+OUTPUT Contoh: “Cari investor itu tantangan terbesar buat startup. Dulu gue
+sering ditolak karena pitch deck gue kurang meyakinkan. Tapi setelah pakai
+[NAMA PRODUK] ini, pitch deck gue jadi lebih profesional dan berhasil menarik
+investor. Seneng banget! Yang mau tau rahasianya, linknya ada di bio ya!”
+Tag niche: [startup] [keuangan]
+8. Prompt: “Buatkan cerita (3-4 kalimat) tentang Kevin yang menemukan [NAMA
+PRODUK] yang membantunya menjaga kesehatan dan kebugaran meski jadwal
+padat sebagai mahasiswa entrepreneur. Tone: sehat, praktis. Akhiri dengan CTA.”
+OUTPUT Contoh: “Jadwal kuliah dan bisnis padat bukan alasan untuk tidak
+sehat. Dulu gue sering merasa lemas dan kurang fit. Tapi setelah rutin pakai
+[NAMA PRODUK] ini, energi gue jadi lebih stabil dan badan terasa lebih bugar.
+Yang mau tetap sehat dan produktif, cek link di bio ya!”
+Tag niche: [kesehatan] [lifestyle]
+9. Prompt: “Tulis cerita (3-4 kalimat) tentang Kevin yang berhasil menghemat
+pengeluaran untuk software bisnis dengan [NAMA PRODUK] yang menawarkan
+diskon atau versi gratis yang powerful. Tone: hemat, cerdas. Akhiri dengan CTA.”
+OUTPUT Contoh: “Kebutuhan software bisnis itu kadang lumayan menguras
+budget ya. Tapi sejak gue pakai [NAMA PRODUK] ini, gue bisa dapat diskon
+atau bahkan versi gratis yang powerful. Lumayan banget buat hemat
+pengeluaran startup. Yang mau juga, linknya ada di bio ya!”
+Tag niche: [bisnis] [keuangan]
+10. Prompt: “Buatkan cerita (3-4 kalimat) tentang Kevin yang menemukan [NAMA
+PRODUK] yang membantunya tetap terhubung dengan komunitas startup dan
+mendapatkan insight terbaru. Tone: komunitas, informasi. Akhiri dengan CTA.”
+OUTPUT Contoh: “Di dunia startup, networking itu penting banget. Tapi
+kadang susah cari info event atau insight terbaru. Tapi setelah pakai [NAMA
+PRODUK] ini, gue jadi lebih mudah terhubung dengan komunitas dan selalu
+update info. Yang mau juga, linknya ada di bio ya!”
+Tag niche: [startup] [networking]
+C. TIPS PROMPTS (10 prompt)
+1. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) tentang cara memulai bisnis
+dengan modal minim untuk mahasiswa, dengan tone praktis. Sisipkan [NAMA
+PRODUK] sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Bro, mau mulai bisnis tapi modal cekak? Coba deh 3 tips
+ini:
+1. Mulai dari ide yang bisa dieksekusi sendiri.
+2. Manfaatkan platform gratis untuk promosi.
+3. Gunakan [NAMA PRODUK] untuk riset pasar dan validasi ide. Yang mau
+tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [bisnis] [keuangan]
+2. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) untuk meningkatkan
+produktivitas sebagai mahasiswa entrepreneur, dengan tone solutif. Sisipkan [NAMA
+PRODUK] sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Kuliah sambil bisnis itu butuh manajemen waktu yang jago,
+bro. Coba deh tips ini:
+1. Buat jadwal prioritas harian.
+2. Delegasikan tugas yang bisa didelegasikan.
+3. Andalkan [NAMA PRODUK] untuk manajemen proyek yang efisien. Link
+[NAMA PRODUK] ada di bio ya, bro!”
+Tag niche: [produktivitas] [bisnis]
+3. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk mencari ide bisnis
+yang inovatif, dengan tone efisien. Sisipkan [NAMA PRODUK] sebagai tips terakhir.
+Akhiri dengan CTA.”
+OUTPUT Contoh: “Mencari ide bisnis itu nggak harus susah kok, bro. Coba 3
+tips ini:
+1. Identifikasi masalah yang sering kamu temui.
+2. Amati tren pasar yang sedang berkembang.
+3. Gunakan [NAMA PRODUK] untuk brainstorming ide dan riset kompetitor.
+Yang mau tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [bisnis] [inovasi]
+4. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara
+membangun personal branding di media sosial untuk mahasiswa entrepreneur,
+dengan tone motivasi. Sisipkan [NAMA PRODUK] sebagai tips terakhir. Akhiri
+dengan CTA.”
+OUTPUT Contoh: “Bro, personal branding itu penting banget buat mahasiswa
+entrepreneur. Ini 3 tipsnya:
+1. Tentukan niche dan keahlianmu.
+2. Konsisten berbagi value di media sosial.
+3. Gunakan [NAMA PRODUK] untuk membuat konten yang menarik dan
+profesional. Link [NAMA PRODUK] ada di bio ya, bro!”
+Tag niche: [personal branding] [digital marketing]
+5. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk mencari mentor yang
+tepat untuk startup, dengan tone inspiratif. Sisipkan [NAMA PRODUK] sebagai tips
+terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Mentor itu penting banget buat startup, bro. Coba deh tips
+ini:
+1. Identifikasi kebutuhan dan area yang ingin kamu kembangkan.
+2. Cari mentor yang punya pengalaman di bidang yang sama.
+3. Manfaatkan platform networking seperti [NAMA PRODUK] untuk
+terhubung dengan mentor potensial. Yang mau tau [NAMA PRODUK] itu
+apa, cek link di bio ya!”
+Tag niche: [startup] [networking]
+6. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara membuat
+pitch deck yang menarik untuk investor, dengan tone profesional. Sisipkan [NAMA
+PRODUK] sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Pitch deck itu kunci buat menarik investor, bro. Ini 3
+tipsnya:
+1. Fokus pada masalah dan solusi yang kamu tawarkan.
+2. Sajikan data yang kuat dan realistis.
+3. Gunakan [NAMA PRODUK] untuk desain pitch deck yang profesional dan
+meyakinkan. Link [NAMA PRODUK] ada di bio ya, bro!”
+Tag niche: [startup] [keuangan]
+7. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk membuat konten
+marketing yang efektif untuk startup, dengan tone edukatif. Sisipkan [NAMA
+PRODUK] sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Bro, mau konten marketing startup kamu viral? Coba 3 tips
+ini:
+1. Kenali target audiensmu dengan baik.
+2. Fokus pada storytelling yang menarik.
+3. Gunakan [NAMA PRODUK] untuk ide konten yang kreatif dan relevan.
+Yang mau tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [digital marketing] [startup]
+8. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara memilih
+tools AI yang tepat untuk bisnis, dengan tone informatif. Sisipkan [NAMA PRODUK]
+sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Memilih tools AI itu penting lho, bro. Ini 3 tipsnya:
+1. Sesuaikan dengan kebutuhan dan budget bisnismu.
+2. Baca review dari pengguna lain.
+3. Cari rekomendasi tools AI terbaik di [NAMA PRODUK]. Link [NAMA
+PRODUK] ada di bio ya, bro!”
+Tag niche: [AI] [bisnis]
+9. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk tetap sehat dan bugar
+meski sibuk membangun startup, dengan tone motivasi. Sisipkan [NAMA PRODUK]
+sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Sibuk membangun startup bukan alasan untuk tidak sehat,
+bro. Coba 3 tips ini:
+1. Luangkan waktu untuk olahraga ringan setiap hari.
+2. Perhatikan asupan makanan dan minuman.
+3. Gunakan [NAMA PRODUK] untuk memantau aktivitas fisik dan nutrisi.
+Yang mau tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [kesehatan] [lifestyle]
+10. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara mengelola
+stres saat membangun startup, dengan tone praktis. Sisipkan [NAMA PRODUK]
+sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Stres saat membangun startup itu wajar, bro. Tapi harus
+dikelola. Coba 3 tips ini:
+1. Ambil jeda singkat untuk istirahat.
+2. Lakukan hobi atau aktivitas yang disukai.
+3. Manfaatkan [NAMA PRODUK] untuk relaksasi dan mindfulness. Link
+[NAMA PRODUK] ada di bio ya, bro!”
+Tag niche: [kesehatan] [startup]
+AVATAR 5 — IBU MUDA MODERN
+PROFIL AVATAR:
+Nama karakter: Citra
+Backstory: Ibu muda usia 28 tahun, punya satu anak batita. Aktif di media sosial,
+suka mengikuti tren parenting dan lifestyle. Ingin tetap produktif dan punya
+penghasilan sendiri tanpa harus meninggalkan peran sebagai ibu. Suka berbagi tips
+dan inspirasi, serta mencari cara untuk membuat hidup lebih mudah dan
+menyenangkan.
+Usia: 28 tahun
+Situasi: Ibu muda yang melek digital, aktif medsos, ingin tetap relevan dan punya
+kontribusi finansial untuk keluarga.
+Pain point yang dia rasakan: Merasa kehilangan identitas diri setelah punya anak,
+ingin punya penghasilan tapi waktu terbatas, bingung cari produk parenting yang
+tepat, khawatir ketinggalan tren, ingin punya me-time.
+Impian dan motivasinya: Bisa punya penghasilan sendiri, tetap stylish dan
+produktif, memberikan yang terbaik untuk anak, punya komunitas yang supportif, dan
+bisa liburan keluarga.
+Cara bicara: Ceria, inspiratif, tidak menggurui, menggunakan bahasa yang ramah
+dan kekinian (misal: “bestie”, “moms”).
+Apa yang TIDAK pernah dia katakan: Mengeluh berlebihan, bahasa kasar, atau
+terlalu serius.
+Emoji yang sering dipakai: 
+�
+�👶✨👗📸
+NICHE AFFILIATE YANG COCOK:
+1. Beauty & Skincare: (Contoh: Skincare aman busui, makeup natural, produk
+perawatan rambut) Alasan: Ibu muda tetap ingin merawat diri dan tampil menarik.
+2. Fashion & Lifestyle: (Contoh: Baju menyusui stylish, tas ibu, aksesoris fashion,
+dekorasi rumah minimalis) Alasan: Ingin tetap fashionable dan punya gaya hidup
+modern.
+3. Parenting Products: (Contoh: Stroller ringan, botol susu anti kolik, mainan edukasi,
+buku parenting) Alasan: Kebutuhan primer untuk anak, selalu mencari produk terbaik
+untuk buah hati.
+4. Meal Planning & Food: (Contoh: Resep MPASI, catering sehat, bumbu instan
+organik, snack sehat) Alasan: Perhatian terhadap gizi keluarga dan kepraktisan
+dalam menyiapkan makanan.
+5. Self-Improvement & Wellness: (Contoh: Aplikasi meditasi, buku pengembangan
+diri, kelas yoga online, vitamin) Alasan: Ingin tetap sehat fisik dan mental, serta terus
+mengembangkan diri.
+6. Travel & Staycation Keluarga: (Contoh: Promo hotel ramah anak, tiket masuk
+tempat wisata, perlengkapan travel anak) Alasan: Ingin quality time bersama
+keluarga dan mencari pengalaman baru.
+30 PROMPT SIAP PAKAI:
+A. HOOK PROMPTS (10 prompt)
+1. Prompt: “Tulis kalimat pembuka thread Threads dengan gaya seorang ibu muda
+yang baru menemukan skincare aman untuk busui. Tone: ceria, informatif, excited.
+Panjang: 1-2 kalimat. Sisipkan placeholder [NAMA PRODUK] di akhir.”
+OUTPUT Contoh: “Moms, aku nemu skincare ajaib yang aman buat busui!
+Kulit jadi glowing lagi berkat [NAMA PRODUK]. Wajib coba!”
+Tag niche: [kecantikan] [skincare]
+2. Prompt: “Buatkan hook Threads tentang drama anak susah tidur, dengan tone
+relatable dan menawarkan solusi. Panjang: 1-2 kalimat. Sisipkan placeholder [NAMA
+PRODUK] sebagai penyelamat.”
+OUTPUT Contoh: “Ada yang sama nggak sih? Anakku susah banget tidur,
+bikin pusing! Untung ada [NAMA PRODUK] yang bikin dia nyenyak lagi.”
+Tag niche: [parenting] [anak]
+3. Prompt: “Tulis hook Threads tentang betapa pentingnya punya me-time untuk ibu
+muda, dengan tone motivasi tapi realistis. Panjang: 1-2 kalimat. Sisipkan placeholder
+[NAMA PRODUK] sebagai solusi.”
+OUTPUT Contoh: “Me-time itu bukan egois, moms. Itu investasi buat
+kewarasan kita. Dan [NAMA PRODUK] ini bisa jadi jawabannya.”
+Tag niche: [self-care] [lifestyle]
+4. Prompt: “Buatkan hook Threads yang membandingkan cara lama dan cara baru
+dalam menyiapkan MPASI, dengan tone terkejut dan senang. Panjang: 1-2 kalimat.
+Sisipkan placeholder [NAMA PRODUK] sebagai cara baru.”
+OUTPUT Contoh: “Dulu MPASI ribet banget, sekarang pakai [NAMA
+PRODUK] jadi super praktis! Nyesel baru tau sekarang.”
+Tag niche: [parenting] [makanan]
+5. Prompt: “Tulis hook Threads tentang menemukan produk fashion stylish tapi
+nyaman untuk ibu muda, dengan tone antusias dan ingin berbagi. Panjang: 1-2
+kalimat. Sisipkan placeholder [NAMA PRODUK].”
+OUTPUT Contoh: “Bestie, aku nemu baju yang stylish tapi nyaman banget
+buat ibu muda! [NAMA PRODUK] ini wajib punya!”
+Tag niche: [fashion] [lifestyle]
+6. Prompt: “Buatkan hook Threads tentang tips menghemat waktu dalam mengurus
+rumah tangga, dengan tone praktis dan efisien. Panjang: 1-2 kalimat. Sisipkan
+placeholder [NAMA PRODUK] sebagai alat bantu.”
+OUTPUT Contoh: “Rumah beres dalam 30 menit? Bisa banget kalau pakai
+[NAMA PRODUK] ini. Moms wajib tau!”
+Tag niche: [rumah tangga] [produktivitas]
+7. Prompt: “Tulis hook Threads tentang kekhawatiran finansial ibu muda, dengan tone
+relatable dan menawarkan solusi. Panjang: 1-2 kalimat. Sisipkan placeholder [NAMA
+PRODUK] sebagai solusi.”
+OUTPUT Contoh: “Kadang suka kepikiran, gimana ya kalau ada kebutuhan
+mendadak? Untung aku udah siapin [NAMA PRODUK] ini buat jaga-jaga.”
+Tag niche: [keuangan] [keluarga]
+8. Prompt: “Buatkan hook Threads tentang pengalaman positif menggunakan produk
+parenting yang memudahkan hidup, dengan tone bahagia dan merekomendasikan.
+Panjang: 1-2 kalimat. Sisipkan placeholder [NAMA PRODUK].”
+OUTPUT Contoh: “Hidupku jadi lebih mudah setelah pakai [NAMA PRODUK]
+ini. Moms yang punya balita wajib punya!”
+Tag niche: [parenting] [anak]
+9. Prompt: “Tulis hook Threads tentang cara tetap produktif meski sibuk mengurus
+anak, dengan tone inspiratif dan praktis. Panjang: 1-2 kalimat. Sisipkan placeholder
+[NAMA PRODUK].”
+OUTPUT Contoh: “Walau sibuk ngurus anak, aku tetap bisa produktif lho,
+moms! Rahasianya cuma [NAMA PRODUK] ini.”
+Tag niche: [produktivitas] [lifestyle]
+10. Prompt: “Buatkan hook Threads tentang menemukan cara baru yang lebih mudah
+untuk menjaga kesehatan keluarga, dengan tone lega dan senang. Panjang: 1-2
+kalimat. Sisipkan placeholder [NAMA PRODUK].”
+OUTPUT Contoh: “Akhirnya nemu cara jaga kesehatan keluarga yang nggak
+bikin ribet! Semua berkat [NAMA PRODUK] ini, moms.”
+Tag niche: [kesehatan] [keluarga]
+B. STORY PROMPTS (10 prompt)
+1. Prompt: “Tulis cerita pendek (3-4 kalimat) tentang pengalaman Citra yang awalnya
+kesulitan mencari skincare yang aman dan efektif setelah melahirkan, lalu
+menemukan [NAMA PRODUK] yang membantunya kembali percaya diri. Tone:
+personal, relatable, inspiring. Akhiri dengan CTA untuk klik link di bio.”
+OUTPUT Contoh: “Setelah melahirkan, kulitku jadi kusam dan banyak
+masalah. Rasanya nggak pede banget. Udah coba berbagai skincare tapi
+nggak ada yang cocok dan aman buat busui. Sampai akhirnya aku nemu
+[NAMA PRODUK] ini. Sekarang kulitku jadi lebih cerah, sehat, dan aku kembali
+percaya diri. Yang mau tau rahasianya, linknya ada di bio ya, moms!”
+Tag niche: [kecantikan] [skincare]
+2. Prompt: “Buatkan cerita (3-4 kalimat) tentang Citra yang awalnya kewalahan
+dengan drama MPASI anak, tapi setelah mencoba [NAMA PRODUK], prosesnya jadi
+lebih mudah dan menyenangkan. Tone: testimonial, happy. Akhiri dengan CTA.”
+OUTPUT Contoh: “Dulu drama banget tiap kali mau nyiapin MPASI anak.
+Bingung mau masak apa, ribet, dan anak kadang nggak mau makan. Tapi
+setelah pakai [NAMA PRODUK] ini, semua jadi lebih mudah. Anakku lahap
+makannya, dan aku jadi lebih happy. Moms yang punya balita wajib banget
+punya ini. Linknya aku taro di bio ya!”
+Tag niche: [parenting] [makanan]
+3. Prompt: “Tulis cerita (3-4 kalimat) tentang Citra yang merasa lelah dengan rutinitas
+harian, lalu [NAMA PRODUK] datang sebagai solusi untuk me-time yang berkualitas.
+Tone: empati, lega. Akhiri dengan CTA.”
+OUTPUT Contoh: “Rutinitas ibu muda itu kadang bikin lelah ya, moms.
+Rasanya pengen punya waktu buat diri sendiri. Tapi sejak pakai [NAMA
+PRODUK] ini, aku jadi punya me-time yang berkualitas. Bisa baca buku,
+maskeran, atau sekadar ngopi santai. Rasanya beban hidup berkurang satu!
+Yang mau tau rahasianya, cek link di bio ya.”
+Tag niche: [self-care] [lifestyle]
+4. Prompt: “Buatkan cerita (3-4 kalimat) tentang Citra yang awalnya tidak percaya bisa
+punya penghasilan tambahan dari rumah tanpa mengganggu anak, lalu menemukan
+[NAMA PRODUK] yang membukakan jalan. Tone: motivasi, realistis. Akhiri dengan
+CTA.”
+OUTPUT Contoh: “Siapa sangka, ibu muda kayak aku bisa punya penghasilan
+sendiri dari rumah? Dulu mikirnya mustahil. Tapi setelah kenal [NAMA
+PRODUK] ini, aku jadi punya sistem yang jelas buat dapetin cuan. Nggak perlu
+ninggalin anak, bisa sambil ngurus rumah. Mau tau caranya? Linknya ada di
+bio ya, moms!”
+Tag niche: [side income] [keuangan]
+5. Prompt: “Tulis cerita (3-4 kalimat) tentang Citra yang menemukan cara praktis untuk
+tetap stylish dan fashionable meski sibuk mengurus anak dengan bantuan [NAMA
+PRODUK]. Tone: praktis, stylish. Akhiri dengan CTA.”
+OUTPUT Contoh: “Dulu mikirnya kalau udah punya anak, bye-bye deh sama
+fashion. Tapi sejak punya [NAMA PRODUK] ini, aku jadi tetap bisa tampil
+stylish dan nyaman. Nggak perlu ribet, tapi tetap kekinian. Yang mau juga,
+linknya ada di bio ya!”
+Tag niche: [fashion] [lifestyle]
+6. Prompt: “Buatkan cerita (3-4 kalimat) tentang Citra yang berhasil mengatasi
+masalah kurangnya inspirasi untuk konten media sosial dengan menggunakan
+[NAMA PRODUK] tools AI. Tone: personal, kreatif. Akhiri dengan CTA.”
+OUTPUT Contoh: “Dulu aku sering stuck kalau mau bikin konten di Instagram
+atau Threads. Mikir ide aja udah makan waktu. Tapi setelah pakai [NAMA
+PRODUK] ini, ide konten jadi ngalir terus. Tinggal pilih, edit dikit, langsung
+posting. Nggak ada lagi deh yang namanya content block. Mau tau
+rahasianya? Linknya ada di bio ya!”
+Tag niche: [digital marketing] [konten]
+7. Prompt: “Tulis cerita (3-4 kalimat) tentang Citra yang awalnya kesulitan mencari
+produk edukasi yang tepat untuk anaknya, lalu [NAMA PRODUK] membantunya
+menemukan mainan yang edukatif dan aman. Tone: lega, happy. Akhiri dengan
+CTA.”
+OUTPUT Contoh: “Cari mainan edukasi buat anak itu gampang-gampang
+susah ya, moms. Dulu aku sering bingung mau beli apa. Tapi setelah pakai
+[NAMA PRODUK] ini, aku jadi lebih mudah menemukan mainan yang edukatif,
+aman, dan disukai anakku. Seneng banget! Yang mau tau rahasianya, linknya
+ada di bio ya!”
+Tag niche: [parenting] [anak]
+8. Prompt: “Buatkan cerita (3-4 kalimat) tentang Citra yang menemukan [NAMA
+PRODUK] yang membantunya menjaga kebersihan rumah dengan lebih mudah dan
+efektif, sehingga punya lebih banyak waktu untuk keluarga. Tone: bersih, praktis.
+Akhiri dengan CTA.”
+OUTPUT Contoh: “Rumah bersih itu bikin hati tenang ya, moms. Tapi kadang
+males banget bersih-bersih. Untung aku punya [NAMA PRODUK] ini. Bersih
+bersih jadi lebih cepat dan hasilnya maksimal. Aku jadi punya lebih banyak
+waktu buat main sama anak. Yang mau rumahnya bersih kinclong, cek link di
+bio ya!”
+Tag niche: [rumah tangga]
+9. Prompt: “Tulis cerita (3-4 kalimat) tentang Citra yang berhasil menghemat
+pengeluaran untuk kebutuhan anak dengan [NAMA PRODUK] yang menawarkan
+diskon atau cashback. Tone: hemat, cerdas. Akhiri dengan CTA.”
+OUTPUT Contoh: “Kebutuhan anak itu kadang lumayan menguras budget ya,
+moms. Tapi sejak aku pakai [NAMA PRODUK] ini, aku bisa dapat diskon atau
+cashback setiap kali belanja kebutuhan anak. Lumayan banget buat hemat
+pengeluaran. Yang mau juga, linknya ada di bio ya!”
+Tag niche: [belanja] [parenting]
+10. Prompt: “Buatkan cerita (3-4 kalimat) tentang Citra yang menemukan [NAMA
+PRODUK] yang membantunya tetap terhubung dengan komunitas ibu muda dan
+mendapatkan insight terbaru. Tone: komunitas, informasi. Akhiri dengan CTA.”
+OUTPUT Contoh: “Di dunia parenting, punya komunitas itu penting banget.
+Tapi kadang susah cari info atau insight terbaru. Tapi setelah pakai [NAMA
+PRODUK] ini, aku jadi lebih mudah terhubung dengan komunitas ibu muda dan
+selalu update info. Yang mau juga, linknya ada di bio ya!”
+Tag niche: [komunitas] [parenting]
+C. TIPS PROMPTS (10 prompt)
+1. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) tentang cara memilih
+skincare aman untuk busui, dengan tone praktis. Sisipkan [NAMA PRODUK] sebagai
+tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Moms, mau kulit glowing tapi tetap aman buat busui? Coba
+deh 3 tips ini:
+1. Pilih produk dengan kandungan alami.
+2. Hindari bahan-bahan berbahaya seperti paraben.
+3. Cari rekomendasi skincare aman di [NAMA PRODUK]. Yang mau tau
+[NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [kecantikan] [skincare]
+2. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) untuk mengatasi anak
+susah tidur, dengan tone solutif. Sisipkan [NAMA PRODUK] sebagai tips terakhir.
+Akhiri dengan CTA.”
+OUTPUT Contoh: “Moms, anak susah tidur itu PR banget ya. Coba deh tips
+ini:
+1. Buat rutinitas tidur yang konsisten.
+2. Ciptakan suasana kamar yang nyaman.
+3. Gunakan [NAMA PRODUK] untuk membantu anak tidur lebih nyenyak.
+Link [NAMA PRODUK] ada di bio ya, moms!”
+Tag niche: [parenting] [anak]
+3. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk punya me-time
+berkualitas bagi ibu muda, dengan tone efisien. Sisipkan [NAMA PRODUK] sebagai
+tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Me-time itu penting lho, moms. Coba 3 tips ini:
+1. Delegasikan tugas rumah tangga yang bisa.
+2. Manfaatkan waktu tidur siang anak.
+3. Andalkan [NAMA PRODUK] untuk membantu mengatur jadwal dan
+prioritas. Yang mau tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [self-care] [lifestyle]
+4. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara memulai
+penghasilan tambahan dari rumah untuk ibu muda, dengan tone motivasi. Sisipkan
+[NAMA PRODUK] sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Moms, mau punya penghasilan sendiri dari rumah? Ini 3
+tipsnya:
+1. Mulai dari hobi yang bisa menghasilkan.
+2. Manfaatkan media sosial untuk berjualan.
+3. Ikuti sistem [NAMA PRODUK] untuk affiliate marketing tanpa ribet. Link
+[NAMA PRODUK] ada di bio ya, moms!”
+Tag niche: [side income] [keuangan]
+5. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk tetap stylish dan
+nyaman bagi ibu muda, dengan tone inspiratif. Sisipkan [NAMA PRODUK] sebagai
+tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Stylish dan nyaman itu bisa kok, moms. Coba deh tips ini:
+1. Pilih pakaian dengan bahan yang adem.
+2. Gunakan aksesoris yang simple tapi chic.
+3. Cari inspirasi fashion ibu muda di [NAMA PRODUK]. Yang mau tau
+[NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [fashion] [lifestyle]
+6. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara membuat
+konten media sosial yang menarik dan banyak interaksi, dengan tone edukatif.
+Sisipkan [NAMA PRODUK] sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Moms, mau konten media sosialnya banyak yang like dan
+komen? Coba 3 tips ini:
+1. Mulai dengan hook yang bikin penasaran.
+2. Ceritakan pengalaman pribadi yang relatable.
+3. Gunakan [NAMA PRODUK] untuk ide konten yang nggak ada habisnya.
+Yang mau tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [digital marketing] [konten]
+7. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk memilih mainan
+edukasi yang tepat untuk anak, dengan tone informatif. Sisipkan [NAMA PRODUK]
+sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Memilih mainan edukasi itu penting lho, moms. Ini 3
+tipsnya:
+1. Sesuaikan dengan usia dan tahap perkembangan anak.
+2. Pilih mainan yang aman dan tidak mudah rusak.
+3. Cari rekomendasi mainan edukasi terbaik di [NAMA PRODUK]. Link
+[NAMA PRODUK] ada di bio ya, moms!”
+Tag niche: [parenting] [anak]
+8. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara menjaga
+kebersihan rumah dengan anak kecil, dengan tone praktis. Sisipkan [NAMA
+PRODUK] sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Rumah bersih dengan anak kecil itu tantangan, moms.
+Coba 3 tips ini:
+1. Libatkan anak dalam bersih-bersih ringan.
+2. Gunakan produk pembersih yang aman untuk anak.
+3. Manfaatkan [NAMA PRODUK] untuk solusi bersih-bersih cepat. Yang
+mau tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [rumah tangga]
+9. Prompt: “Tulis 3 tips singkat (masing-masing 1 kalimat) untuk tetap sehat dan bugar
+meski sibuk mengurus anak, dengan tone motivasi. Sisipkan [NAMA PRODUK]
+sebagai tips terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Sibuk mengurus anak bukan alasan untuk tidak sehat,
+moms. Coba 3 tips ini:
+1. Luangkan waktu untuk olahraga ringan setiap hari.
+2. Perhatikan asupan makanan dan minuman.
+3. Gunakan [NAMA PRODUK] untuk memantau aktivitas fisik dan nutrisi.
+Yang mau tau [NAMA PRODUK] itu apa, cek link di bio ya!”
+Tag niche: [kesehatan] [lifestyle]
+10. Prompt: “Buatkan 3 tips singkat (masing-masing 1 kalimat) tentang cara mengelola
+stres ibu muda, dengan tone praktis. Sisipkan [NAMA PRODUK] sebagai tips
+terakhir. Akhiri dengan CTA.”
+OUTPUT Contoh: “Stres itu wajar, moms. Tapi harus dikelola. Coba 3 tips ini:
+1. Ambil jeda singkat untuk istirahat.
+2. Lakukan hobi atau aktivitas yang disukai.
+3. Manfaatkan [NAMA PRODUK] untuk relaksasi dan mindfulness. Link
+[NAMA PRODUK] ada di bio ya, moms!”
+Tag niche: [kesehatan] [self-care]
+30-HARI CONTENT CALENDAR
+Konsistensi adalah kunci utama kesuksesan di Threads. Dengan content calendar ini,
+kamu tidak akan pernah kehabisan ide dan selalu tahu apa yang harus diposting setiap
+hari. Kamu bisa merotasi avatar yang kamu gunakan atau fokus pada satu avatar terlebih
+dahulu.
+Berikut adalah contoh kalender konten 30 hari yang bisa kamu adaptasi. Ingat, ini
+hanyalah panduan. Sesuaikan dengan niche dan produk affiliate yang kamu promosikan.
+Hari Jenis
+Konten Avatar Kategori
+Topik
+Niche
+Affiliate
+Nomor
+Prompt
+(Contoh)
+Minggu 1: Setup &
+Testing
+Hari 1 Hook Bunda
+Lia Keuangan Belanja A1
+Hari 2 Story Bunda
+Lia Parenting Anak B2
+Hari 3 Tips Bunda
+Lia
+Rumah
+Tangga Kebersihan C3
+Hari 4 Hook Bima Keuangan Hemat A1
+Hari 5 Story Bima Kuliah Produktivitas B2
+Hari 6 Tips Bima Makanan Hemat C3
+Hari 7 Hook Pak
+Budi Investasi Keuangan A1
+Minggu 2: Mulai
+Soft-Selling
+Hari 8 Story Pak
+Budi Produktivitas Kerja B2
+Hari 9 Tips Pak
+Budi Keuangan Keluarga C3
+Hari 10 Hook Kevin Bisnis Produktivitas A1
+Hari 11 Story Kevin Startup Keuangan B1
+Hari 12 Tips Kevin Bisnis Inovasi C3
+Hari 13 Hook Citra Kecantikan Skincare A1
+Hari 14 Story Citra Parenting Makanan B2
+Hari Jenis
+Konten Avatar Kategori
+Topik
+Niche
+Affiliate
+Nomor
+Prompt
+(Contoh)
+Minggu 3: Evaluasi
+& Scale Up
+Hari 15 Tips Citra Self-care Lifestyle C3
+Hari 16 Hook Bunda
+Lia Belanja Review A5
+Hari 17 Story Bunda
+Lia Keuangan Side Income B4
+Hari 18 Tips Bunda
+Lia
+Digital
+Marketing Konten C7
+Hari 19 Hook Bima Gadget Review A5
+Hari 20 Story Bima Side Hustle Keuangan B4
+Hari 21 Tips Bima Digital
+Marketing Konten C7
+Minggu 4:
+Konsistensi &
+Otomatisasi
+Hari 22 Hook Pak
+Budi Tools Produktivitas A5
+Hari 23 Story Pak
+Budi Edukasi Karir B6
+Hari 24 Tips Pak
+Budi
+Digital
+Marketing Konten C7
+Hari 25 Hook Kevin Freelance Bisnis A5
+Hari 26 Story Kevin Digital
+Marketing AI B6
+Hari 27 Tips Kevin Personal
+Branding
+Digital
+Marketing C4
+Hari
+Hari 28
+Hari 29
+Hari 30
+Catatan Penting:
+Jenis
+Konten
+Hook
+Story
+Tips
+Avatar
+Citra
+Citra
+Citra
+Kategori
+Topik
+Fashion
+Side Income
+Digital
+Marketing
+Niche
+Affiliate
+Lifestyle
+Keuangan
+Konten
+Nomor
+Prompt
+(Contoh)
+A5
+B4
+C6
+Cara Rotasi Avatar: Jika kamu mengelola lebih dari satu akun, kamu bisa merotasi
+avatar setiap hari atau setiap beberapa hari. Misalnya, Hari 1-3 untuk Bunda Lia,
+Hari 4-6 untuk Bima, dan seterusnya. Pastikan setiap akun memiliki konten yang
+konsisten dengan persona mereka.
+Tips Supaya Tidak Terlihat Repetitif: Gunakan prompt yang berbeda untuk setiap
+postingan, meskipun topiknya sama. Tambahkan sentuhan personal dan detail kecil
+yang unik untuk setiap avatar. Variasikan jenis konten (hook, story, tips) agar tidak
+monoton.
+Cara Track Performa Tiap Jenis Konten: Perhatikan metrik engagement (likes,
+komen, share, save) untuk setiap postingan. Konten dengan engagement tinggi
+berarti audiens menyukainya. Analisis juga jumlah klik pada link affiliate. Ini akan
+membantumu memahami jenis konten dan avatar mana yang paling efektif.
+CARA PASANG AFFILIATE LINK
+Setelah kamu punya akun Threads, avatar, dan konten yang siap, langkah selanjutnya
+adalah bagaimana cara mengubah semua itu menjadi cuan. Kuncinya ada di link affiliate.
+Jangan khawatir, prosesnya tidak serumit yang kamu bayangkan.
+1. Cara Daftar Program Affiliate Populer Indonesia:
+Berikut adalah panduan singkat untuk mendaftar di beberapa program affiliate populer di
+Indonesia. Prosesnya umumnya mudah dan gratis.
+Tokopedia Affiliate:
+Step by step: Buka aplikasi Tokopedia, masuk ke menu “Akun”, lalu pilih
+“Tokopedia Affiliate”. Ikuti langkah-langkah pendaftaran yang diminta, seperti
+mengisi data diri dan rekening bank. Kamu mungkin perlu menghubungkan
+akun media sosialmu.
+Estimasi waktu approve: Biasanya 1-3 hari kerja, bisa lebih cepat jika data
+lengkap.
+Komisi rata-rata: Bervariasi, mulai dari 1% hingga 10% tergantung kategori
+produk. Ada juga bonus performa.
+Produk yang laku: Elektronik, fashion, kebutuhan rumah tangga, produk
+kecantikan.
+Shopee Affiliate:
+Step by step: Buka aplikasi Shopee, cari “Shopee Affiliate Program” di kolom
+pencarian atau melalui menu “Saya”. Daftar dengan mengisi formulir dan data
+rekening bank. Kamu juga perlu menyertakan link media sosial yang akan
+kamu gunakan untuk promosi.
+Estimasi waktu approve: Umumnya 3-7 hari kerja. Pastikan semua data terisi
+dengan benar.
+Komisi rata-rata: Bervariasi, mulai dari 1% hingga 10% tergantung kategori
+produk. Ada komisi tambahan untuk pembeli baru.
+Produk yang laku: Fashion, kecantikan, kebutuhan rumah tangga, elektronik,
+produk UMKM.
+Traveloka Affiliate:
+Step by step: Kunjungi website Traveloka Affiliate Program, daftar sebagai
+partner. Kamu akan diminta mengisi data diri, informasi website/media sosial,
+dan rekening bank. Proses verifikasi mungkin melibatkan peninjauan manual.
+Estimasi waktu approve: Bisa memakan waktu 7-14 hari kerja karena ada
+proses verifikasi yang lebih ketat.
+Komisi rata-rata: Cukup besar, bisa mencapai 5-10% untuk pemesanan hotel,
+tiket pesawat, atau paket liburan.
+Produk yang laku: Tiket pesawat, hotel, paket tur, tiket atraksi, sewa mobil.
+2. Cara Dapat Link Affiliate:
+Setelah akun affiliate kamu disetujui, kamu bisa mulai mengambil link produk untuk
+dipromosikan.
+Dashboard Masing-masing Platform: Setiap platform affiliate memiliki dashboard
+khusus di mana kamu bisa mencari produk dan membuat link affiliate. Cari menu
+seperti “Produk”, “Buat Link”, atau “Generate Link”.
+Tips Memilih Produk yang Conversion-nya Tinggi:
+Relevansi: Pilih produk yang sangat relevan dengan niche avatarmu.
+Review Positif: Prioritaskan produk dengan banyak review positif dan rating
+tinggi.
+Harga Kompetitif: Produk dengan harga yang bersaing atau sedang diskon
+cenderung lebih mudah terjual.
+Kebutuhan Musiman: Manfaatkan tren atau kebutuhan musiman (misal:
+perlengkapan sekolah saat tahun ajaran baru, baju lebaran saat Ramadhan).
+Cara Bikin Link yang Tidak Terlalu Panjang/Jelek:
+Beberapa platform affiliate menyediakan fitur “shorten link” atau “custom link”.
+Manfaatkan fitur ini agar linkmu terlihat lebih rapi dan profesional.
+Jika tidak ada, kamu bisa menggunakan layanan pihak ketiga seperti Bitly atau
+TinyURL untuk memperpendek link.
+3. Cara Sisipkan Link di Threads:
+Ini adalah bagian krusial. Menyisipkan link affiliate harus dilakukan dengan cerdas agar
+tidak terlihat seperti spam dan justru menarik perhatian.
+Di Dalam Thread (Body Text):
+Sisipkan link secara natural di tengah atau akhir cerita/tips yang kamu bagikan.
+Pastikan link tersebut relevan dengan konteks tulisan.
+Contoh: “…dan setelah pakai [NAMA PRODUK] ini, masalahku langsung
+beres. Kamu bisa cek detailnya di sini: [link affiliate].”
+Di Bio Akun:
+Ini adalah tempat paling umum dan aman untuk menaruh link utama atau
+linktree yang berisi beberapa link affiliate. Pastikan bio-mu menarik dan
+mengarahkan orang untuk mengklik link tersebut.
+Contoh: “Link semua rekomendasi produk ada di bio ya!”
+Di Reply/Komen:
+Jika ada audiens yang bertanya tentang produk yang kamu bahas, kamu bisa
+membalas dengan menyertakan link affiliate. Ini adalah cara yang sangat
+efektif karena audiens sudah menunjukkan minat.
+Contoh: “Wah, kebetulan banget! Aku pakai [NAMA PRODUK] ini. Linknya ada
+di sini ya: [link affiliate].”
+Best Practice Supaya Tidak Kena Shadowban:
+Jangan Terlalu Sering: Hindari menaruh link affiliate di setiap postingan.
+Variasikan dengan konten edukasi atau hiburan murni.
+Gunakan Shorten Link: Link yang terlalu panjang atau terlihat seperti link
+spam bisa memicu algoritma.
+Berikan Value Dulu: Selalu berikan value (tips, cerita, insight) sebelum
+menyisipkan link. Jangan langsung jualan.
+Hindari Kata-kata Agresif: Kata-kata seperti “beli sekarang”, “diskon besar”,
+“jangan sampai kehabisan” terlalu agresif dan bisa dianggap spam.
+4. Cara Track Performa:
+Memantau performa link affiliate sangat penting untuk mengetahui konten mana yang
+paling efektif dan produk mana yang paling diminati.
+Dashboard Affiliate Program: Setiap platform affiliate memiliki dashboard yang
+menyediakan data performa linkmu, seperti jumlah klik, jumlah konversi (penjualan),
+dan komisi yang kamu dapatkan.
+Metrik yang Penting Diperhatikan:
+Click-Through Rate (CTR): Persentase orang yang mengklik linkmu dari total
+yang melihat postingan. Menunjukkan seberapa menarik CTA-mu.
+Conversion Rate: Persentase orang yang melakukan pembelian setelah
+mengklik linkmu. Menunjukkan seberapa efektif kontenmu dalam meyakinkan
+orang untuk membeli.
+Earnings per Click (EPC): Rata-rata penghasilan yang kamu dapatkan per
+klik. Membantumu mengukur profitabilitas.
+Cara Tahu Konten Mana yang Convert:
+Jika platform affiliate memungkinkan, gunakan “sub-ID” atau “tracking ID” untuk
+setiap link yang kamu buat. Ini akan membantumu melacak dari postingan atau
+avatar mana penjualan itu berasal.
+Secara manual, kamu bisa mencatat setiap postingan yang kamu buat dan
+membandingkannya dengan data penjualan di dashboard affiliate. Ini akan
+memberimu insight berharga untuk strategi konten selanjutnya.
+TIPS SCALING — MANAGE 5 AKUN
+Setelah kamu berhasil mengelola satu atau dua akun dengan baik, mungkin kamu akan
+berpikir, “Bagaimana kalau saya punya lebih banyak akun?” Inilah saatnya untuk scaling.
+Dengan sistem yang tepat, kamu bisa mengelola hingga 5 akun atau lebih tanpa merasa
+kewalahan.
+1. Kenapa 5 Akun dan Bukan 1:
+Diversifikasi Niche: Dengan 5 akun, kamu bisa menjangkau 5 niche yang berbeda.
+Ini memperluas potensi penghasilanmu dan mengurangi risiko jika satu niche
+sedang lesu.
+Kalau 1 Kena Shadowban, yang Lain Tetap Jalan: Algoritma media sosial bisa
+berubah kapan saja. Jika satu akunmu terkena shadowban atau pembatasan, akun
+lain masih bisa beroperasi dan menghasilkan cuan. Ini adalah strategi mitigasi risiko.
+Testing Angle Berbeda: Kamu bisa mencoba berbagai pendekatan atau “angle”
+promosi di setiap akun. Misalnya, satu akun fokus pada review produk, akun lain
+fokus pada storytelling, dan seterusnya. Ini membantumu menemukan strategi yang
+paling efektif.
+2. Cara Setup 5 Akun Secara Legal dan Aman:
+Threads Memperbolehkan Multiple Account: Threads, seperti Instagram,
+memperbolehkan pengguna untuk memiliki beberapa akun. Kamu bisa menambah
+akun baru dari aplikasi Threads itu sendiri.
+Tips Biar Tidak Terlihat Sama Satu Sama Lain:
+Persona yang Jelas: Pastikan setiap akun memiliki persona yang sangat
+berbeda (seperti 5 avatar yang sudah kita bahas).
+Niche yang Berbeda: Setiap akun harus fokus pada niche produk yang
+berbeda.
+Gaya Bahasa & Emoji Unik: Sesuaikan gaya bahasa, tone, dan penggunaan
+emoji untuk setiap persona agar terasa otentik.
+Profile Picture AI Generated: Gunakan gambar profil AI yang berbeda untuk
+setiap akun agar tidak terkesan sama.
+Device Management Tips:
+Kamu bisa mengelola beberapa akun dari satu smartphone atau laptop.
+Threads memungkinkanmu untuk beralih antar akun dengan mudah.
+Untuk keamanan dan kenyamanan, pastikan kamu menggunakan password
+yang kuat dan berbeda untuk setiap akun.
+3. Workflow Harian untuk Manage 5 Akun:
+Kuncinya adalah batch content creation dan jadwal rotasi avatar.
+Estimasi Waktu per Hari: 30-60 Menit: Dengan sistem AI dan batching, kamu tidak
+perlu menghabiskan berjam-jam setiap hari. Cukup luangkan 30-60 menit untuk:
+Mengecek notifikasi dan membalas komentar.
+Menyempurnakan draf konten dari AI.
+Menjadwalkan postingan untuk hari itu atau beberapa hari ke depan.
+Batch Content Creation: Luangkan waktu 1-2 jam di akhir pekan untuk membuat
+semua konten (hook, story, tips) untuk 5 akun selama seminggu ke depan. Gunakan
+prompt yang sudah disediakan di PDF ini.
+Jadwal Rotasi Avatar: Kamu bisa membuat jadwal rotasi. Misalnya:
+Senin: Posting untuk Bunda Lia dan Bima.
+Selasa: Posting untuk Pak Budi dan Kevin.
+Rabu: Posting untuk Citra dan Bunda Lia lagi.
+Dan seterusnya. Pastikan setiap akun mendapatkan jatah posting yang
+konsisten.
+4. Common Mistakes yang Harus Dihindari:
+Posting Konten Identik di Semua Akun: Ini adalah kesalahan fatal. Algoritma akan
+mendeteksi sebagai spam dan akunmu bisa terkena shadowban. Selalu sesuaikan
+konten dengan persona dan niche masing-masing akun.
+Terlalu Banyak Link di Satu Post: Hindari menaruh terlalu banyak link affiliate
+dalam satu postingan. Fokus pada satu link yang paling relevan dengan konten
+tersebut.
+Terlalu Agresif Jualan di Awal: Bangun kepercayaan dulu. Berikan value, cerita,
+dan tips yang bermanfaat. Setelah audiens percaya, barulah sisipkan link affiliate
+secara natural.
+NEXT STEPS & UPGRADE
+Selamat! Kamu sudah menyelesaikan panduan lengkap “Threads Affiliate System Tanpa
+Show Face”. Sekarang kamu sudah punya semua yang dibutuhkan untuk memulai
+perjalanan affiliate marketingmu di Threads.
+1. Rekap Apa yang Sudah Kamu Punya Sekarang:
+Pemahaman mendalam tentang potensi Threads untuk affiliate marketing.
+5 avatar persona siap pakai dengan niche yang jelas.
+150 prompt AI yang sudah teruji untuk berbagai jenis konten (hook, story, tips).
+Contoh output konten yang natural dan menarik.
+Content calendar 30 hari sebagai panduan awal.
+Panduan lengkap cara setup akun, memilih produk, menyisipkan link, dan melacak
+performa.
+Strategi scaling untuk mengelola beberapa akun sekaligus.
+2. Encourage untuk Mulai HARI INI, Bukan Nanti:
+Pengetahuan tanpa tindakan adalah sia-sia. Jangan tunda lagi. Pilih satu avatar, buka
+ChatGPT, dan mulai buat postingan pertamamu. Ingat, langkah pertama adalah yang
+paling sulit, tapi juga yang paling penting.
+3. Reminder: Hasil Tidak Instan, Tapi Sistem Ini yang Membuat
+Konsisten Jadi Mungkin:
+Affiliate marketing bukanlah skema cepat kaya. Butuh waktu, konsistensi, dan kesabaran.
+Tapi dengan sistem yang kamu pelajari di PDF ini, kamu punya alat yang powerful untuk
+tetap konsisten, bahkan di tengah kesibukanmu. Sistem ini dirancang untuk meminimalkan
+effort dan memaksimalkan hasil.
+4. Soft Pitch untuk Upgrade ke Pro:
+Jika kamu ingin mempercepat progresmu, mendapatkan ide konten viral harian, dan
+bergabung dengan komunitas eksklusif para affiliate operator, kami punya penawaran
+spesial untukmu. Versi Pro dari sistem ini akan memberimu:
+Daily Viral Topics: Ide konten viral yang sudah terkurasi setiap hari, siap kamu
+gunakan.
+Komunitas Eksklusif: Bergabung dengan grup Telegram di mana kamu bisa
+bertanya, berbagi, dan belajar langsung dari para ahli dan sesama operator affiliate.
+Prompt Tambahan: Ratusan prompt AI lainnya untuk berbagai niche dan situasi.
+Ini bukan tekanan, tapi lebih ke “kalau kamu mau lebih cepat dan lebih mudah”.
+5. CTA untuk Aktivasi Telegram (WAJIB ada):
+Langkah selanjutnya yang WAJIB kamu lakukan adalah: aktivasi akses Telegram kamu
+untuk dapat topik viral harian dan koneksi dengan sesama affiliate operator Indonesia.
+[TOMBOL/LINK AKTIVASI TELEGRAM DI SINI]
+DISCLAIMER & TNC
+Harap baca disclaimer dan syarat & ketentuan ini dengan seksama sebelum melanjutkan
+penggunaan produk digital ini.
+1. Set Realistic Expectation:
+Hasil Bergantung pada Konsistensi: Keberhasilan dalam affiliate marketing sangat
+bergantung pada konsistensi dan upaya yang kamu lakukan. Sistem ini adalah
+panduan, bukan jaminan instan.
+Tidak Ada Jaminan Penghasilan: Kami tidak menjamin jumlah penghasilan spesifik
+yang akan kamu dapatkan. Penghasilan bervariasi tergantung pada banyak faktor,
+termasuk niche, produk, kualitas konten, dan dedikasi pribadi.
+Ini Sistem, Bukan Magic: Produk ini menyediakan sistem dan tools untuk
+membantumu. Namun, eksekusi dan adaptasi tetap berada di tanganmu. Ini bukan
+“magic pill” yang akan membuatmu kaya tanpa usaha.
+2. No Refund Policy:
+Karena produk yang dijual berupa digital goods dan akses komunitas digital, seluruh
+transaksi bersifat final dan tidak dapat direfund. Dengan melakukan pembelian, pengguna
+memahami bahwa akses produk diberikan secara instan setelah pembayaran berhasil.
+3. Affiliate Disclaimer:
+Affiliate partner bertanggung jawab atas kewajiban perpajakan masing-masing sesuai
+regulasi yang berlaku di Indonesia. Pastikan kamu memahami dan mematuhi peraturan
+perpajakan yang berlaku untuk penghasilan dari affiliate marketing.
+4. IP Notice:
+Konten PDF ini adalah hak cipta [NAMA BRAND]. Dilarang mendistribusikan ulang,
+mereproduksi, atau menjual kembali sebagian atau seluruh isi PDF ini tanpa izin tertulis
+dari [NAMA BRAND]. Pelanggaran hak cipta akan ditindak sesuai hukum yang berlaku.

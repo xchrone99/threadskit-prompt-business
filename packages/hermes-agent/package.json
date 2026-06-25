@@ -1,0 +1,10 @@
+{
+  "name": "hermes-agent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily trending topic scraper + angle generator for Cuan ThreadsKit",
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "node-cron": "^3.0.3"
+  }
+}

@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pro — Cuan ThreadsKit by CuanAffiliate</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --black: #0a0a0a; --white: #ffffff; --gray-100: #f5f5f5;
+            --gray-200: #e8e8e8; --gray-400: #999; --gray-600: #555;
+            --accent: #1a1a1a; --highlight: #f0ff44; --highlight-dark: #d4e000;
+            --green: #00c853; --orange: #ff6b35; --radius: 12px; --radius-lg: 20px;
+        }
+        html { scroll-behavior: smooth; font-size: 18px; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--white); color: var(--black); line-height: 1.6; }
+        h1, h2, h3 { line-height: 1.2; font-weight: 700; letter-spacing: -0.02em; }
+        h1 { font-size: clamp(2rem, 5vw, 3.2rem); }
+        h2 { font-size: clamp(1.4rem, 3.5vw, 2.2rem); }
+        .container { max-width: 720px; margin: 0 auto; padding: 0 24px; }
+        .container-wide { max-width: 960px; margin: 0 auto; padding: 0 24px; }
+        section { padding: 80px 0; }
+
+        .announcement-bar { background: var(--black); color: var(--white); text-align: center; padding: 14px 24px; font-size: 0.95rem; font-weight: 600; }
+        .announcement-bar span { color: var(--highlight); }
+
+        nav { position: sticky; top: 0; background: rgba(255,255,255,0.95); backdrop-filter: blur(12px); border-bottom: 1px solid var(--gray-200); z-index: 100; padding: 16px 0; }
+        .nav-inner { max-width: 960px; margin: 0 auto; padding: 0 24px; display: flex; justify-content: space-between; align-items: center; }
+        .nav-logo { font-size: 1.2rem; font-weight: 800; color: var(--black); text-decoration: none; }
+        .nav-logo span { color: var(--gray-400); }
+        .nav-cta { background: var(--black); color: var(--white); padding: 10px 20px; border-radius: 8px; font-size: 0.95rem; font-weight: 600; text-decoration: none; transition: opacity 0.2s; }
+        .nav-cta:hover { opacity: 0.8; }
+
+        .hero { padding: 80px 0 60px; text-align: center; }
+        .hero-badge { display: inline-flex; align-items: center; gap: 8px; background: var(--black); color: var(--white); padding: 8px 16px; border-radius: 100px; font-size: 0.9rem; font-weight: 700; margin-bottom: 28px; }
+        .hero h1 { margin-bottom: 20px; }
+        .hero h1 .highlight-text { background: var(--highlight); padding: 0 6px; border-radius: 4px; }
+        .hero-sub { font-size: 1.15rem; color: var(--gray-600); max-width: 560px; margin: 0 auto 36px; }
+
+        .hero-stats { display: flex; justify-content: center; gap: 40px; margin-bottom: 40px; flex-wrap: wrap; }
+        .hero-stat { text-align: center; }
+        .hero-stat-number { font-size: 1.6rem; font-weight: 800; color: var(--black); }
+        .hero-stat-label { font-size: 0.85rem; color: var(--gray-400); text-transform: uppercase; letter-spacing: 0.05em; margin-top: 2px; }
+
+        .btn-primary { display: inline-flex; align-items: center; gap: 8px; background: var(--black); color: var(--white); padding: 16px 32px; border-radius: var(--radius); font-size: 1rem; font-weight: 700; text-decoration: none; transition: transform 0.2s; border: none; cursor: pointer; }
+        .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.2); }
+        .btn-secondary { display: inline-flex; align-items: center; gap: 8px; background: transparent; color: var(--gray-600); padding: 12px 24px; border-radius: var(--radius); font-size: 0.9rem; font-weight: 500; text-decoration: none; border: 1px solid var(--gray-200); transition: all 0.2s; }
+        .btn-secondary:hover { border-color: var(--gray-400); color: var(--black); }
+
+        .pricing-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; align-items: start; max-width: 620px; margin: 0 auto; }
+        .pricing-card { border: 2px solid var(--gray-200); border-radius: var(--radius-lg); padding: 32px 28px; position: relative; transition: border-color 0.2s, box-shadow 0.2s; }
+        .pricing-card:hover { border-color: var(--black); box-shadow: 0 8px 48px rgba(0,0,0,0.12); }
+        .pricing-card.featured { border-color: var(--black); box-shadow: 0 8px 48px rgba(0,0,0,0.12); }
+        .featured-badge { position: absolute; top: -14px; left: 50%; transform: translateX(-50%); background: var(--black); color: var(--white); font-size: 0.85rem; font-weight: 700; padding: 6px 18px; border-radius: 100px; white-space: nowrap; }
+        .tier-name { font-size: 0.9rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: var(--gray-400); margin-bottom: 8px; }
+        .tier-price { display: flex; align-items: baseline; gap: 4px; margin-bottom: 4px; flex-wrap: wrap; }
+        .price-currency { font-size: 1rem; font-weight: 700; }
+        .price-amount { font-size: 2.8rem; font-weight: 800; letter-spacing: -0.04em; line-height: 1; }
+        .price-original { font-size: 0.9rem; color: var(--gray-400); text-decoration: line-through; margin-left: 4px; }
+        .price-note { font-size: 0.9rem; color: var(--gray-400); margin-bottom: 24px; }
+        .tier-desc { font-size: 1rem; color: var(--gray-600); margin-bottom: 24px; padding-bottom: 24px; border-bottom: 1px solid var(--gray-200); }
+        .feature-list { list-style: none; display: flex; flex-direction: column; gap: 12px; margin-bottom: 28px; }
+        .feature-list li { display: flex; align-items: flex-start; gap: 10px; font-size: 1rem; color: var(--gray-600); }
+        .feature-list li::before { content: '✓'; color: var(--green); font-weight: 700; flex-shrink: 0; margin-top: 1px; }
+        .feature-list li.not-included { color: var(--gray-400); }
+        .feature-list li.not-included::before { content: '×'; color: var(--gray-300); }
+        .tier-cta { display: block; text-align: center; padding: 14px; border-radius: var(--radius); font-weight: 700; font-size: 0.95rem; text-decoration: none; transition: all 0.2s; border: none; width: 100%; }
+        .tier-cta.primary { background: var(--black); color: var(--white); }
+        .tier-cta.primary:hover { background: var(--gray-800); }
+
+        .vs-section { background: var(--gray-100); }
+        .vs-grid { max-width: 720px; margin: 0 auto; }
+        .vs-row { display: flex; justify-content: space-between; align-items: center; padding: 16px 20px; background: var(--white); border: 1px solid var(--gray-200); margin-bottom: 6px; border-radius: var(--radius); }
+        .vs-row.vs-header { background: var(--black); color: var(--white); border-color: var(--black); font-weight: 700; }
+        .vs-row.vs-header .vs-name { color: var(--white); }
+        .vs-name { font-size: 0.95rem; font-weight: 600; color: var(--black); }
+        .vs-check { color: var(--green); font-weight: 700; }
+        .vs-cross { color: var(--gray-300); }
+
+        .ai-section { background: var(--white); }
+        .ai-comparison { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 40px; }
+        .ai-card { border: 2px solid var(--gray-200); border-radius: var(--radius-lg); padding: 28px; }
+        .ai-card.premium { border-color: var(--black); }
+        .ai-label { font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 4px; }
+        .ai-label.basic-label { color: var(--gray-400); }
+        .ai-label.premium-label { color: var(--black); }
+        .ai-title { font-size: 1.1rem; font-weight: 700; margin-bottom: 12px; }
+        .ai-thread { font-size: 0.9rem; color: var(--gray-600); line-height: 1.6; padding: 16px; background: var(--gray-100); border-radius: var(--radius); }
+        .ai-thread .hook { color: var(--black); font-weight: 600; }
+        .ai-thread .hook-bad { color: var(--gray-400); }
+        .ai-bad { opacity: 0.6; }
+        .ai-badge { display: inline-block; font-size: 0.8rem; font-weight: 700; padding: 3px 10px; border-radius: 100px; margin-top: 12px; }
+        .ai-badge.basic-badge { background: var(--gray-200); color: var(--gray-600); }
+        .ai-badge.premium-badge { background: var(--highlight); color: var(--black); }
+
+        .upsell-section { background: var(--black); color: var(--white); text-align: center; padding: 60px 0; }
+        .upsell-section h2 { color: var(--white); margin-bottom: 12px; }
+        .upsell-section p { color: var(--gray-400); max-width: 520px; margin: 0 auto 8px; font-size: 1.05rem; }
+        .upsell-price { font-size: 2.4rem; font-weight: 800; color: var(--highlight); margin: 16px 0; }
+        .upsell-price span { font-size: 1rem; color: var(--gray-400); text-decoration: line-through; font-weight: 400; }
+        .upsell-note { font-size: 0.9rem; color: var(--orange); font-weight: 700; }
+        .upsell-section .btn-primary { background: var(--highlight); color: var(--black); font-size: 1.05rem; padding: 16px 36px; margin-top: 20px; }
+        .upsell-section .btn-primary:hover { background: var(--highlight-dark); }
+
+        .how-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-top: 40px; }
+        .how-card { text-align: center; padding: 24px; }
+        .how-icon { font-size: 2.2rem; margin-bottom: 12px; display: block; }
+        .how-card h3 { font-size: 1.05rem; margin-bottom: 6px; }
+        .how-card p { font-size: 0.9rem; color: var(--gray-600); }
+
+        .faq-section { background: var(--gray-100); }
+        .faq-list { max-width: 600px; margin: 0 auto; }
+        .faq-item { background: var(--white); border: 1px solid var(--gray-200); border-radius: var(--radius); margin-bottom: 8px; overflow: hidden; }
+        .faq-q { padding: 20px 24px; font-weight: 600; font-size: 1.05rem; cursor: pointer; display: flex; justify-content: space-between; align-items: center; user-select: none; }
+        .faq-q::after { content: '+'; font-size: 1.2rem; color: var(--gray-400); font-weight: 300; transition: transform 0.2s; }
+        .faq-item.open .faq-q::after { transform: rotate(45deg); }
+        .faq-a { padding: 0 24px; max-height: 0; overflow: hidden; transition: max-height 0.3s ease, padding 0.3s; }
+        .faq-item.open .faq-a { max-height: 400px; padding: 0 24px 20px; }
+        .faq-a p { font-size: 1rem; }
+
+        .final-cta { background: var(--black); color: var(--white); padding: 100px 0; text-align: center; }
+        .final-cta h2 { color: var(--white); margin-bottom: 16px; }
+        .final-cta p { color: var(--gray-400); margin-bottom: 40px; font-size: 1.05rem; }
+        .final-cta .btn-primary { background: var(--highlight); color: var(--black); font-size: 1.05rem; padding: 18px 40px; }
+        .final-cta .btn-primary:hover { background: var(--highlight-dark); }
+
+        footer { padding: 32px 0; border-top: 1px solid var(--gray-200); text-align: center; }
+        .footer-links { display: flex; justify-content: center; gap: 24px; margin-bottom: 12px; flex-wrap: wrap; }
+        .footer-links a { font-size: 0.9rem; color: var(--gray-400); text-decoration: none; }
+        .footer-links a:hover { color: var(--black); }
+        .footer-copy { font-size: 0.9rem; color: var(--gray-400); }
+
+        @media (max-width: 640px) {
+            html { font-size: 16px; }
+            section { padding: 60px 0; }
+            .hero { padding: 60px 0 40px; }
+            .hero-stats { gap: 24px; }
+            .pricing-grid { grid-template-columns: 1fr; }
+            .ai-comparison { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="announcement-bar">
+        🔥 Khusus pemilik Basic: <span>Rp 99K/bln</span> — cuma sekali! Chat bot sekarang.
+    </div>
+
+    <nav>
+        <div class="nav-inner">
+            <a href="/" class="nav-logo">Cuan<span>ThreadsKit</span></a>
+            <a href="/" class="nav-cta">← Balik ke Beranda</a>
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div class="container">
+            <div class="hero-badge">🔥 Pro Tier</div>
+            <h1>
+                Konten 5x lebih banyak.<br>
+                <span class="highlight-text">Kualitas 2x lipat.</span>
+            </h1>
+            <p class="hero-sub">
+                Basic udah oke buat mulai. Tapi kalo mau kontrol penuh — 
+                pilih objektif, atur parameter, dapet hasil yang sesuai target — 
+                Pro jawabannya. Jatah 5x lipat + kustomisasi penuh.
+            </p>
+            <div class="hero-stats">
+                <div class="hero-stat">
+                    <div class="hero-stat-number">105x</div>
+                    <div class="hero-stat-label">Generate per Minggu</div>
+                </div>
+                <div class="hero-stat">
+                    <div class="hero-stat-number">5</div>
+                    <div class="hero-stat-label">Objektif Konten</div>
+                </div>
+                <div class="hero-stat">
+                    <div class="hero-stat-number">🎛️</div>
+                    <div class="hero-stat-label">Custom Parameter</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="ai-section">
+        <div class="container-wide">
+            <h2 style="text-align:center; margin-bottom: 12px;">Contoh hasil Basic vs Pro</h2>
+            <p style="text-align:center; color: var(--gray-600); max-width: 560px; margin: 0 auto 8px;">
+                Basic udah bisa bikin thread yang oke, kok. Tapi Pro bisa kamu <strong>kustomisasi</strong> — 
+                pilih mau kontennya kaya gimana, buat siapa, tujuannya apa.
+            </p>
+
+            <div class="ai-comparison">
+                <div class="ai-card">
+                    <div class="ai-label basic-label">Basic — Hasil Standar</div>
+                    <div class="ai-title">Solid, siap posting</div>
+                    <div class="ai-thread">
+                        <span class="hook">"Dari Rp 2,5 juta per bulan, saya bisa nabung Rp 800 ribu. Ini caranya." 🧵</span><br><br>
+                        Dulu saya pikir penghasilan segitu ya habis buat kebutuhan. 
+                        Tapi setelah dipaksa ngitung beneran, ternyata banyak bocor.<br><br>
+                        Yang saya ubah cuma 3 hal:<br>
+                        • Catat pengeluaran tiap hari (pake notes HP doang)<br>
+                        • Pisahin uang tabungan pas terima gaji, bukan sisa-sisa<br>
+                        • Kurangi jajan di luar — bawa bekal dari rumah<br><br>
+                        Hasilnya? Tabungan mulai terkumpul. Gak perlu aplikasi ribet, 
+                        yang penting konsisten.
+                    </div>
+                    <span class="ai-badge basic-badge">Relatable · Step by step · Praktis</span>
+                </div>
+                <div class="ai-card premium">
+                    <div class="ai-label premium-label">Pro — Bisa Pilih Objektif</div>
+                    <div class="ai-title">Topik SAMA, tapi beda tujuan</div>
+                    <div class="ai-thread">
+                        <span class="hook">"5 tahun nabung Rp 50 ribu per hari — hasilnya bikin saya gak nyangka." 🧵</span><br><br>
+                        Dulu saya baca artikel: "Nabung Rp 50 ribu sehari, setahun Rp 18 juta."<br><br>
+                        Saya pikir: ah, teori doang. Mana mungkin konsisten tiap hari.<br><br>
+                        Ternyata saya salah. Kuncinya bukan disiplin — tapi <strong>sistem</strong>.<br><br>
+                        Saya pasang auto-debit tiap jam 7 pagi. Rp 50 ribu. Gak perlu mikir.<br><br>
+                        Tahun pertama: Rp 17,8 juta (gak nyampe target dikit, gapapa).<br>
+                        Tahun kedua: Rp 18,3 juta.<br>
+                        Tahun ketiga: Rp 20,1 juta (mulai pindahin ke deposito).<br>
+                        Tahun keempat: Rp 21,5 juta.<br>
+                        Tahun kelima: Rp 23,2 juta. 🔥<br><br>
+                        Total 5 tahun: <strong>Rp 100,9 juta</strong>. Dari uang receh yang gak kerasa.<br><br>
+                        Kalo kamu mau mulai, besok pagi pasang auto-debit. 50 ribu. 
+                        Gak perlu nunggu gede.
+                    </div>
+                    <span class="ai-badge premium-badge">Hook personal · Data konkret · Inspiratif · CTA jelas</span>
+                </div>
+            </div>
+            <p style="text-align:center; color: var(--gray-400); font-size: 0.9rem; margin-top: 24px;">
+                Pro bisa ngasih hasil yang beda tergantung <strong>objektif</strong> yang kamu pilih — 
+                mau engagement, reach, authority, atau selling. Semua diatur dari bot.
+            </p>
+        </div>
+    </section>
+
+    <section class="pricing-section" id="pricing">
+        <div class="container-wide">
+            <h2 style="text-align:center; margin-bottom: 48px;">Pilih paket Pro</h2>
+            <div class="pricing-grid">
+                <div class="pricing-card">
+                    <div class="tier-name">📅 Pro Bulanan</div>
+                    <div class="tier-price">
+                        <span class="price-currency">Rp</span>
+                        <span class="price-amount">139K</span>
+                    </div>
+                    <div class="price-note">Per bulan — gak ada ikatan</div>
+                    <div class="tier-desc">
+                        Cocok buat yang mau ngerasain dulu bedanya 
+                        AI premium vs standar.
+                    </div>
+                    <ul class="feature-list">
+                        <li>105x generate konten per minggu</li>
+                        <li>Pilih objektif: Engagement, Reach, Authority, Community, Selling</li>
+                        <li>Kustomisasi parameter: target audiens, mood, gaya bahasa</li>
+                        <li>Hasil lebih unik — gak mentok di template yang itu-itu aja</li>
+                        <li>Topik viral Indonesia tiap pagi (5 topik)</li>
+                        <li>Broadcast tips harian eksklusif</li>
+                        <li>Prioritas antrian — gak nunggu lama</li>
+                    </ul>
+                    <a href="https://t.me/cuan_threadskit_bot" class="tier-cta primary" target="_blank">
+                        Chat Bot — Rp 139K/bln →
+                    </a>
+                </div>
+
+                <div class="pricing-card featured">
+                    <div class="featured-badge">Hemat 2 Bulan</div>
+                    <div class="tier-name">📅 Pro Tahunan</div>
+                    <div class="tier-price">
+                        <span class="price-currency">Rp</span>
+                        <span class="price-amount">1.399K</span>
+                        <span class="price-original">Rp 1.668K</span>
+                    </div>
+                    <div class="price-note">Setara Rp 117K/bln — hemat Rp 269K</div>
+                    <div class="tier-desc">
+                        Paling worth it. Setahun penuh, 
+                        konten premium tiap hari.
+                    </div>
+                    <ul class="feature-list">
+                        <li>105x generate konten per minggu</li>
+                        <li>Pilih objektif: Engagement, Reach, Authority, Community, Selling</li>
+                        <li>Kustomisasi parameter: target audiens, mood, gaya bahasa</li>
+                        <li>Hasil lebih unik — gak mentok di template yang itu-itu aja</li>
+                        <li>Topik viral Indonesia tiap pagi (5 topik)</li>
+                        <li>Broadcast tips harian eksklusif</li>
+                        <li>Prioritas antrian — gak nunggu lama</li>
+                        <li>Harga terkunci 12 bulan (gak naik)</li>
+                    </ul>
+                    <a href="https://t.me/cuan_threadskit_bot" class="tier-cta primary" target="_blank">
+                        Chat Bot — Rp 1.399K/tahun →
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="upsell-section">
+        <div class="container">
+            <h2>🎯 Khusus Pemilik Basic — Kesempatan Sekali!</h2>
+            <p>Kalo kamu beli Basic terus upgrade ke Pro,<br>
+            kamu dapet harga spesial yang gak bakal muncul lagi.</p>
+            <div class="upsell-price">
+                Rp 99K <span>Rp 139K</span>
+            </div>
+            <p style="color: var(--gray-400); font-size: 0.95rem;">
+                Per bulan — hemat Rp 40K dari harga normal
+            </p>
+            <p style="color: var(--gray-400); font-size: 0.85rem; margin-top: 12px;">
+                Atau ambil tahunan <strong style="color: var(--white);">Rp 999K</strong> 
+                (setara Rp 83K/bln — hemat Rp 400K)
+            </p>
+            <p class="upsell-note">
+                ⚠️ Penawaran ini cuma SEKALI. Kalo dilewatin, gak bisa balik lagi.
+            </p>
+            <a href="https://t.me/cuan_threadskit_bot" class="btn-primary" target="_blank">
+                Chat Bot — Lock Rp 99K/bln →
+            </a>
+        </div>
+    </section>
+
+    <section class="vs-section">
+        <div class="container">
+            <h2 style="text-align:center; margin-bottom: 36px;">Basic vs Pro — Lengkap</h2>
+            <div class="vs-grid">
+                <div class="vs-row vs-header">
+                    <span class="vs-name">Fitur</span>
+                    <span class="vs-check">Basic</span>
+                    <span class="vs-check">Pro</span>
+                </div>
+                <div class="vs-row">
+                    <span class="vs-name">Generate konten</span>
+                    <span class="vs-check">21x/minggu</span>
+                    <span class="vs-check">105x/minggu</span>
+                </div>
+                <div class="vs-row">
+                    <span class="vs-name">Topik viral tiap pagi</span>
+                    <span class="vs-check">✓</span>
+                    <span class="vs-check">✓</span>
+                </div>
+                <div class="vs-row">
+                    <span class="vs-name">Broadcast tips harian</span>
+                    <span class="vs-check">✓</span>
+                    <span class="vs-check">✓</span>
+                </div>
+                <div class="vs-row">
+                    <span class="vs-name">Pilih objektif konten</span>
+                    <span class="vs-cross">×</span>
+                    <span class="vs-check">5 pilihan (Engagement, Reach, dll)</span>
+                </div>
+                <div class="vs-row">
+                    <span class="vs-name">Kustomisasi parameter</span>
+                    <span class="vs-cross">×</span>
+                    <span class="vs-check">Target audiens, mood, gaya, dll</span>
+                </div>
+                <div class="vs-row">
+                    <span class="vs-name">Topik viral tiap pagi</span>
+                    <span class="vs-check">✓</span>
+                    <span class="vs-check">✓</span>
+                </div>
+                <div class="vs-row">
+                    <span class="vs-name">Broadcast tips harian</span>
+                    <span class="vs-check">✓</span>
+                    <span class="vs-check">✓</span>
+                </div>
+                <div class="vs-row">
+                    <span class="vs-name">Kecepatan generate</span>
+                    <span class="vs-cross">Antrian (bisa lambat)</span>
+                    <span class="vs-check">Prioritas (cepat)</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="obj-section">
+        <div class="container-wide">
+            <h2 style="text-align:center; margin-bottom: 16px;">Pilih objektif konten kamu</h2>
+            <p style="text-align:center; color: var(--gray-600); margin-bottom: 8px; max-width: 520px; margin-left: auto; margin-right: auto;">
+                Pas generate, kamu bisa pilih tujuan thread-nya. Jadi hasilnya sesuai sama yang kamu mau — 
+                bukan hasil random yang kadang meleset.
+            </p>
+            <div class="how-grid">
+                <div class="how-card">
+                    <span class="how-icon">🔥</span>
+                    <h3>Engagement</h3>
+                    <p>Bikin orang komen & diskusi. Thread diakhiri pertanyaan atau polling. Cocok buat akun yang baru mulai — engagement bikin algoritma suka.</p>
+                </div>
+                <div class="how-card">
+                    <span class="how-icon">🌊</span>
+                    <h3>Reach</h3>
+                    <p>Optimisasi biar banyak dilihat & di-share. Hook kuat, topik trending, format yang gampang dicerna. Cocok buat branding.</p>
+                </div>
+                <div class="how-card">
+                    <span class="how-icon">👥</span>
+                    <h3>Community</h3>
+                    <p>Bangun rasa "kita" — cerita personal yang relate, ajak diskusi, buat orang merasa terwakili. Cocok buat bangun pengikut setia.</p>
+                </div>
+                <div class="how-card">
+                    <span class="how-icon">🏆</span>
+                    <h3>Authority</h3>
+                    <p>Tampil sebagai ahli. Data, pengalaman, insight. Bikin orang percaya & nonton thread kamu sampe akhir. Cocok buat personal branding.</p>
+                </div>
+                <div class="how-card">
+                    <span class="how-icon">💰</span>
+                    <h3>Selling</h3>
+                    <p>Soft selling via affiliate link. Cerita yang natural, showcase produk tanpa kaya sales, CTA yang bikin orang penasaran klik link kamu.</p>
+                </div>
+                <div class="how-card">
+                    <span class="how-icon">🎛️</span>
+                    <h3>+ Parameter Lain</h3>
+                    <p>Target audiens (ibu muda, mahasiswa, karyawan), mood (lucu, serius, inspiratif), panjang thread — semua bisa diatur sebelum generate.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="faq-section">
+        <div class="container">
+            <h2 style="text-align:center; margin-bottom: 36px;">Pertanyaan Pro</h2>
+            <div class="faq-list">
+                <div class="faq-item">
+                    <div class="faq-q" onclick="toggleFaq(this)">Apa bedanya Pro sama Basic?</div>
+                    <div class="faq-a"><p>Basic: 21x generate/minggu, hasil standar. Pro: 105x generate/minggu + bisa pilih objektif (engagement, reach, authority, dll) + kustomisasi target audiens, mood, gaya bahasa. Plus prioritas antrian dan komunitas eksklusif.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-q" onclick="toggleFaq(this)">Objektif konten itu apa?</div>
+                    <div class="faq-a"><p>Pas generate, kamu pilih mau thread-nya fokus ke mana: Engagement (banyak komen), Reach (banyak dilihat), Community (bangun pengikut setia), Authority (jadi trusted), atau Selling (promosi affiliate). Setiap objektif beda pendekatan dan gaya nulisnya.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-q" onclick="toggleFaq(this)">Harga Rp 99K itu beneran? Syaratnya apa?</div>
+                    <div class="faq-a"><p>Khusus pemilik Basic. Pas kamu aktivasi Basic, muncul penawaran upgrade ke Pro cuma Rp 99K/bln (atau Rp 999K/tahun). Tapi cuma SEKALI — kalo dilewatin, harga balik ke Rp 139K/bln.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-q" onclick="toggleFaq(this)">Bisa upgrade dari Basic ke Pro?</div>
+                    <div class="faq-a"><p>Bisa. Chat bot /beli pro setelah aktivasi Basic. Kalo kamu lewatin penawaran spesial, harga normal Rp 139K/bln.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-q" onclick="toggleFaq(this)">Bisa berhenti langganan?</div>
+                    <div class="faq-a"><p>Bisa kapan aja. Chat admin. Akses Pro berlaku sampe akhir periode yang udah dibayar.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-q" onclick="toggleFaq(this)">Kalo jatah 105x abis?</div>
+                    <div class="faq-a"><p>Bisa beli token top-up mulai Rp 5K untuk 10 token. Token gak pernah kedaluwarsa.</p></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="final-cta">
+        <div class="container">
+            <h2>Siap naik level?</h2>
+            <p>105x generate/minggu. Pilih objektif. Kustomisasi parameter.<br>
+            Chat bot sekarang buat mulai.</p>
+            <a href="https://t.me/cuan_threadskit_bot" class="btn-primary" target="_blank">
+                Chat ke Bot — Mulai Pro →
+            </a>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-links">
+                <a href="/">Beranda</a>
+                <a href="agency.html">Agency</a>
+            </div>
+            <p class="footer-copy">© 2026 CuanAffiliate</p>
+        </div>
+    </footer>
+
+    <script>
+        function toggleFaq(el) {
+            const item = el.parentElement;
+            const isOpen = item.classList.contains('open');
+            document.querySelectorAll('.faq-item').forEach(i => i.classList.remove('open'));
+            if (!isOpen) item.classList.add('open');
+        }
+    </script>
+</body>
+</html>

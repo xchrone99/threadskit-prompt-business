@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agency — Cuan ThreadsKit by CuanAffiliate</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --black: #0a0a0a; --white: #ffffff; --gray-100: #f5f5f5;
+            --gray-200: #e8e8e8; --gray-400: #999; --gray-600: #555;
+            --accent: #1a1a1a; --highlight: #f0ff44; --highlight-dark: #d4e000;
+            --green: #00c853; --radius: 12px; --radius-lg: 20px;
+        }
+        html { scroll-behavior: smooth; font-size: 18px; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--white); color: var(--black); line-height: 1.6; }
+        h1, h2, h3 { line-height: 1.2; font-weight: 700; letter-spacing: -0.02em; }
+        h1 { font-size: clamp(2rem, 5vw, 3.2rem); }
+        h2 { font-size: clamp(1.4rem, 3.5vw, 2.2rem); }
+        .container { max-width: 720px; margin: 0 auto; padding: 0 24px; }
+        .container-wide { max-width: 960px; margin: 0 auto; padding: 0 24px; }
+        section { padding: 80px 0; }
+
+        .announcement-bar { background: var(--highlight); color: var(--black); text-align: center; padding: 14px 24px; font-size: 0.95rem; font-weight: 700; }
+        nav { position: sticky; top: 0; background: rgba(255,255,255,0.95); backdrop-filter: blur(12px); border-bottom: 1px solid var(--gray-200); z-index: 100; padding: 16px 0; }
+        .nav-inner { max-width: 960px; margin: 0 auto; padding: 0 24px; display: flex; justify-content: space-between; align-items: center; }
+        .nav-logo { font-size: 1.2rem; font-weight: 800; color: var(--black); text-decoration: none; }
+        .nav-logo span { color: var(--gray-400); }
+        .nav-cta { background: var(--black); color: var(--white); padding: 10px 20px; border-radius: 8px; font-size: 0.95rem; font-weight: 600; text-decoration: none; transition: opacity 0.2s; }
+        .nav-cta:hover { opacity: 0.8; }
+
+        .hero { padding: 100px 0 60px; text-align: center; background: var(--black); color: var(--white); }
+        .hero h1 { color: var(--white); margin-bottom: 20px; }
+        .hero .highlight-text { background: var(--highlight); color: var(--black); padding: 0 6px; border-radius: 4px; }
+        .hero-sub { font-size: 1.15rem; color: var(--gray-400); max-width: 560px; margin: 0 auto 36px; }
+        .hero .hero-stat-number { color: var(--white); }
+        .hero .hero-stat-label { color: var(--gray-400); }
+        .hero-stats { display: flex; justify-content: center; gap: 40px; margin-bottom: 40px; flex-wrap: wrap; }
+        .hero-stat { text-align: center; }
+        .hero-stat-number { font-size: 1.6rem; font-weight: 800; }
+        .hero-stat-label { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; margin-top: 2px; }
+
+        .btn-primary { display: inline-flex; align-items: center; gap: 8px; background: var(--black); color: var(--white); padding: 16px 32px; border-radius: var(--radius); font-size: 1rem; font-weight: 700; text-decoration: none; transition: transform 0.2s; border: none; cursor: pointer; }
+        .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.2); }
+        .hero .btn-primary { background: var(--highlight); color: var(--black); font-size: 1.05rem; padding: 18px 40px; }
+        .hero .btn-primary:hover { background: var(--highlight-dark); }
+
+        .value-prop-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; margin-top: 48px; }
+        .vp-card { background: var(--gray-100); border-radius: var(--radius); padding: 28px; text-align: center; }
+        .vp-icon { font-size: 2rem; margin-bottom: 12px; display: block; }
+        .vp-card h3 { font-size: 1.1rem; margin-bottom: 8px; }
+        .vp-card p { font-size: 0.95rem; color: var(--gray-600); }
+
+        .pricing-card { border: 2px solid var(--black); border-radius: var(--radius-lg); padding: 40px 32px; position: relative; box-shadow: 0 8px 48px rgba(0,0,0,0.12); text-align: center; max-width: 420px; margin: 0 auto; }
+        .featured-badge { position: absolute; top: -14px; left: 50%; transform: translateX(-50%); background: var(--black); color: var(--white); font-size: 0.85rem; font-weight: 700; padding: 6px 18px; border-radius: 100px; white-space: nowrap; }
+        .tier-name { font-size: 0.9rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: var(--gray-400); margin-bottom: 8px; }
+        .tier-price { display: flex; align-items: baseline; justify-content: center; gap: 4px; margin-bottom: 4px; }
+        .price-currency { font-size: 1rem; font-weight: 700; }
+        .price-amount { font-size: 2.8rem; font-weight: 800; letter-spacing: -0.04em; line-height: 1; }
+        .price-original { font-size: 0.9rem; color: var(--gray-400); text-decoration: line-through; margin-left: 4px; }
+        .price-note { font-size: 0.9rem; color: var(--gray-400); margin-bottom: 24px; }
+        .tier-desc { font-size: 1rem; color: var(--gray-600); margin-bottom: 24px; padding-bottom: 24px; border-bottom: 1px solid var(--gray-200); }
+        .feature-list { list-style: none; display: flex; flex-direction: column; gap: 12px; margin-bottom: 28px; text-align: left; max-width: 340px; margin-left: auto; margin-right: auto; }
+        .feature-list li { display: flex; align-items: flex-start; gap: 10px; font-size: 1rem; color: var(--gray-600); }
+        .feature-list li::before { content: '✓'; color: var(--green); font-weight: 700; flex-shrink: 0; margin-top: 1px; }
+        .tier-cta { display: block; text-align: center; padding: 16px; border-radius: var(--radius); font-weight: 700; font-size: 1.05rem; text-decoration: none; background: var(--black); color: var(--white); transition: all 0.2s; }
+        .tier-cta:hover { background: var(--gray-800); }
+
+        .income-section { background: var(--gray-100); }
+        .income-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; }
+        .income-card { background: var(--white); border: 1px solid var(--gray-200); border-radius: var(--radius); padding: 24px; text-align: center; }
+        .income-card .amount { font-size: 1.4rem; font-weight: 800; color: var(--black); margin-bottom: 4px; }
+        .income-card .desc { font-size: 0.9rem; color: var(--gray-600); }
+        .income-card .via { font-size: 0.85rem; color: var(--gray-400); margin-top: 8px; }
+
+        .faq-section { background: var(--gray-100); }
+        .faq-list { max-width: 600px; margin: 0 auto; }
+        .faq-item { background: var(--white); border: 1px solid var(--gray-200); border-radius: var(--radius); margin-bottom: 8px; overflow: hidden; }
+        .faq-q { padding: 20px 24px; font-weight: 600; font-size: 1.05rem; cursor: pointer; display: flex; justify-content: space-between; align-items: center; user-select: none; }
+        .faq-q::after { content: '+'; font-size: 1.2rem; color: var(--gray-400); font-weight: 300; transition: transform 0.2s; }
+        .faq-item.open .faq-q::after { transform: rotate(45deg); }
+        .faq-a { padding: 0 24px; max-height: 0; overflow: hidden; transition: max-height 0.3s ease, padding 0.3s; }
+        .faq-item.open .faq-a { max-height: 400px; padding: 0 24px 20px; }
+        .faq-a p { font-size: 1rem; }
+
+        .final-cta { background: var(--black); color: var(--white); padding: 100px 0; text-align: center; }
+        .final-cta h2 { color: var(--white); margin-bottom: 16px; }
+        .final-cta p { color: var(--gray-400); margin-bottom: 40px; font-size: 1.05rem; }
+        .final-cta .btn-primary { background: var(--highlight); color: var(--black); font-size: 1.05rem; padding: 18px 40px; }
+        .final-cta .btn-primary:hover { background: var(--highlight-dark); }
+
+        .testi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
+        .testi-card { background: var(--gray-100); border-radius: var(--radius); padding: 28px; }
+        .testi-quote { font-size: 1.05rem; line-height: 1.65; margin-bottom: 16px; font-style: italic; }
+        .testi-name { font-weight: 700; font-size: 0.95rem; }
+
+        footer { padding: 32px 0; border-top: 1px solid var(--gray-200); text-align: center; }
+        .footer-links { display: flex; justify-content: center; gap: 24px; margin-bottom: 12px; flex-wrap: wrap; }
+        .footer-links a { font-size: 0.9rem; color: var(--gray-400); text-decoration: none; }
+        .footer-links a:hover { color: var(--black); }
+        .footer-copy { font-size: 0.9rem; color: var(--gray-400); }
+
+        .vs-grid { max-width: 600px; margin: 0 auto; }
+        .vs-row { display: flex; justify-content: space-between; align-items: center; padding: 16px 20px; background: var(--white); border: 1px solid var(--gray-200); margin-bottom: 6px; border-radius: var(--radius); }
+        .vs-row.vs-header { background: var(--black); color: var(--white); border-color: var(--black); font-weight: 700; }
+        .vs-row.vs-header .vs-name { color: var(--white); }
+        .vs-name { font-size: 0.95rem; font-weight: 600; color: var(--black); }
+        .vs-check { color: var(--green); font-weight: 700; }
+        .vs-cross { color: var(--gray-300); }
+
+        @media (max-width: 640px) {
+            html { font-size: 16px; }
+            section { padding: 60px 0; }
+            .hero { padding: 60px 0 40px; }
+            .hero-stats { gap: 24px; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="announcement-bar">
+        🔥 Rp 999K sekali. Komisi 40% dari setiap penjualan Basic & Pro. Gak perlu stok barang.
+    </div>
+
+    <nav>
+        <div class="nav-inner">
+            <a href="/" class="nav-logo">Cuan<span>ThreadsKit</span></a>
+            <a href="/" class="nav-cta">← Balik ke Beranda</a>
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div class="container">
+            <h1>
+                Dapet komisi 40% dari<br>
+                <span class="highlight-text">setiap produk yang terjual</span>
+            </h1>
+            <p class="hero-sub">
+                Agency itu lisensi affiliate resmi Cuan ThreadsKit. 
+                Share link kamu ke grup WA, arisan, atau medsos — 
+                kalo ada yang beli Basic atau Pro lewat link kamu, 
+                dapet 40% dari harganya. Gak perlu stok, gak perlu jualan fisik.
+            </p>
+            <div class="hero-stats">
+                <div class="hero-stat">
+                    <div class="hero-stat-number">210x</div>
+                    <div class="hero-stat-label">Generate Konten/Minggu</div>
+                </div>
+                <div class="hero-stat">
+                    <div class="hero-stat-number">40%</div>
+                    <div class="hero-stat-label">Komisi Dari Semua Produk</div>
+                </div>
+                <div class="hero-stat">
+                    <div class="hero-stat-number">Rp 0</div>
+                    <div class="hero-stat-label">Modal — Gak Perlu Stok Barang</div>
+                </div>
+            </div>
+            <a href="#pricing" class="btn-primary">Mulai — Rp 999K →</a>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <h2 style="text-align:center; margin-bottom: 16px;">Yang udah jalan sekarang</h2>
+            <p style="text-align:center; color: var(--gray-600); margin-bottom: 8px; max-width: 480px; margin-left: auto; margin-right: auto;">
+                Semua fitur ini udah siap dipake langsung. 
+                Gak ada "coming soon", gak ada janji.
+            </p>
+            <div class="value-prop-grid">
+                <div class="vp-card">
+                    <span class="vp-icon">📱</span>
+                    <h3>Generate 210x/minggu</h3>
+                    <p>10x lipat Basic. Cukup buat manage banyak akun Threads atau jualan jasa konten ke orang lain.</p>
+                </div>
+                <div class="vp-card">
+                    <span class="vp-icon">💰</span>
+                    <h3>Komisi 40% dari Basic</h3>
+                    <p>Kalo ada yang bel Basic lewat link kamu: Rp 69K × 40% = <strong>Rp 27.600</strong> langsung masuk saldo komisi.</p>
+                </div>
+                <div class="vp-card">
+                    <span class="vp-icon">📈</span>
+                    <h3>Komisi 40% dari Pro</h3>
+                    <p>Kalo yang beli Pro: Rp 139K × 40% = <strong>Rp 55.600</strong>. Apalagi kalo yang ambil tahunan (Rp 1.399K × 40% = Rp 559K).</p>
+                </div>
+                <div class="vp-card">
+                    <span class="vp-icon">🔗</span>
+                    <h3>Link Referral Unik</h3>
+                    <p>Dapet link sendiri: t.me/cuan_threadskit_bot?start=ref_{id}. Share ke grup WA, medsos, atau chat pribadi.</p>
+                </div>
+                <div class="vp-card">
+                    <span class="vp-icon">🤖</span>
+                    <h3>Model AI Premium</h3>
+                    <p>Prioritas Gemini 2.5 Pro — hasil konten natural, hook kuat, siap posting. Beda sama Basic yang pake standar.</p>
+                </div>
+                <div class="vp-card">
+                    <span class="vp-icon">⭐</span>
+                    <h3>Semua Fitur Pro</h3>
+                    <p>Topik viral tiap pagi + broadcast tips harian + prioritas antrian generate. Sama kayak Pro, cuma jatahnya lebih gede + dapet komisi.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="income-section">
+        <div class="container">
+            <h2 style="text-align:center; margin-bottom: 36px;">Simulasi komisi</h2>
+            <p style="text-align:center; color: var(--gray-600); margin-bottom: 36px; max-width: 480px; margin-left: auto; margin-right: auto;">
+                Hitungan kasar kalo kamu referral ke grup WA/arisan/temen.
+            </p>
+            <div class="income-grid">
+                <div class="income-card">
+                    <div class="amount">Rp 69K</div>
+                    <div class="desc">Komisi dari 5 referral Basic</div>
+                    <div class="via">5 × Rp 69K × 40% = Rp 138K</div>
+                </div>
+                <div class="income-card">
+                    <div class="amount">Rp 278K</div>
+                    <div class="desc">Komisi dari 5 referral Pro</div>
+                    <div class="via">5 × Rp 139K × 40% = Rp 278K</div>
+                </div>
+                <div class="income-card">
+                    <div class="amount">Rp 416K</div>
+                    <div class="desc">Campur: 5 Basic + 5 Pro</div>
+                    <div class="via">Rp 138K + Rp 278K</div>
+                </div>
+                <div class="income-card">
+                    <div class="amount">Rp 1,9 JT</div>
+                    <div class="desc">Kalo ada 1 yang ambil Pro tahunan</div>
+                    <div class="via">Rp 1.399K × 40% = Rp 559K + referral lain</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="pricing">
+        <div class="container">
+            <h2 style="text-align:center; margin-bottom: 12px;">Investasi sekali, komisi terus</h2>
+            <p style="text-align:center; color: var(--gray-600); margin-bottom: 40px;">Balik modal dalam 1-2 bulan kalo aktif share link.</p>
+            <div class="pricing-card">
+                <div class="featured-badge">Best Value</div>
+                <div class="tier-name">👑 Agency License</div>
+                <div class="tier-price">
+                    <span class="price-currency">Rp</span>
+                    <span class="price-amount">999K</span>
+                    <span class="price-original">Rp 1.999K</span>
+                </div>
+                <div class="price-note">Sekali bayar — komisi 40% selamanya</div>
+                <div class="tier-desc">
+                    Ini lisensi affiliate. Share link, orang beli, kamu dapet komisi. 
+                    Gak perlu jualan fisik, gak perlu stok, gak perlu customer service.
+                </div>
+                <ul class="feature-list">
+                    <li>210x generate konten per minggu via bot</li>
+                    <li>Komisi 40% dari penjualan Basic (Rp 27.600/transaksi)</li>
+                    <li>Komisi 40% dari penjualan Pro (Rp 55.600/bln atau Rp 559K/tahun)</li>
+                    <li>Link referral unik — share ke grup WA, medsos, chat</li>
+                    <li>Cek saldo komisi via bot (/komisi)</li>
+                    <li>Model AI premium (Gemini 2.5 Pro) — prioritas</li>
+                    <li>Topik viral tiap pagi + broadcast tips harian</li>
+                    <li>Prioritas antrian — gak nunggu lama pas generate</li>
+                </ul>
+                <a href="https://t.me/cuan_threadskit_bot" class="tier-cta" target="_blank">
+                    Chat Bot — Ambil Agency →
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="container-wide">
+            <h2 style="text-align:center; margin-bottom: 36px;">Yang udah jalan</h2>
+            <div class="testi-grid">
+                <div class="testi-card">
+                    <p class="testi-quote">"Awalnya coba iseng share link ke grup arisan. Minggu pertama 2 orang beli Basic. Komisi Rp 55K — lumayan buat beli pulsa."</p>
+                    <div class="testi-name">— Sari, 34 · Ibu RT, Bandung</div>
+                </div>
+                <div class="testi-card">
+                    <p class="testi-quote">"Gue punya Basic dulu, trus naik ke Agency karena itung-itungan: kalo referral doang 40% balik modal 2-3 bulan. Ternyata 1 bulan udah balik."</p>
+                    <div class="testi-name">— Fajar, 25 · Mahasiswa, Yogyakarta</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <h2 style="text-align:center; margin-bottom: 36px;">Basic vs Pro vs Agency</h2>
+            <div class="vs-grid">
+                <div class="vs-row vs-header">
+                    <span class="vs-name">Fitur</span>
+                    <span class="vs-check">Basic</span>
+                    <span class="vs-check">Pro</span>
+                    <span class="vs-check">Agency</span>
+                </div>
+                <div class="vs-row">
+                    <span class="vs-name">Generate/minggu</span>
+                    <span class="vs-check">21x</span>
+                    <span class="vs-check">105x</span>
+                    <span class="vs-check">210x</span>
+                </div>
+                <div class="vs-row">
+                    <span class="vs-name">Model AI</span>
+                    <span class="vs-cross">Standar</span>
+                    <span class="vs-check">Premium</span>
+                    <span class="vs-check">Premium</span>
+                </div>
+                <div class="vs-row">
+                    <span class="vs-name">Topik viral + tips</span>
+                    <span class="vs-check">✓</span>
+                    <span class="vs-check">✓</span>
+                    <span class="vs-check">✓</span>
+                </div>
+                <div class="vs-row">
+                    <span class="vs-name">Komisi referral</span>
+                    <span class="vs-cross">20%</span>
+                    <span class="vs-cross">—</span>
+                    <span class="vs-check">40%</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="faq-section">
+        <div class="container">
+            <h2 style="text-align:center; margin-bottom: 36px;">Pertanyaan Agency</h2>
+            <div class="faq-list">
+                <div class="faq-item">
+                    <div class="faq-q" onclick="toggleFaq(this)">Apa bedanya Agency sama Pro?</div>
+                    <div class="faq-a"><p>Pro = pemakaian pribadi (105x generate/minggu, AI premium). Agency = generate lebih gede (210x) + dapet komisi 40% dari penjualan Basic & Pro lewat link kamu.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-q" onclick="toggleFaq(this)">Komisi diitung gimana?</div>
+                    <div class="faq-a"><p>40% dari harga produk. Contoh: referral beli Basic Rp 69K → Rp 27.600 masuk saldo komisi. Referral beli Pro Rp 139K/bln → Rp 55.600 masuk tiap bulan selama dia bayar. Komisi bisa dicairkan via admin (/komisi di bot).</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-q" onclick="toggleFaq(this)">Kalo udah punya Basic, naik ke Agency gimana?</div>
+                    <div class="faq-a"><p>Chat bot /beli agency. Komisi kamu naik dari 20% (Basic) jadi 40% (Agency) — berlaku untuk transaksi setelah upgrade. Transaksi sebelum upgrade tetap 20%.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-q" onclick="toggleFaq(this)">Apakah ini MLM?</div>
+                    <div class="faq-a"><p>Bukan. MLM punya struktur bertingkat dan biaya pendaftaran berlapis. Ini affiliate murni — 1 level, share link, dapet komisi. Gak ada rekrutmen wajib, gak ada target, gak ada biaya bulanan.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-q" onclick="toggleFaq(this)">Kalo gak punya temen buat referral?</div>
+                    <div class="faq-a"><p>Gapapa. Agency tetep dapet 210x generate/minggu + AI premium — lebih dari cukup buat bikin konten sendiri. Komisi itu bonus kalo referral jalan.</p></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="final-cta">
+        <div class="container">
+            <h2>Jadikan ini bisnismu</h2>
+            <p>Rp 999K sekali. Komisi 40%. AI Premium. 210x generate/minggu.<br>
+            Chat bot sekarang.</p>
+            <a href="https://t.me/cuan_threadskit_bot" class="btn-primary" target="_blank">
+                Chat ke Bot — Ambil Agency →
+            </a>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-links">
+                <a href="/">Beranda</a>
+                <a href="pro.html">Pro</a>
+            </div>
+            <p class="footer-copy">© 2026 CuanAffiliate</p>
+        </div>
+    </footer>
+
+    <script>
+        function toggleFaq(el) {
+            const item = el.parentElement;
+            const isOpen = item.classList.contains('open');
+            document.querySelectorAll('.faq-item').forEach(i => i.classList.remove('open'));
+            if (!isOpen) item.classList.add('open');
+        }
+    </script>
+</body>
+</html>
