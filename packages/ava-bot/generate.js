@@ -3,8 +3,7 @@ const OpenAI = require('openai');
 const FREE_MODEL_CHAIN = [
   { model: 'google/gemma-4-26b-a4b-it:free', retries: 3, delay: 3000 },
   { model: 'nvidia/nemotron-3-super-120b-a12b:free', retries: 2, delay: 2000 },
-  { model: 'liquid/lfm-2.5-1.2b-instruct:free', retries: 1, delay: 1000 },
-  { model: 'openrouter/free', retries: 1, delay: 1000 },
+  { model: 'google/gemma-4-9b-it:free', retries: 2, delay: 2000 },
 ];
 
 const OBJECTIVES = {
